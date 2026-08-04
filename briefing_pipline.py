@@ -18,9 +18,9 @@ ARCHIVE_PATH = "briefing_archive.json"
 FEED_OUTPUT_PATH = "briefing_feed.xml"
 MAX_ARCHIVE_ENTRIES = 60  # ~2 months of daily entries kept in the feed
 
-GEMINI_API_KEY = os.environ["AQ.Ab8RN6KojtWPyfDjZtoDVUhG9zxC1RVhmmhXcprq9uNO9g1Q2w"]
-TELEGRAM_BOT_TOKEN = os.environ["8875038809:AAGJNEoW1bTiFvZwaTbTyLAoZh-SFdnAI0E"]
-TELEGRAM_CHAT_ID = os.environ["1153564506"]
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Set by the GitHub Actions workflow to build the raw feed URL for the Atom <link>
 FEED_PUBLIC_URL = os.environ.get("FEED_PUBLIC_URL", "")
 
