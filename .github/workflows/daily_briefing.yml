@@ -6,6 +6,9 @@ on:
     - cron: "30 7 * * *"
   workflow_dispatch: {}  # lets you manually trigger a run from the Actions tab to test
 
+permissions:
+  contents: write  # required so the workflow can commit seen_ids.json / briefing_archive.json / briefing_feed.xml back to the repo
+
 jobs:
   run-briefing:
     runs-on: ubuntu-latest
