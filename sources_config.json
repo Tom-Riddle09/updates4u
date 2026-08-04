@@ -1,0 +1,190 @@
+{
+  "briefing_config": {
+    "items_per_category": 4,
+    "show_source": true,
+    "delivery": "telegram_push",
+    "delivery_time": "1:00 PM IST"
+  },
+  "categories": {
+    "career": {
+      "label": "\ud83d\udcbc CAREER (Cybersecurity + Employed Individual)",
+      "filter_hint": "Two things merged: (1) Cybersecurity vulnerabilities, breaches, advisories, SOC/blue-team relevant news - exclude generic 'AI safety' or big-tech policy unless directly security-related. (2) Practical updates for a salaried Indian employee - tax rules, labor law changes, government scheme updates, compliance deadlines.",
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "type": "rss",
+          "url": "https://feeds.feedburner.com/TheHackersNews",
+          "verified": false
+        },
+        {
+          "name": "BleepingComputer",
+          "type": "rss",
+          "url": "https://www.bleepingcomputer.com/feed/",
+          "verified": false
+        },
+        {
+          "name": "Krebs on Security",
+          "type": "rss",
+          "url": "https://krebsonsecurity.com/feed/",
+          "verified": false
+        },
+        {
+          "name": "r/netsec",
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/netsec/.rss",
+          "verified": false
+        },
+        {
+          "name": "PIB (Press Information Bureau)",
+          "type": "rss",
+          "url": "https://www.pib.gov.in/ViewRss.aspx?reg=1&lang=1",
+          "verified": true
+        },
+        {
+          "name": "r/developersIndia",
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/developersIndia/.rss",
+          "verified": false
+        },
+        {
+          "name": "r/IndiaInvestments",
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/IndiaInvestments/.rss",
+          "verified": false
+        }
+      ],
+      "notes": "Merged from cybersecurity + employed_individual. CERT-In has no reliable public RSS (checked) - skipped, major advisories get picked up by THN/BleepingComputer anyway. EPFO/Income Tax Dept scraping deferred - add later if gaps noticed."
+    },
+    "finance": {
+      "label": "\ud83d\udcb0 FINANCE (India + Global)",
+      "filter_hint": "Finance news affecting individuals - markets, RBI policy, interest rates, major global economic shifts. Exclude stock tips/day-trading noise.",
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "type": "rss",
+          "url": "https://www.moneycontrol.com/rss/latestnews.xml",
+          "verified": false
+        },
+        {
+          "name": "Economic Times Markets",
+          "type": "rss",
+          "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+          "verified": false
+        },
+        {
+          "name": "LiveMint Markets",
+          "type": "rss",
+          "url": "https://www.livemint.com/rss/markets",
+          "verified": false
+        }
+      ],
+      "notes": "EPFO skipped for v1 - major announcements (PF interest rate, withdrawal rules) get covered by these finance sources same-day. Reuters dropped - no public RSS since 2020."
+    },
+    "india_news": {
+      "label": "\ud83c\uddee\ud83c\uddf3 INDIA NEWS",
+      "filter_hint": "General India news - politics, policy, civic affairs, major events. Strictly exclude celebrity gossip, entertainment, sports scores.",
+      "sources": [
+        {
+          "name": "PIB (Press Information Bureau)",
+          "type": "rss",
+          "url": "https://www.pib.gov.in/ViewRss.aspx?reg=1&lang=1",
+          "verified": true
+        },
+        {
+          "name": "The Hindu - National",
+          "type": "rss",
+          "url": "https://www.thehindu.com/news/national/?service=rss",
+          "verified": false
+        },
+        {
+          "name": "Indian Express - India",
+          "type": "rss",
+          "url": "https://indianexpress.com/section/india/feed/",
+          "verified": false
+        },
+        {
+          "name": "PeekTV (independent media, YouTube)",
+          "type": "rss",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF_kWxafJ5Nr0OLd9aoCHsQ",
+          "verified": true
+        },
+        {
+          "name": "PeekTV Newsletter (via Kill the Newsletter)",
+          "type": "rss",
+          "url": "https://kill-the-newsletter.com/feeds/s7z26dr7dkqdvlqghbxo.xml",
+          "verified": true
+        },
+        {
+          "name": "The Wire (via Kill the Newsletter)",
+          "type": "rss",
+          "url": "https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn.xml",
+          "verified": true
+        }
+      ],
+      "notes": "PeekTV YouTube added as independent media counterweight - title-only since it's video-based. PeekTV Newsletter and The Wire added via KTN - full text content, no title-only limitation."
+    },
+    "world_news": {
+      "label": "\ud83c\udf0d WORLD NEWS",
+      "filter_hint": "Major world news - geopolitics, global events with broad relevance. Brief, headline-level only.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "type": "rss",
+          "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+          "verified": true
+        },
+        {
+          "name": "Al Jazeera",
+          "type": "rss",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "verified": true
+        }
+      ],
+      "notes": "Reuters dropped - no public RSS since 2020 (confirmed). AP News has no clean public RSS either, skipped. BBC + Al Jazeera give good coverage breadth (Western + Middle East-based perspective)."
+    },
+    "venture": {
+      "label": "\ud83c\udfac VENTURE (AI & Content Creation)",
+      "filter_hint": "AI video/image generation tool updates (Kling, LTX, Flux, Runway, Leonardo, etc.), YouTube creator platform changes, content monetization policy. Exclude general AI research, benchmark wars, big-tech AI politics/drama.",
+      "sources": [
+        {
+          "name": "Ben's Bites",
+          "type": "rss",
+          "url": "https://www.bensbites.com/feed",
+          "verified": false
+        },
+        {
+          "name": "r/StableDiffusion",
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/StableDiffusion/.rss",
+          "verified": false
+        },
+        {
+          "name": "Product Hunt - AI category",
+          "type": "rss",
+          "url": "https://www.producthunt.com/feed",
+          "verified": false
+        }
+      ],
+      "notes": "Renamed from ai_content_creation. For AI YouTube channel business tracking. Consider adding YouTube Creator Insider blog once identified. Instagram/X caption scraping ruled out - no free official API access for third-party public profiles (confirmed)."
+    },
+    "ongoing_events": {
+      "label": "\ud83d\udd25 ON-GOING EVENTS",
+      "filter_hint": "Temporary, event-specific tracking. Whatever sources are listed here are tied to an active, time-bound situation - remove the source once the event concludes.",
+      "sources": [
+        {
+          "name": "Cockroach Janta Party protests (Google News search)",
+          "type": "rss",
+          "url": "https://news.google.com/rss/search?q=Cockroach+Janta+Party&hl=en-IN&gl=IN&ceid=IN:en",
+          "verified": true
+        },
+        {
+          "name": "BoomLive (Fact-checking, via Kill the Newsletter)",
+          "type": "rss",
+          "url": "https://kill-the-newsletter.com/feeds/eywclcewop00mwbynkec.xml",
+          "verified": true
+        }
+      ],
+      "notes": "Add/remove sources here as events arise and resolve. This category is meant to stay temporary - periodically review and clear out concluded events."
+    }
+  }
+}
