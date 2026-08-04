@@ -1,0 +1,38 @@
+name: Daily News Briefing
+
+on:
+  schedule:
+    # 7:30 UTC = 1:00 PM IST
+    - cron: "30 7 * * *"
+  workflow_dispatch: {}  # lets you manually trigger a run from the Actions tab to test
+
+jobs:
+  run-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests feedparser
+
+      - name: Run briefing pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FEED_PUBLIC_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/briefing_feed.xml
+        run: python briefing_pipeline.py
+
+      - name: Commit updated state files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_ids.json briefing_archive.json briefing_feed.xml
+          git diff --staged --quiet || git commit -m "Update briefing state [skip ci]"
+          git push
