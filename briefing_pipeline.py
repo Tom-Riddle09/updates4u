@@ -105,11 +105,14 @@ category's guidance. Write a single concise one-sentence summary per item (plain
 Skip items that are trivial, redundant, or off-topic per the guidance - if there are fewer than
 {{max_items}} genuinely relevant items in a category, return fewer rather than padding with filler.
 
+IMPORTANT: Do NOT retype the title or invent a link. Just return the index number of the item you
+selected (the number in square brackets before each item below) plus your one-sentence summary.
+
 Return ONLY valid JSON in this exact structure, no markdown fences, no preamble:
 
 {{{{
   "category_key": [
-    {{{{"title": "...", "summary": "...", "source": "..."}}}}
+    {{{{"index": 0, "summary": "..."}}}}
   ]
 }}}}
 
@@ -136,6 +139,28 @@ def call_gemini(prompt, max_items):
     return json.loads(text)
 
 
+def resolve_selection(selection, all_category_items):
+    """Map Gemini's {index, summary} picks back to the real fetched item (title/source/link),
+    so links are always the genuine fetched URL - never something the model retyped."""
+    resolved = {}
+    for cat_key, picks in selection.items():
+        items = all_category_items.get(cat_key, [])
+        resolved_items = []
+        for pick in picks:
+            idx = pick.get("index")
+            if idx is None or idx < 0 or idx >= len(items):
+                continue  # skip anything out of range rather than guess
+            original = items[idx]
+            resolved_items.append({
+                "title": original["title"],
+                "summary": pick.get("summary", "").strip(),
+                "source": original["source"],
+                "link": original["link"],
+            })
+        resolved[cat_key] = resolved_items
+    return resolved
+
+
 def format_briefing(result, category_meta):
     date_str = datetime.now(timezone.utc).strftime("%d %b %Y")
     lines = [f"📰 Daily Briefing — {date_str}\n"]
@@ -146,6 +171,8 @@ def format_briefing(result, category_meta):
         lines.append(meta["label"])
         for item in items:
             lines.append(f"• {item['title']} — {item['summary']} ({item['source']})")
+            if item.get("link"):
+                lines.append(f"  🔗 {item['link']}")
         lines.append("")
     return "\n".join(lines).strip()
 
@@ -229,7 +256,8 @@ def main():
         return
 
     prompt = build_gemini_prompt(all_category_items, categories)
-    result = call_gemini(prompt, max_items)
+    selection = call_gemini(prompt, max_items)
+    result = resolve_selection(selection, all_category_items)
 
     message = format_briefing(result, categories)
     send_telegram(message)
