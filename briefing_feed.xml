@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:briefing:personal-daily-briefing</id>
+  <title>My Daily Briefing</title>
+  <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
+  <updated>2026-08-04T20:22:40Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-04-Aug-2026</id>
+    <title>Daily Briefing — 04 Aug 2026</title>
+    <updated>2026-08-04T20:22:40.659414+00:00</updated>
+    <published>2026-08-04T20:22:40.659414+00:00</published>
+    <content type="text">📰 Daily Briefing — 04 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens — The Greatness phishing-as-a-service toolkit has added support for OAuth 2.0 device code phishing to bypass multi-factor authentication. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html
+• Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks — A credential-stealing npm worm poisoned hundreds of packages across multiple organizations by planting malicious Claude Code and VS Code hooks. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html
+• Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent — Google removed three Python-based AI agent workflows after researchers demonstrated prompt injection vulnerabilities via public GitHub issues. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html
+• Microsoft Patches a Record 570 Security Flaws — Microsoft released software updates to address 570 security vulnerabilities across Windows operating systems and component software. (Krebs on Security)
+  🔗 https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+
+💰 FINANCE (India + Global)
+• US Treasury yields fall as oil retreats on Iran deal hopes, Fed hike bets ease — US Treasury yields declined as falling crude oil prices reduced inflation concerns and tempered Federal Reserve rate hike expectations. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms
+• US Fed's Anna Paulson keeps 'open mind' on rate decisioin as inflation remains too high — A Federal Reserve official signaled support for holding US interest rates steady while monitoring persistent underlying inflation pressures. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
+• Crude oil reverses gains, drops 5% on renewed Middle East peace hopes; Brent falls below $80 — Brent crude oil prices dropped 5% below $80 per barrel amid progressing diplomatic talks regarding the Strait of Hormuz. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-reverses-gains-drops-5-on-renewed-middle-east-peace-hopes-brent-falls-below-80-11785856793729.html
+• Sebi asks brokers to boost retail participation after auction debut — SEBI requested stockbrokers to increase retail investor participation in the new closing auction session to reduce potential market volatility. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/sebi-asks-brokers-to-boost-retail-participation-after-auction-debut-11785853087493.html
+
+🇮🇳 INDIA NEWS
+• Jammu and Kashmir — the elusive quest for Statehood — Jammu and Kashmir completes seven years awaiting the restoration of full statehood and elected governance. (The Hindu - National)
+  🔗 https://www.thehindu.com/opinion/lead/jammu-and-kashmir-the-elusive-quest-for-statehood/article71306297.ece
+• Punjab Assembly passes resolution urging Centre to suspend mandatory rollout of E20 fuel — The Punjab Assembly passed a resolution requesting the central government to suspend the mandatory implementation of E20 fuel. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/punjab/punjab-assembly-passes-resolution-urging-centre-to-suspend-mandatory-rollout-of-e20-fuel/article71307003.ece
+• 20 lakh names left out as first phase of SIR ends in Punjab — Over 20 lakh elector names were categorized as uncollectable during the initial phase of Punjab's voter roll revision. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/punjab/20-lakh-names-left-out-as-first-phase-of-sir-ends-in-punjab/article71305928.ece
+• Extremely heavy rain has triggered landslides and flash floods across Kerala #peektv — Heavy monsoon rains triggered severe landslides and flash flooding across several districts in Kerala. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/KzhDNsR-gg0
+
+🌍 WORLD NEWS
+• EU commends Spain's 'swift response' to Ceuta migrant crisis — Spain returned approximately 70,000 migrants to Morocco following a recent surge in border crossings into Ceuta. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss
+• Evacuations ordered as Guatemala volcano erupts — Guatemala declared an orange alert and ordered local evacuations following an eruption of the Fuego volcano. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss
+• Red Cross urges international aid as Sudan crisis deepens — The Red Cross warned that declining international financial support poses a critical threat to relief efforts in Sudan. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss
+• Telegram says Apple suspension followed content norms violation by one user — Telegram stated its temporary App Store removal stemmed from an isolated user policy violation regarding illegal content. (Al Jazeera)
+  🔗 https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• CJP plans 'nationwide listening tour', announces 2-day strategy meet in Chhatrapati Sambhajinagar on August 5 and 6 - Deccan Herald — The Cockroach Janta Party announced a nationwide listening tour alongside a two-day strategic meeting in Chhatrapati Sambhajinagar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTmxMc1g2UkJfOWdIMjNDRHJTWGdBSG91UVkxOU12VWhiWDBVVUg5eDhPVWxTOXZkNmxMTEF1ck96c29WLVRCbWpRaGo0Zl9fU19GdU1CSEg5MXN1RlB5N29fV2lQSnpFLVhMVjd6UUhkVDhKVV94M3VmSmRZQnZpbHhwT1N3UlFoUmVlZXM0RThMZ2FyQTFWT1VRLWpEdWVKX1dHWTZCblk2QUVqNlo1TkdfTkUwQldsdDNFVUpIbm1OZlIwWUUwN21DenFhclJ0aHFPYWFYcm5rRW9CaWd0TnpINUw4ci1HQzZLdWkxc3NrSV9yczZmTnJuQQ?oc=5
+• Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC — Union Education Minister Dharmendra Pradhan resigned from office, prompting student groups to call off their ongoing strike. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
+• Amid RTI complaint, CJP's Abhijeet Dipke says scholarship, loan financed US education - The New Indian Express — Cockroach Janta Party representative Abhijeet Dipke detailed his academic scholarship history in response to an RTI inquiry. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxONEdOTndRNUZSWkVWOVZQMzlQS2x0ZzdzSTdvazBia3YybnlUcF9MamNHaHRfZjY5OEhMUmVEWS0yNW9fcWZRRlpUNlBVRkpOSzVNVmVtaFFTSkdWTW14akV1NDVDRlZ2ZGZOdWM5aHRUQm1qQkNEUXdpcmc1TTZqdjc2bFpMTmlpQnR6Nk81Y2ZEYUw4VWpwX1hLdU5ydi01WFNmVnRHbE4tWjRPSkV5ZzdlUjU3V3hPcDk1WmI5SUV4RlU4c2gzR0szalc5QdIB2wFBVV95cUxQX09UWTdGY2xKQURId0g2a2w1clVST2ZlOEh3ZkVTYkJfeTNKVlh5RHFYZnRycXFxWXBUQjdmRzZWc0theE9VVVpfVXVub0hyUzR5dEg2UkV1Uk1NY0ZjR24wNXpWOUhyRGdQaTRLMGpDcUZHX2s4X3VHcUpSeFQwcEp6c1lya1BpWlVPUUZyd2dRN1hMNG1OanFtdkktSEZMVDNTVGd6UHlmYWpycS1tR3Jhb3EyOVJaMGYtLVNmTzRwSDFONmVrano2LXNGaEQ4MzVHalhvYXZHaFE?oc=5
+• CJP's Saurav Das on NEET Protests, Police Crackdown, and the Politics of Gen Z - Frontline Magazine — Student leaders outlined future political strategy and addressed law enforcement actions following the NEET examination protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3pVMVVuWFNzdDNSdWNkUl83YnF5RGdlbXNqM3I3blRpY1lvSzh6SklMRU53Sm4wOTN5SklXZTE0X3RVaVlzR29xVDRiLV84UHNGemp0N1JqbjlpN1hWd2FjLXdNSmc1UmpzVkJ0UGZWZUxrTkpfSnBIa3dIdEFMd0k3eWFwa0NGMnYwMUhYa3haQkprbWFDM19fM3ZsOU9iNThsYl8ycw?oc=5</content>
+  </entry>
+</feed>
