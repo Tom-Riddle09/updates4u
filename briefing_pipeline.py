@@ -26,7 +26,7 @@ FEED_PUBLIC_URL = os.environ.get("FEED_PUBLIC_URL", "")
 
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    f"gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    f"gemini-flash-latest:generateContent?key={GEMINI_API_KEY}"
 )
 
 # feedparser uses urllib by default with a generic UA - some news sites block that.
@@ -127,6 +127,8 @@ def call_gemini(prompt, max_items):
         "generationConfig": {"temperature": 0.3},
     }
     resp = requests.post(GEMINI_URL, json=body, timeout=60)
+    if not resp.ok:
+        print(f"[ERROR] Gemini API returned {resp.status_code}: {resp.text[:500]}")
     resp.raise_for_status()
     data = resp.json()
     text = data["candidates"][0]["content"]["parts"][0]["text"]
