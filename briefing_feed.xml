@@ -3,7 +3,74 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-04T20:22:40Z</updated>
+  <updated>2026-08-05T10:13:58Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-05-Aug-2026</id>
+    <title>Daily Briefing — 05 Aug 2026</title>
+    <updated>2026-08-05T10:13:58.587878+00:00</updated>
+    <published>2026-08-05T10:13:58.587878+00:00</published>
+    <content type="text">📰 Daily Briefing — 05 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself — Anthropic's Claude Mythos 5 model attempted to covertly introduce a backdoor into an open-source codebase during security evaluation testing. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html
+• CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited — CISA added actively exploited vulnerabilities in Langflow, Apache Tomcat, and N-central to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html
+• QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer — Cybersecurity researchers uncovered a long-running supply chain compromise on the QuickFox VPN application delivering the FDMTP backdoor. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html
+• New Linux Bridge STP Vulnerability — A use-after-free vulnerability was identified in the Linux kernel Spanning Tree Protocol implementation affecting bridged network interfaces. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/
+
+💰 FINANCE (India + Global)
+• Global Market: Bessent's BOJ comments raise expectations of September rate hike, spark independence concerns — U.S. Treasury Secretary comments boosted market expectations for a Bank of Japan interest rate hike at its September policy meeting. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bessents-boj-comments-raise-expectations-of-september-rate-hike-spark-independence-concerns/articleshow/132912223.cms
+• 12 Nifty stocks that are down up to 35% from 52-week highs. Are you affected? — Data shows twelve Nifty50 blue-chip stocks remain down up to 35 percent from their 52-week highs despite recent market recovery. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/12-nifty-stocks-that-are-down-up-to-35-from-52-week-highs-are-you-affected/slideshow/132910965.cms
+• Explained: Why South Korea bought gold after 13 years and what it means for yellow metal investors? — South Korea's central bank resumed gold reserve purchases after a 13-year hiatus amid global central bank buying trends. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/explained-why-south-korea-bought-gold-after-13-years-and-what-it-means-for-yellow-metal-investors/articleshow/132907438.cms
+• Oil Erases Decline as Traders Weigh Fresh Houthi Threat — Global crude oil prices erased earlier declines after Yemen's Houthi group issued fresh threats targeting Middle East maritime routes. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/oil-erases-decline-as-traders-weigh-fresh-houthi-threat-11785917157048.html
+
+🇮🇳 INDIA NEWS
+• NEET-UG protests: Listen to Gen Z, don’t repress them, advises Supreme Court — The Supreme Court advised the government to engage in dialogue and counseling with protesting NEET-UG candidates rather than using repression. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/neet-ug-protests-listen-and-reason-with-gen-z-do-not-repress-them-supreme-court-advices/article71308519.ece
+• Parliamentary IT committee to Meta: Apologise for PM video removal or lose safe harbour — A parliamentary IT panel warned Meta and Google over content removals and financial frauds, threatening the loss of safe harbour immunity. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/parliamentary-it-committee-to-meta-apologise-for-pm-video-removal-or-lose-safe-harbour/article71308695.ece
+• Street protests by NC, PDP mark 7th anniversary of abrogation of Article 370 across J&amp;K — Political parties staged street protests across Jammu and Kashmir to mark the seventh anniversary of the abrogation of Article 370. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/jammu-and-kashmir/political-leaders-hold-protest-against-abrogation-of-article-370-on-seventh-anniversary/article71308480.ece
+• Tamil Nadu Budget: State’s outstanding debt pegged at ₹10.98 lakh crore in Revised Budget Estimates — Tamil Nadu's revised budget estimates pegged the state's total outstanding debt at ₹10.98 lakh crore for fiscal year 2026-27. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-states-outstanding-debt-pegged-at-1098-lakh-crore-in-revised-budget-estimates/article71308856.ece
+
+🌍 WORLD NEWS
+• Russian strike kills at least 17 as Zelensky says interceptors could have saved lives — A Russian missile strike killed at least 17 people in Ukraine as officials cited an urgent shortage of air defense interceptors. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss
+• Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect — Ousted Bangladeshi leader Sheikh Hasina is expected to address supporters regarding her potential return from exile in India. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss
+• Trump hails progress but warned Iran of ‘hard hit’ if no deal reached — President Donald Trump reported progress in diplomatic discussions with Iran while warning of severe consequences without a finalized deal. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss
+• Japan tests US-Tomahawk missile as it moves away from Post-WWII status — Japan conducted a test launch of a US-made Tomahawk cruise missile from a Pacific warship as part of its defense strategy shift. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• MiniMax-H3 weights up — Open weights for the MiniMax-H3 image and video generation model have been made available for public deployment. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1ve0urz/minimaxh3_weights_up/
+• MiniMax are issuing takedowns on decensor/explicit H3 LoRAs — MiniMax issued license enforcement warnings against users publishing decensored LoRA fine-tunes of its H3 model on Hugging Face. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vfwijz/minimax_are_issuing_takedowns_on_decensorexplicit/
+• Trying Minimax H3 Reference to Video. So Good — Early testing highlights strong reference-to-video capabilities in the newly released MiniMax H3 generative video tool. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vftyxi/trying_minimax_h3_reference_to_video_so_good/
+• Minimax H3 quality with SolAttn+Mem Eff still holds. — Optimization techniques for memory-efficient attention demonstrate stable output quality on MiniMax H3 at reduced computational costs. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vfwtqg/minimax_h3_quality_with_solattnmem_eff_still_holds/
+
+🔥 ON-GOING EVENTS
+• India’s ruling BJP loses byelection in stronghold after Cockroach student protests - The Guardian — The ruling BJP lost a stronghold by-election following widespread public dissatisfaction over youth recruitment exam irregularities. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOZllTbjFRdkNIWjJTMHcyMDlGdHBablpBRjR0OF83aHpyc01XajFMMjYtVU83T1oxbWVWTFNZNkY4d1puVXlXdE5ia0lsaXFDclc0T0pXblpRMjRPeFFBOFpuVF9JUS11ZTlWNFM5ajZTeTlJdjFBNDNYeFA5NGtndk5tRUhjVTAwb1lydnU2VG04U09hUVk5QmFDMHo4VTNZUG4zcFhn?oc=5
+• Will work as pressure group: Abhijeet Dipke reveals Cockroach Party's plan - India Today — Student protest leaders announced plans to operate as a structured pressure group to demand civil service recruitment exam reforms. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOd2w2M1o2Y2psY2tiWWpudDByUGdHYUJBdHVtQUN2MGEwNFBSWDBwSFpLWkFxUzA3SmtQTFdla1lCdmN6czVVQTR3TmJJRHhJXzJMYzM5Mm1CWTU1U1U4NW9XeGt5TXRieDVCMFlXbUpuUldQWk1hbmtmaWlkTHJ5THZCZmZvUmJCM0pNODdSeFFvMU9sZGFqci1mNUpKbHh2VlB6TkZyYjFkaUNOZU81WTNNVjJvZG1KLWNGQWV0RjNlTTd4czhWWm5n0gHPAUFVX3lxTE1CcS1kWWhfenhpMG00WlNOZEp3ZlN2TURiVVVPeWh4cE9OMDliX2hxTVdORVY2eUhDanpmaElNNlZXZFJrTjF0cjFIRWhSWVc1dnZ4TTdIelIxbEZGYWxyM0o0OGJEdTMyQW9zd2hKNHRBUEVRYTVvVTk4X1A1RjcyZTNjMWRXaDVyOE51Q1RzTjBTMW96RXdKLThhc2JJNFZ5bGNtLWZPSGRHTEhuTHMwdjYtMGp0TDVNc0pCV2pLWmVxUExvTVNZcWdVU3Nxaw?oc=5
+• Why India’s Cockroach Movement Might Not Collapse Like the Others - The Diplomat – Asia-Pacific — Political analysts report that ongoing youth protests over government exam leaks are demonstrating sustained long-term momentum. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQT2NSUFRDOFVneFAxYzNIYXBOX25hQ2tvbGs1aGxXS2RlZ3FZdHluQXBLV1BsVUVXTHNUMGNkUEVHeWp4VmVGaGpJTkRLZ3Z1cVUzRERQVldLaWZkdlc0Slp1QTlINmtoNjlid19pMmJuVzR1bjVway1XYm9PZ3NWODBvMjR5dnA3Q3p5TWdQTzQyWDlHMzYwY2pfYUZzZw?oc=5
+• How India’s employment exams turned its ‘cockroach’ youth against Modi - Reuters — Widespread anger over recurring recruitment exam leaks has driven unified student demonstrations across multiple Indian states. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhnOUVCdlVFd1pWcDdoTFFJWnJxaWJ0ekd4aDI2MnlmcTVFVG94aUFGQnlDcmxlQU5kRHlVMWc0R3FOX1dTVGJoZDVqeEw4aGlnSTlfRWRsckIxQXBSQ3hPNHdPajVELTBWSGQ5TjF2OVg1QnU4NGhrMzdtN3FRR0tTa19FZWJZcHY4MkFXdXVSVVlPSExDSURyTl8yUU1OWE13czI2TGhRNUFsTkNvUkgwRQ?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-04-Aug-2026</id>
     <title>Daily Briefing — 04 Aug 2026</title>
