@@ -3,7 +3,70 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-05T10:13:58Z</updated>
+  <updated>2026-08-06T10:05:48Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-06-Aug-2026</id>
+    <title>Daily Briefing — 06 Aug 2026</title>
+    <updated>2026-08-06T10:05:48.580526+00:00</updated>
+    <published>2026-08-06T10:05:48.580526+00:00</published>
+    <content type="text">📰 Daily Briefing — 06 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access — Attackers exploited a public-facing SQL injection flaw in an Oracle database to execute Java code directly in memory and gain elevated Windows SYSTEM access. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html
+• AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model — Flaws in AWS, Google, and Vercel AI agent infrastructure allow untrusted instructions to trigger downstream tools without executing or passing checks by the LLM. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html
+• CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild — CISA added an actively exploited critical deserialization flaw in JetBrains TeamCity on-premise servers to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html
+• Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920) — A stored cross-site scripting vulnerability was identified in Django's administration interface due to unvalidated display paths in URLField components. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vg9704/stored_xss_in_djangos_admin_via_an_unvalidated/
+
+💰 FINANCE (India + Global)
+• Distortions are inevitable: Nithin Kamath explains why new closing auction is causing wild moves in Indian stocks — Zerodha co-founder Nithin Kamath noted that late-day volatility under India's new Closing Auction Session stems from structural market illiquidity rather than mechanism flaws. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/distortions-are-inevitable-nithin-kamath-explains-why-new-closing-auction-is-causing-wild-moves-in-indian-stocks/articleshow/132996405.cms
+• US Stock Market: Fed's Daly backs steady rates, says more inflation data needed before September decision — San Francisco Fed President Mary Daly backed keeping US interest rates steady until additional economic data is reviewed before the September policy decision. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-daly-backs-steady-rates-says-more-inflation-data-needed-before-september-decision/articleshow/132994369.cms
+• RBI policy-led India bond rally continues; Friday's debt sale in focus — Indian government bond yields continued to decline following a dovish outlook from the Reserve Bank of India and falling crude oil prices. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms
+• New closing auction rules spark delivery risks for stock option traders — India's new late-session closing auction order matching is introducing unforeseen delivery risks for stock option traders due to abrupt closing price shifts. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-options-expiry-closing-auction-physical-delivery-risk-11785995214248.html
+
+🇮🇳 INDIA NEWS
+• Parliament Monsoon Session Day 14 LIVE: The Taxation and Other Laws (Amendment) Bill, 2026 passed in Lok Sabha — The Lok Sabha passed the Taxation and Other Laws (Amendment) Bill, 2026 during the ongoing Parliament Monsoon Session. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece
+• Nilekani to lead high-powered task force on exam reforms: Modi — Nandan Nilekani was named head of a high-powered national task force mandated to implement technology-driven reforms to make public examination systems leak-proof. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece
+• Why doctors are protesting in Maharashtra | Explained — Healthcare professionals across Maharashtra are protesting state regulations that allow homeopathic practitioners to practice modern medicine. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/maharashtra/why-doctors-are-protesting-in-maharashtra-explained-mmc-mard-ccmp-homeopathy-bhms/article71312753.ece
+• No Food, No Water For 4 Days - Meet 'Jharkhand's Wangchuk' On Hunger Strike At Student Protest — Student protests against systemic recruitment irregularities in state public service commission exams entered their 13th day in Ranchi. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=qntOKGQoWtw
+
+🌍 WORLD NEWS
+• In Odesa, no-one is safe from Russia's new Black Sea strikes — Russia escalated strikes against Ukrainian port infrastructure and commercial shipping along the Black Sea coastline near Odesa. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&amp;at_campaign=rss
+• Iran says deal with Oman on Strait of Hormuz is in final stages — Iran announced that a bilateral agreement with Oman regarding maritime management in the Strait of Hormuz is in its final stages. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss
+• US-Israel war on Iran upends Europe’s summer holiday travel patterns — Escalating military conflict in the Middle East has disrupted flight corridors and altered European summer tourism patterns. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss
+• Why is France developing a new nuclear strategy? — France is formulating a revised nuclear deterrence strategy to expand its arsenal amid shifting transatlantic alliances and regional security concerns. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Minimax H3 Turbo Lora — A custom Turbo LoRA was released for MiniMax H3 to improve generation speed and style adaptability in AI video creation workflows. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vgxf4x/minimax_h3_turbo_lora/
+• 76 five-second clips exploring different animation styles with MiniMax H3 (all generated locally on a 6-year-old GPU by the_shadow_nyc) — Creators demonstrated local rendering of MiniMax H3 across multiple animation styles using legacy GPU hardware. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vgi3tp/76_fivesecond_clips_exploring_different_animation/
+• Character Swap with Minimax H3 in ComfyUI — A new ComfyUI workflow integration enables targeted character swapping within AI-generated video sequences using MiniMax H3. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vgtv04/character_swap_with_minimax_h3_in_comfyui/
+• Website to Markdown API — A new web API utility converts live webpage content into structured Markdown optimized for LLM processing pipelines. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/website-to-markdown-api
+
+🔥 ON-GOING EVENTS
+• India's Gen Z protest enters a new online battle - DW.com — Youth-led demonstrations associated with the Cockroach Janta Party have increasingly shifted focus toward coordinated online organizing. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0ZJa0ZKRHAtUnRjV2NCTVNqaUZjMnI5WFNRODVYb1FVUXUtZnZRSjBnaFU4YmZTQjl0VGdRVnAxdDViLWpHQUpHUUduNnNHY2Jway1RbVlpdlhCSzBnc0ZOeGZmZnk0eDZXR0lvYV9oSGttdWpfRkZtc3U4ZzJ0eWN4WE5FaW_SAYcBQVVfeXFMTkRsU0lEYmxQVTc4ZmU5LTl2eGpjYXVhcmlEdGJPUGJfSmNkN05zMmg3OWJWNEVtVWswaDRKRVlhT0s5eFplc1FXbFVOR2lGNWw3SzBJS251cHdManFfM2UzUmJHY3NuNEQ3V1c2VGpxXzlqeUh1MmxuRkl5U2VBeDM4N2FaZG5B?oc=5
+• After the Victory of the Cockroach Janata Party, a Message to Indian Muslim Gen Z - Beyond Headlines — Commentary and debate continue online regarding political messaging and next steps following recent Cockroach Janata Party student protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWdVWjEyM3c4aW1tNFhoUlV3X0JMdzgtLVNPc194Y2NtRzBIVGpjUmx2bVM0NUhuMVpUb3Vzd2tlaUw1N1h3VUhrSXRodjVadXBTTTlYM0NHbXRRbGNSQ2tyaVprODA5b21kYmdYN2M2eXBhdVlRdS1rRGFtelJSckxWZUxiQ05EMnVPYUd5Wl9EWWdyVFlhUnlLajQ3eG11TjNSTzRZU1paRUp5RTBjZWRydUE5ZFU?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-05-Aug-2026</id>
     <title>Daily Briefing — 05 Aug 2026</title>
