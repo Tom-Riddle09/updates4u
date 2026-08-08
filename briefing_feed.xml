@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-06T10:05:48Z</updated>
+  <updated>2026-08-08T08:04:44Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-08-Aug-2026</id>
+    <title>Daily Briefing — 08 Aug 2026</title>
+    <updated>2026-08-08T08:04:44.281892+00:00</updated>
+    <published>2026-08-08T08:04:44.281892+00:00</published>
+    <content type="text">📰 Daily Briefing — 08 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication — A critical unauthenticated zero-day vulnerability in Metabase business intelligence software is being actively exploited in the wild. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html
+• Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts — CISA added a critical Progress Kemp LoadMaster flaw to its Known Exploited Vulnerabilities catalog following active exploitation attempts. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html
+• Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer — Nearly 800 malicious npm packages have been published to deliver cross-platform remote access trojans and information stealers. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
+• Claude Code RCE: How a Malicious PR Triggers Code Execution — Security researchers identified a remote code execution vulnerability in Claude Code that can be silently triggered by opening malicious pull requests. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vhh5xw/claude_code_rce_how_a_malicious_pr_triggers_code/
+
+💰 FINANCE (India + Global)
+• Wall Street Is deepening Its crypto grip and rewiring the market — Institutional investors now dominate crypto spot and derivatives trading, shifting market control away from retail investors. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/wall-street-is-deepening-its-crypto-grip-and-rewiring-the-market/articleshow/133048469.cms
+• Beyond the headline number: What India’s Rs 1.3 lakh crore MTF book really tells us — India's Margin Trading Facility book reached 1.3 lakh crore rupees, reflecting deeper retail engagement alongside strict regulatory controls. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/beyond-the-headline-number-what-indias-rs-1-3-lakh-crore-mtf-book-really-tells-us/articleshow/133047291.cms
+• SBI Q1FY27 results beat market estimates. Is this a stock to buy? — State Bank of India reported a strong Q1 FY27 standalone net profit of 21,121 crore rupees, surpassing market estimates. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html
+• Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data — US Treasury yields fell as weak employment data reduced trader expectations for future Federal Reserve interest rate hikes. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html
+
+🇮🇳 INDIA NEWS
+• IAF officer arrested for alleged leak of sensitive information to Pakistan-based operative — An Indian Air Force officer was arrested for allegedly leaking sensitive information to a Pakistan-based operative via social media. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/iaf-officer-arrested-for-alleged-leak-of-sensitive-information-to-pakistan-based-operative/article71320933.ece
+• PM Modi reviews West Asia conflict impact in CCS meet — Prime Minister Modi chaired a Cabinet Committee on Security meeting to assess the West Asia conflict's impact on Indian seafarers and domestic fuel stocks. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/pm-modi-reviews-west-asia-conflict-impact-in-ccs-meet/article71286651.ece
+• Where have Bengaluru’s signature fruits gone? — Bengaluru's traditional horticultural crops are rapidly declining due to urban expansion, changing weather patterns, and water scarcity. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/where-have-bengalurus-signature-fruits-gone/article71207983.ece
+• Favara-UPI cross-border payment corridor goes live between Maldives, India — A real-time cross-border payment corridor using India's UPI system went live between the Maldives and India. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/favara-upi-cross-border-payment-corridor-goes-live-between-maldives-india/article71290058.ece
+
+🌍 WORLD NEWS
+• Child among three killed in Russian missile attacks near Kyiv — Russian missile strikes near Kyiv killed three people as Ukraine warned of dwindling air defense interceptor supplies. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss
+• Thai PM vows to introduce stricter gun laws after eight killed in shooting — Thailand's Prime Minister pledged stricter gun control legislation following a fatal mass shooting at a school. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss
+• Saudi Arabia, Turkey and Pakistan sign defence pact — Saudi Arabia, Turkey, and Pakistan signed a mutual defense pact treating an attack on any member state as an attack on all. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss
+• ‘I’ve never been counted’: DR Congo’s first census in 42 years — The Democratic Republic of Congo initiated its first national population census in 42 years. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• ShootClip — ShootClip launched an AI-powered video editing platform designed to speed up creator post-production workflows. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/shootclip
+
+🔥 ON-GOING EVENTS
+• CJP announces membership drive, public dialogue, expansion plan, national working committee - The Hindu — Cockroach Janta Party announced a nationwide expansion plan, membership drive, and public dialogue initiative. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0tCUTNKQnVxS2FRdDVfZDhldnNPRlcyelpOYWNwdnJFU2RuM2lOX0Y4UU1nQ2YyLURyOEc4cllwalFESXhxT2dManBsc3VTUDBIRFNjeVg0MlVqZE03ZDR4elRkVW1pUDg0TjAtc0RkRzVTN0ZReDRmYkU2dE52aHFLMG1WRG9nQXNtcEtJVzF2SS1iS1BURklGLTFJMFp3dFVjVTQ2bWtQYmx0N25LQWlJR08xUdIBvAFBVV95cUxOd21EcjBCVUVsNWcyT3NfdGdMWVBkSWN1b0ZoUUdrLUdlY3ZoLTlQLW1qUnlWSlNkdWVVRC1HVlFYNU5HeklOZEt2UVJIZXN0UFRSVms3aWlBUHh6aEtFLXlnb1JNM1k0di1Ud2dodEFsdjk5XzBzem9sVXNUTHJmYU9aaUxRb3VpVHF5RWVhTG5KdWRoZ0Vpc3hiMHUzd0gwMm9hUnRTTWYwYW1FU1pUdUM3VDd1SkRqMFFWbA?oc=5
+• CJP's Dipke urges PM Modi to focus on education, jobs in Independence Day address - The New Indian Express — CJP leader Abhijeet Dipke urged Prime Minister Modi to prioritize education and employment in his upcoming Independence Day address. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPUWZIMjhTcTVuNkZlNkxrWFdlS1dfZldGNmUwTnhpemtXUWpzb0dhTzlBaW1jaGV4Uy0zVGREVHoxR3ZqaFlRcmpuR2QycGJfZk9vaVhEencxZVpJYlQ1a1ZIcnNYMGxMb0VSbGNwUW5oN1BEWXdOWjhXSy1ON3ZDTV9tbkRBb2pNT2dJSVJvVXExa294cmRaYTRSUEYyN1hkSi1mZkc2a0lfc0hpZFdBVHdKZmRvLUpCdkdiUGxyOEtaRFFsZ0s2VEF30gHXAUFVX3lxTE8tS09DZnhFYkpfS0VodFVTSkxxODRfdzFDX0lKVlB2aC04dlZ0TUJ3TkNGLWg4V0drZmY2c2hFMmRPaFd2YUt2TkZsZEo5eElKSnVHcnBnTU1UNUk4RzJSblhLQ1l5YXdzNzMwN00ySGdYaEpwWVR3cUtzNW5kcm5iUzdyVnliYmJnZzJCNE80ZXhnREh5YXZTa3MxVzA0aDhwSEJsc3J0TkhWQTB5YWpBTEt1Q0F6R1hqRmc5UW9wTjYxUjV3MFBmUEZWODhDRkRrOHNSZTFj?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-06-Aug-2026</id>
     <title>Daily Briefing — 06 Aug 2026</title>
