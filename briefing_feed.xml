@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-08T08:04:44Z</updated>
+  <updated>2026-08-09T08:06:17Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-09-Aug-2026</id>
+    <title>Daily Briefing — 09 Aug 2026</title>
+    <updated>2026-08-09T08:06:17.113162+00:00</updated>
+    <published>2026-08-09T08:06:17.113162+00:00</published>
+    <content type="text">📰 Daily Briefing — 09 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers — A vulnerability in Atlassian Rovo allows attackers to trick the assistant into exfiltrating Jira and Confluence data to external servers. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html
+• New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens — New CSS injection techniques enable malicious email content to escape boundaries and steal passwords or account tokens across major webmail platforms. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html
+• DEFCON: New Red Team Tactic — A novel red-teaming tactic uses custom fonts to alter rendered text on screen without changing disk bytes, bypassing corporate security tools. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vjfos6/defcon_new_red_team_tactic/
+• Analyzing a Multi-Stage PowerShell Payload Chain — Security analysis breaks down a multi-stage PowerShell payload chain involving heavy loader obfuscation and hidden execution techniques. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vj2hiw/analyzing_a_multistage_powershell_payload_chain/
+
+💰 FINANCE (India + Global)
+• $20 billion bet: Where is Warren Buffett's successor spending Berkshire's cash pile after 14 quarters? — Berkshire Hathaway turned into a net equity buyer under CEO Greg Abel, deploying over $24 billion into stock purchases and buybacks while adding Alphabet as a top holding. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/20-billion-bet-where-is-warren-buffetts-successor-spending-berkshires-cash-pile-after-14-quarters/articleshow/133063236.cms
+• Q1 Results Tracker: Tata Motors, Vodafone Idea among 2,045 companies set to announce earnings this week — Goldman Sachs projects the Nifty 50 to reach 26,500 by mid-2027, driven by strong domestic economic growth and favorable macroeconomic trends. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-tracker-tata-motors-vodafone-idea-among-2045-companies-set-to-announce-earnings-this-week/articleshow/133062827.cms
+• AI trade gets crowded as India stages a comeback: What fund flows reveal — Foreign investors are turning to Indian equities as an anti-AI portfolio diversification alternative amid heavy concentration in East Asian technology markets. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms
+• Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug — Foreign portfolio investors maintained a buying streak by investing Rs 12,921 crore into Indian stock markets during the first week of August. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms
+
+🇮🇳 INDIA NEWS
+• Jharkhand students protest LIVE updates: Fasting students decline hospitalisation; say govt. 'playing games' — Student groups in Jharkhand continue public protests and hunger strikes over civil service recruitment issues following inconclusive government talks. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece
+• Those who participated in Quit India movement remain inspiration for every Indian: PM Modi — Prime Minister Narendra Modi commemorated the Quit India Movement anniversary, highlighting its enduring legacy for national independence. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/those-who-participated-in-quit-india-movement-remain-inspiration-for-every-indian-pm-modi/article71324276.ece
+• Man killed after being hit by vehicle in deputy CM's cavalcade in Jammu — A pedestrian in Jammu died after being struck by an escort vehicle belonging to the Deputy Chief Minister's cavalcade. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/jammu-and-kashmir/man-killed-after-being-hit-by-vehicle-in-deputy-cms-cavalcade-in-jammu/article71324273.ece
+• Jharkhand vs Jantar Mantar: What’s Similar &amp; What’s Different? — Ongoing demonstrations in Jharkhand highlight systemic grievances regarding examination paper leaks and government hiring corruption. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=6CKsmH1Z3wU
+
+🌍 WORLD NEWS
+• Hormuz talks positive, Oman says, as Iran warns deal would not open strait — Diplomatic talks mediated by Oman showed modest progress on establishing shipping routes through the Strait of Hormuz amid persistent regional tensions. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss
+• Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general — The US Senate confirmed former defense lawyer Todd Blanche as the new Attorney General following a close voting process. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss
+• US offers $1bn to Colombia on new right-wing president's first day of office — The United States offered $1 billion in aid to Colombia as newly inaugurated President Abelardo de la Espriella pledged an aggressive strategy against narco-terrorism. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss
+• Saudi Arabia says fire extinguished at Aramco facility in Jizan — Saudi Arabian emergency services successfully contained a fire that broke out at an Aramco oil facility in Jizan with no reported casualties. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Grok Imagine 2.0 — Grok Imagine 2.0 launched as a next-generation AI image generation tool featuring built-in segmentation editing capabilities. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/grok-com-beta
+
+🔥 ON-GOING EVENTS
+• Meta ramps up censorship of protest, political reels - The Hindu — Meta has reportedly increased content moderation and removal of political reels linked to ongoing Cockroach Janta Party demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTE5JV1lFNTRTTHhiSWVmVTE2UWJac1V3eGdMSTd2MjFvaVN6ek5oQl9DaWNCcjBWTGxlbjFkYTRoZVdFY01uVUw5WFUtbDZKSzhYc1RlV29RU1hsaGNYNTZ1OXFRcnBVZ0NSUDJLcWNQYUVXRVZ5VWpKY0ZaSjlTLTdjOGZxTFEwTUxTb09YS05ndDFvanEyVVotUE82VWhIeEpNM0dmeGNHZGY0a0kw0gG2AUFVX3lxTE1sWVdRZFVadkUyWVFPc0E4amFCUDEtYm80RnlyUUFPenpEWUxpVlhOc0RDMFMyZWczRms1NkVacTRPNDFKWGpIcG9ENmF3MDJwdHpWV1lad0g3bHZGVWZuVTZuMjJ6ZmQtSkowT3JtTjk2SU51STlkY0o1SlVYYnFEc2RralVRZ2U4bHFaWWM0ZWdRQUpNQVY3YTk4VXBjTW9iQ01yTHZLbnIzNHBhZWxISS1lOGlB?oc=5
+• What the CJP protests reveal about India’s next generation - aljazeera.com — Recent demonstrations reflect changing youth political engagement patterns across India as the Cockroach Janta Party mobilizes student groups. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0Vwa0p4a3VOdTcxSm5TSjN2aVJwZVU1d0xTM1YzenE0OVc0UWU0OGdjSUd6VHlEd3RjTG8xbm5UZ01Wb1F0Um51YVdXRXNyczc0cWR5WDk3YURoUzhZUFBfX3NMLWNiNlFCQUk3MGsxVTZhMS1FcTMzWkZleWpqcm13dWJOMWZyZTc2b1FTU3hFdUdHZ25TSnhTUDBWbno1NWhF0gGoAUFVX3lxTE9HbkpMMFQxR0o3eDIzNl9UczZoNWduRVpjTzRaenJUWTd3d2VJVWhwaVdhVjNkM2R1eWJYTm5veXhNTk9fN2tGeGRfdGFBbTd2bjZXdUxDX0tyM0tjcFFkaVdYbXdTWHNLX0tncV9La3FyYWlseG9jeVRRNkZCSlVZWGx3eFZqQ1hLOUNXTmhPNUQ4dER5SUpFNXR2QjYxTUlPak1aRU43cg?oc=5
+• Cockroach Janta Party joins students' protest in Jharkhand | 'Stir to continue until all demands are met' | Inshorts - inshorts.com — The Cockroach Janta Party officially joined student demonstrators in Jharkhand, promising to sustain protests until government recruitment demands are met. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHZpTy1sYUx6Q1dlaHpxVnV6VVhOWEJyTFdrUkVzLXFxWDE2MklRV05SdjNjSjlwRktudm9HSzFudGtnb0d3OC1RY0oxWGFYRU5xY3ZNMy1yMU54UXp4dVRPNmV5bVdnOGMxenpZcmFsemVYRGZvaGgwWW5ZOVFxMmM0WTEzSUNvUzREcVFwMjRwS3hCbDdlamFhNnhMb3VXMW5V0gGoAUFVX3lxTE5DTGY2SFNkY2czQVRBelZ5enloanJCNlpad1NNNHhFazNyOThZLWNGWHh0Tm1ONU5qZDVPOGx5dGx0TkxneVFrQkxkZThsZTJRLTk4TFktc003OFBkSGUwaHFYZng4aEk3LU5zdVpYejRheGVuZWpRdDF6MzZ2RnlVSjlwbFNZT0syTGJhN0M0bkNnYS1Ody1tNUl5QUhHT2I2QXZmaGZLcg?oc=5
+• Cockroach Janta Party After Jantar Mantar: What's Next? - frontline.thehindu.com — Political analysts evaluate the future strategic goals of the Cockroach Janta Party following its recent high-profile protests at Jantar Mantar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRmazJTVW5HUmV6eGJDekxWOGpHbVVteGdBaFpDcWdQdXFlcHMya19Fa2lzMll1NjRBdUxqUVNLelVnNzB4ZnhUeWdGeTZlTjdpMTkzMUh3MGZQZ09zRTBaQ2lxb0g1SUc1NkxuM09yR3N4bW9RTVYtakVoMER6Ri1Ec3VhdW5GcllRYlFFVTFOUE95dHlFWl9GR0luZWpWQkc4Q0szYk5NTDJCTS14VzJB0gG4AUFVX3lxTE1RTEtFeXNJamF5aXhBYW1FUzJsVjdraHFiSVRPcThxVEhsWXF3bFpoakI2QWsxQ0JZalFnaFowN0lIQTRjaEJPTFhaU0ItVUE5Zm5mNE92UnZvQjBDZFREamJnLWhiY0F4cTBucTNod19BeWptNV9la0psOWVlcHZnSmtZOXFnUzI0MUNzX2laNkR1SXV3bVJiaEl6Z1dYNVFQaFZGRE5INUhwbHZSMEJKWFBvWmg3Zmo?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-08-Aug-2026</id>
     <title>Daily Briefing — 08 Aug 2026</title>
