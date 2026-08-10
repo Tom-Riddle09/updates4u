@@ -3,7 +3,62 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-09T08:06:17Z</updated>
+  <updated>2026-08-10T08:55:19Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-10-Aug-2026</id>
+    <title>Daily Briefing — 10 Aug 2026</title>
+    <updated>2026-08-10T08:55:19.220613+00:00</updated>
+    <published>2026-08-10T08:55:19.220613+00:00</published>
+    <content type="text">📰 Daily Briefing — 10 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials — A malicious VS Code extension named Solidity Pro was found stealing browser wallet credentials and API keys from developers. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html
+• When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption — Security researchers identified a zero-day flaw in HP ThinPro's TPM-sealed full disk encryption due to incomplete boot chain measurements. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vjxr66/when_terrible_disclosure_from_the_vendor_results/
+• Beyond Prompt Injection: Hacking Apple's Private Cloud Compute — A security analysis highlights potential attack vectors targeting Apple's Private Cloud Compute infrastructure beyond basic prompt injection. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vk1ybs/beyond_prompt_injection_hacking_apples_private/
+• HTTP/3 Trailer HEADERS Frame Triggers Unhandled Exception in Google ESF: 60s Hang &amp; QUIC INTERNAL_ERROR 0x0001 | Protocol RE | Netacoding — A vulnerability in Google Front End's HTTP/3 trailer HEADERS frame handling triggers unhandled exceptions causing 60-second hangs and QUIC errors. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vjze2a/http3_trailer_headers_frame_triggers_unhandled/
+
+💰 FINANCE (India + Global)
+• $48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing? — Five major global oil companies earned $48 billion in combined Q2 profits as crude oil prices surged past $100 per barrel. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms
+• Global Market: BOJ rate hike case strengthens as policymakers warn of rising inflation risks — The Bank of Japan is considering an interest rate hike as early as September to counter rising inflation and currency weakness. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-rate-hike-case-strengthens-as-policymakers-warn-of-rising-inflation-risks/articleshow/133090142.cms
+• Rupee anchored by central bank hand, traders watchful of oil ructions — The Reserve Bank of India intervened through state-run banks to supply dollars and stabilize the rupee against rising oil prices. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-anchored-by-central-bank-hand-traders-watchful-of-oil-ructions/articleshow/133089685.cms
+• India Inc raises dividends, but payout ratio hits 12-year low in FY26 — Aggregate dividend payouts by BSE 500 companies grew 8.2% in FY26, though corporate payout ratios reached a 12-year low. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/india-dividend-payouts-fy26-rise-8-percent-payout-ratio-12-year-low-11786342196867.html
+
+🇮🇳 INDIA NEWS
+• Parliament Monsoon Session Day 16 LIVE: Govt is ready to discuss students' protest issue; don't run away, says Rijiju amidst heavy sloganeering — The central government expressed readiness to debate student protests in Parliament as discussions on the FCRA Bill approach. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/parliament-monsoon-session-day-16-lok-sabha-rajya-sabha-live-updates-august-10-2026/article71326944.ece
+• Supreme Court asks Centre, Assam to file replies on pleas for issuance of NRC ID cards — The Supreme Court directed the Centre and the Assam government to respond to petitions regarding unissued national identity cards for NRC-listed citizens. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/supreme-court-asks-centre-assam-to-file-replies-on-pleas-for-issuance-of-nrc-id-cards/article71327517.ece
+• Protesting job aspirants face water cannons as they march to Jharkhand Assembly — Security forces deployed water cannons and lathicharges against job aspirants marching to the Jharkhand Assembly over recruitment exam irregularities. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-march-student-protest-jpsc-examination-jssc-cgl-exam-updates-on-august-10/article71327529.ece
+• UPI Charges Coming Soon? #Shorts #News #UPI #DonaldTrump #RBI #RBI #PeekTV — The passage of the Taxation and Other Laws (Amendment) Bill, 2026 enables banks and payment platforms to potentially introduce fees on UPI transactions. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/_q0JMykkKm0
+
+🌍 WORLD NEWS
+• China evacuates one million from homes as massive storm arrives — China evacuated over one million residents in eastern coastal areas as Typhoon Dolphin made landfall with intense rain and winds. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&amp;at_campaign=rss
+• Israel rejects Trump's 15-point plan for Gaza, Netanyahu says — Israeli Prime Minister Benjamin Netanyahu rejected a proposed 15-point peace plan for Gaza, maintaining that military action will continue until Hamas disarms. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss
+• Drones spotted over German base days after Leipzig bomb incident — German authorities are investigating unauthorized drone flights over a military base housing Patriot missile defense components. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&amp;at_campaign=rss
+• North Korea’s hackers using AI for attacks, cybersecurity firm says — South Korean security researchers reported that North Korean threat group Kimsuky is employing AI-generated materials for targeted spear-phishing attacks. (Al Jazeera)
+  🔗 https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• Engineer, lawyer, CAs: Meet the 12 members leading Cockroach Janta Party - The Indian Express — The leadership team of the Cockroach Janta Party protest movement features a cohort of engineers, lawyers, and chartered accountants. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWZ5VXhqbEJFTmlMeVFRU2FJZUpBRlA4eGpaX1NqSWdWSGIzeGhjbWVxdE9ZdlZNQmw2X09LMzIwSnRIOWJIRER1TUZ2SThnbGg1YnpfSl9NV0p6VjRLbXZ3eUlmNC00MEhndTdyV3QyVjliOEZ4RThLRm1FRXQ1RnpBSmlOTUdJMUQ2NXVKdGo0b0RPTFhmZ2ZndjdYZGpLcXd3eWFIZXVVaHVTVEt6V0stNNIBugFBVV95cUxQM0tBMDdINndTSTNJUnpPQm1ySE9IOHhCbWNSYTZyMFdvYmVhRFlqVWNKYXZoRmNMQmw5eVJQLUZNX3NLVXczTXlHQVYwUUdHazZvV2N2NkFjSS10Zm5saC1SMjVVeThmUkNoSHlyOGxRamFBUFlZRkl1QzdTM0h6RGFjWXUxNXhvNUlFU3ZzdWhreWZfdUlPakY2bGZBNkNZWWpLZEQzZzRmbzlTOVBvcnhBb1RsZ0VLMUE?oc=5
+• CJP national office-bearers full list: Abhijeet Dipke as convener; Saurav Das and Ashutosh Ranka will be co-conveners - Deccan Herald — The Cockroach Janta Party published its official executive list, naming Abhijeet Dipke as convener alongside two co-conveners. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFc2dGpKbEota3JjaE9DVE9TMmVnT0VxWmp1U09lX2dYTjMwQzV2Q1hJUGxHNXN1bnFpQmhSRHcyaFVsOTU5ZDhnMEJ2SWQ1NEhPLXI1MXpQeWgya19HT1ptRVJZV2NidHM5b2VRaDNqTml5UGVodFFfa1dGTXBkaWp5Q2Q3ZXdVeXpmem1vVk11bzM0SnZsdnNoUk40UDhTM1pvQUNoaWFKaWtfVkN2UzJjcTh6aEV1ck5PcGRQd21sbWFVS2l4NnE0bXU2ckwwdWM2VndvMzRLbXhKNHpvVjR1NVNjdWNhcWJJV1V2RQ?oc=5
+• India's 'cockroach' protest movement keeps heat on PM Narendra Modi - Gulf News — Demonstration activities by the Cockroach Janta Party continue to exert political pressure on Prime Minister Narendra Modi's administration. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVY4Mk5feWxranVlWTZ1M1B6UmFobkhSLXJLRU1MNWg0aEE5aW1VSDRfWG9TQl95VzdPV1NhT1lETS1UbTBwV2hwMDZQNXRqN3Rfb1g3eUdoV3VYdkxuaUI0QTA3bUZBWjZ3QkYtRGRIYmp2U0NVUDhQTERKSDRwY1M2bUw3WXp2SHJRMEpnVkdna01XSW1CRkUyTmRiWlFHb2FfOWd5SkM5VHNIZHh2MmZvS3jSAcoBQVVfeXFMUFpJR0VvcTJEbm9VZG81a28zWTZJYW5UcDI0SHU2MWZYOUZXb1NRRlhEd2sycnA3UFpUaWZZS3RkOUFOdXdmQU4zY0U1TGlySHNYVFVMcU9MMENDemh3bXVwZGZwbUxnbGhBdXVqNUxxZFIzWUFKMmtOeXQ1blI1NXRENllDZ3NWc2dLTnFRR3hlUFRuVThYRnA4RzNZMzJGY3BEM0dYWjIwZUZreUNUbFdNU0xNWTRMellXaWwtM0pGYi13cjBNWHdXQQ?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-09-Aug-2026</id>
     <title>Daily Briefing — 09 Aug 2026</title>
