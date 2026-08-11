@@ -3,7 +3,74 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-10T08:55:19Z</updated>
+  <updated>2026-08-11T08:29:23Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-11-Aug-2026</id>
+    <title>Daily Briefing — 11 Aug 2026</title>
+    <updated>2026-08-11T08:29:23.294205+00:00</updated>
+    <published>2026-08-11T08:29:23.294205+00:00</published>
+    <content type="text">📰 Daily Briefing — 11 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine — Attackers breached a Polish power plant via a private cellular network, shutting down a steam turbine and water treatment system. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html
+• China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw — China-linked threat actor Storm-1175 deployed a new ransomware strain called StormEncryptor, likely exploiting an N-central vulnerability. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
+• Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development — North Korean threat group Kimsuky is running an offline AI stack on self-hosted servers to automate malware development and phishing. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html
+• New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA — Security researchers demonstrated new attack methods capable of recovering synced private keys and bypassing passkey MFA protections. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html
+
+💰 FINANCE (India + Global)
+• Indian bonds skid as crude soars, Treasuries fall — Indian government bonds dropped as rising crude oil prices and falling US Treasuries renewed inflation concerns. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-indian-bonds-skid-as-crude-soars-treasuries-fall/articleshow/133146987.cms
+• Euro zone bond yields rise as oil climbs on Hormuz doubts — Euro zone bond yields rose as surging oil prices and Strait of Hormuz tensions increased expectations of further ECB rate tightening. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-rise-as-oil-climbs-on-hormuz-doubts/articleshow/133146952.cms
+• Bitcoin slips to $64K, Ethereum below $1,900 amid crypto market volatility — Crypto markets faced renewed volatility with Bitcoin dropping below $64,000 and Ethereum falling under $1,900 amid macroeconomic uncertainty. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-to-64k-ethereum-below-1900-amid-crypto-market-volatility/articleshow/133146858.cms
+• Nifty Rejig: BSE to enter Nifty 50, Wipro moves to Nifty Next 50; Hitachi Energy, Polycab join Nifty 100 — NSE Indices announced a major reshuffle effective September 2026, including BSE entering the Nifty 50 and Wipro moving to Nifty Next 50. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-rejig-bse-to-enter-nifty-50-wipro-moves-to-nifty-next-50-hitachi-energy-polycab-join-nifty-100-11786428654633.html
+
+🇮🇳 INDIA NEWS
+• Kanwar Yatra 2026: Traffic restrictions in Delhi, U.P., and Haryana — Traffic advisories and route restrictions were implemented across Delhi, Uttar Pradesh, and Haryana for the Kanwar Yatra. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kanwar-yatra-traffic-today-delhi-gurgaon-ghaziabad-restrictions-advisory-what-is-open-closed-alternate-routes-2026/article71326847.ece
+• Tamil Nadu Assembly adopts resolution seeking abolition of NEET for undergraduate medical courses — The Tamil Nadu Assembly adopted a resolution seeking the abolition of the NEET exam for undergraduate medical admissions. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-adopts-resolution-seeking-abolition-of-neet-for-undergraduate-medical-courses/article71331476.ece
+• Death toll of one of Assam’s worst floods since the 1950s crossed 100 on Monday. — The death toll from severe flooding in Assam passed 100, leaving over seven lakh residents affected across the state. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/iKPpcmS3qe8
+• People gathered on the streets of Ranchi, demanding a CBI probe into the alleged JPSC scam. — Thousands of student job aspirants in Ranchi marched to the Assembly demanding a CBI probe into alleged recruitment exam irregularities. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/edmyu-88IKI
+
+🌍 WORLD NEWS
+• At least 132 killed in Colombia's largest  earthquake in years — A major earthquake in Colombia killed at least 132 people and injured more than 480. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss
+• At least 13 killed in Ukrainian drone strike deep into Russia — A Ukrainian drone strike deep inside Russian territory killed at least 13 people and injured 75. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss
+• Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word — Israeli Prime Minister Netanyahu rejected a 15-point Gaza peace plan proposed by the US administration. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss
+• Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town — A mass grave containing 25 bodies was discovered in Sudan's Kurmuk after the army retook the town from the Rapid Support Forces. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• AMA: MiniMax H3 Team — Ask us anything about our open video generation model, training, and future plans — The MiniMax H3 team hosted an AMA detailing their open video generation model, training methods, and future plans. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/
+• Comfyui comfy-kitchen Attention Speed UP — A new ComfyUI PR merged comfy-kitchen attention to accelerate model generation speed over previous attention implementations. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vl8wqw/comfyui_comfykitchen_attention_speed_up/
+• I trained an open-source realism LoRA for MiniMax H3 - it makes generated people actually look real (weights inside) — An open-source realism LoRA was released for the MiniMax H3 model to enhance human photo-realism in generated outputs. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vkubdm/i_trained_an_opensource_realism_lora_for_minimax/
+• Testing camera controls from official MiniMax prompt writing guide — Testing results were published demonstrating camera control prompt syntax for the MiniMax video generation model. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vl07cw/testing_camera_controls_from_official_minimax/
+
+🔥 ON-GOING EVENTS
+• CJP protest in Delhi highlights: Dipke, protesters reclaim dismantled Jantar Mantar protest site, as CJP awaits Govt response to demands - The Hindu — Protesters in Delhi reclaimed the Jantar Mantar protest site while awaiting a official response to their demands. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU05NUldQZ3otNURLcVpSR0tMdHkxRVozci1ybTFUUEJuRFNJSm1vc3JVZGlTM1o0ZWNmbFJRbGlTNnVramlhOEpkbVdsOU5RTFEtb1R6MS1vZWtzbDY1MWNrZm9ENFNzYXl3Qm0tVXBwTUpkaVBuRmRaTXE1ejVXNWtDQm9DVExWUmtENVl5bkdfU1NxeXVtLXl2bFIwS2x0RlVyTk10Y2ZfOG5Bb3c2RkZydXRSX1N0TGtiY2RHMmFHdV8zNlptZlFmYjBhbXd1Rlo0czk1bUR2c2R5UVlDWmhxc1FtZWfSAe4BQVVfeXFMUE93SDhPWGxVeGF3SEgwQy1qdFcwR0ctOWxQMTVheDkyWFZKYUNvcThJLTVCbE9WOWVhV2xONEJqaTU0LTNnWm5XR1ZKa0EySmxJMFdkaTlwd1JSc3QzTWJ1Tmw5VmJMN0VXaW9jaDk4ejJsV0RKMUxybndwemplNl9MekYyR1lzVWVPQWJKX2lOalJQSnJtVlp6d3oteDlYNEN2TFZpLUVtV2lia0VOTTlKYV9aQXVodGdiYWtQMG5tSi1BMWpadGNhTmN0V3BBcTRyNzAtUVVDWEIyT0ozUFBOZmV0dnVHdVluYm5WQQ?oc=5
+• Supreme Court seeks response from Centre on plea seeking probe into fake advocates, ‘Cockroach Janta Party’ activities - Bar and Bench — The Supreme Court requested a response from the Centre regarding a plea seeking an investigation into the Cockroach Janta Party. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd080ZFl6LUNFazhHM3cyREhvY3NLdW8xWnU5RVVVTnZxT3IxMDJOSFJPeWplZXRIRWpaVzlqTmNJZlpEbl9fVXZWRGpMbFlLMnVHNTBJb1lOemdtMzdtcFh0MFdmUTI2ZzVsRUdBbm9rUFB1S19RQ2NoOVhsdlp5TWppS3V3SkRwZjl2dWZ6NWtNUGhwd3NVUnpWdUl1RTR0dUt4OHFiTUNfS0VGMXdnMGV6YW1PekJNN2FuRlJaWC1GaXZ5UE5zWU9PMi1wQk8yT2ZkY1NlLUlKdkNyWDcwWEFZVnphTUFidWdyRDRkeUg?oc=5
+• CJP Pune Protest Live Updates: Protest ends with national anthem; CJP announces next protest in Lucknow - The Times of India — Demonstrators concluded their protest in Pune and announced an upcoming rally in Lucknow. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUUF4UGszSE11TWtGcjE3ci0zSUxMc3lKSW5PQnFkcEVENWJhOUNlck5Ybl9UeWdsZkd2bHIyVU1XWVlyUHI5UmRkZDZhQnZCZU4wQ3B6TElPRUlsNUd0Q1hTWHR0YUlnSHk3SnRNbmxCVWQ1alVNODZtNGpiZW1ZNTY4UTVlR1F0VXdqemQ3QjY4cEJJcDZjN0p1ZkRlV0NGRTBWUW5VNzh5OUxrVWJmMlFBd2M2d2Z5aGVIVTdOME5laW9vYWFxUEFLOFZjbnNSeWVfVHduZ2M4ekxUMzZ5ajBSb0YwbDZZeEVQaGxXQjJ0TDItSGxhUlhqWlVySXE2bnhuN2ZoNzJ6emZkbTQ0ZlRaOUNMajhrTDNYV1BsYTdSeXhVZHB3ekZmYjFoUUQxN2h3emREMlFSWUx3RzhSV0xFempFc0p6bWhocVdmWFBTdS1WQ3Z6UVR1UE1aUE9fazJHVU5YRmVyNTZYeTNmdnVPUVFSdUNUQ2fSAf8CQVVfeXFMTWE4NEdPV2ZnOFNKcFRkSlBENlJPLTVqRC1IaVU2bEtud2tlc0J5TlhmNVhlX2Z2ZUJYSFJhei0yUllFTFZyb1hTSnMxNGY0OXhSZjJMekMwcnhocXI3a2xLcmJwOWxQTV83WE1iOGpfNk1FT1VOTWxpZzY2TnBwWXVLdi1lMlh5Rkp0RTdYMjR0UFlYV0lqWmJHQVVqdzVoRzlwZGNqbEVfTDJOeDBuV0NEMDVpYy1DV1dySlMwZ3VCX3paRFRtRzJYRjNuM1dScS03elB2OGlnb1ppOE1ZNHk2dHU0YXJ0Y1lWa3hEMmhMa0tlM0c1NGFlN253bnNNNlc1TElKNUZUTnk3aVM3NUtNTVhJWjRpeG9CamxNUU9WbW5OMzBSV3VfY2N2aFcwVUoxclBNYnJXYU5kYkNMQml6bjlFWnNLSjExZGdWR2V2Snk1V0hkUnRzWUtWR2VlYWNXWFdiNzRkdTVRX3g2dUlHcWdyd09CSUZVVkx1TTg?oc=5
+• CJP launches nationwide campaign to improve village schools, asks parents to act - India Today — The Cockroach Janta Party launched a nationwide initiative aimed at improving infrastructure in rural schools. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWRGMFM5ZjRCdjJMVFRlWXdqVlJ0NDladkxUdkxVN0hDMEVaTlZicHFJRnBnX3FRTVRmZzBWeGtLOENfOHVCbmtwVzYxVjU5THo5Mm5oZmFVd0JYMkFSLTBFYm1aUHZJMmowRzIyQVFmQkNSTHFibGlzOTFGUVN3eFBBeVMtU3NzbFY4anZWUjFsM0ZPbk5xV3VmakxGMHNkYzlPd21jdkxBUjhNV3lXeFloWXNadWtXaVQtV2VtVV9iMmF6NHVhSzA3cG9SU08tSlRFYV9iYXpxRC1XUUJn0gHkAUFVX3lxTE5JQXp0LU1pR0NxM19SLWlfanVhOUFrTWdfalBwdllVNHN6MHZyUkdwQ0hKYTgxV3pjSHNHaGVaeW4yYjZoVUF2SGtrWkNSVE5WcWVTdGhya0VlYTFDSlBzWlNjZ3BpRlcyVzd6UUpCVXFpbm1VMkVaalI3MkZWR0pDRzNoZzRGTUdROVdaSmtOU2xYak5SUW5JdWVuMTJsempIemV0X3dBZUhiZTBhOW9PY19HRXZMQjI1VkctcTJXU1dYLXZwcmhaQlRQRXVYQ19ISlM3cTNsSV8ybVJyaVpaeUlDag?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-10-Aug-2026</id>
     <title>Daily Briefing — 10 Aug 2026</title>
