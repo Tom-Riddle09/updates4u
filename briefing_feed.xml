@@ -3,7 +3,74 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-11T08:29:23Z</updated>
+  <updated>2026-08-12T08:44:42Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-12-Aug-2026</id>
+    <title>Daily Briefing — 12 Aug 2026</title>
+    <updated>2026-08-12T08:44:42.502974+00:00</updated>
+    <published>2026-08-12T08:44:42.502974+00:00</published>
+    <content type="text">📰 Daily Briefing — 12 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations — Malicious LiteLLM packages published on PyPI contained credential-stealing code that exposed SSH keys, cloud credentials, and database passwords from over 2,100 organizations. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html
+• Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack — Microsoft issued patches for nearly 400 vulnerabilities across Windows systems, including an actively exploited privilege escalation flaw in a core kernel driver. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html
+• GhostSplice: Malicious MCP Servers Split Instructions to Make AI Coding Agents Exfiltrate Secrets (ASSET Research Group) — Security researchers uncovered GhostSplice, a attack technique using malicious Model Context Protocol servers to manipulate AI coding assistants into exfiltrating secrets. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vlynwn/ghostsplice_malicious_mcp_servers_split/
+• CopyEscape: Container-to-host arbitrary file write via docker cp (CVE-2026-17106) — A vulnerability in the Docker CLI copy command allows malicious containers to write or overwrite arbitrary files on the host system. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vlkth5/copyescape_containertohost_arbitrary_file_write/
+
+💰 FINANCE (India + Global)
+• Why is the market falling today? Sensex falls over 550 points, Nifty below 24,300: Key factors — Indian equity markets fell sharply as the Sensex dropped over 550 points, driven by leadership changes at Tata Sons and rising crude oil prices. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-is-the-market-falling-today-sensex-falls-570-points-nifty-below-24300-key-factors/articleshow/133176165.cms
+• Global Market: Japanese bond yields rise as traders price September BOJ rate hike — Japanese government bond yields climbed to multi-decade highs as financial markets increasingly priced in a September interest rate hike by the Bank of Japan. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-bond-yields-rise-as-traders-price-september-boj-rate-hike/articleshow/133176070.cms
+• Miss just 5 best days of Nifty and lose big: How 21-year data from 2005-2026 shows cost of timing the market — A 21-year historical analysis shows that missing just the five best trading days on the Nifty 50 significantly reduces long-term compound annual returns. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/miss-just-5-best-days-of-nifty-and-lose-big-how-21-year-data-from-2005-2026-shows-cost-of-timing-the-market/articleshow/133176030.cms
+• Global Market: Emerging markets draw nearly $19 billion in July as foreign investor outflows ease — Foreign portfolio investors returned to emerging markets with $18.8 billion in net inflows during July, led primarily by debt allocations. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-emerging-markets-draw-nearly-19-billion-in-july-as-foreign-investor-outflows-ease/articleshow/133175810.cms
+
+🇮🇳 INDIA NEWS
+• Parliament monsoon session Day 18 LIVE: Amit Shah says ready to discuss students' protests, asks Oppn. to let House function — Parliament faced repeated adjournments as opposition members protested over student concerns during the monsoon session. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/parliament-monsoon-session-day-18-lok-sabha-rajya-sabha-live-updates-august-12-2026/article71334977.ece
+• Over ₹1,000 crore likely needed for rehabilitation of Assam flood victims: Himanta — The Assam government estimates over ₹1,000 crore will be required to rehabilitate tens of thousands of families displaced by recent flooding. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/assam/over-1000-crore-likely-needed-for-rehabilitation-of-assam-flood-victims-himanta/article71335657.ece
+• Chamarajanagar district ranks first in Karnataka in Bhoomi software khata mutation work — Chamarajanagar district ranked first in Karnataka for processing digital land records and khata transfers using the state's Bhoomi software. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/chamarajanagar-district-ranks-first-in-karnataka-in-bhoomi-software-khata-mutation-work/article71335059.ece
+• Delimitation: Tamil Nadu Assembly adopts CM Vijay’s resolution to freeze Lok Sabha seats at 543 — The Tamil Nadu Assembly passed a resolution opposing proposed constituency delimitation and requesting Lok Sabha seat counts remain frozen at 543. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/delimitation-tamil-nadu-assembly-adopts-cm-vijays-resolution-to-freeze-lok-sabha-seats-at-543/article71335625.ece
+
+🌍 WORLD NEWS
+• Rescuers scramble for survivors with 180 dead in Colombia earthquake — Rescue teams in Colombia continue searching through rubble after a major earthquake killed at least 180 people. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss
+• US says helicopter fired missiles to disable ship breaking Iran blockade — The US military fired on a cargo vessel in the Gulf of Oman for attempting to breach the naval blockade against Iran. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss
+• Lebanon parliament votes to abolish death penalty — Lebanon's parliament voted to abolish capital punishment, moving closer to becoming the first country in the Middle East to end the death penalty. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&amp;at_campaign=rss
+• Three killed in overnight attacks on Russian, Ukrainian port cities — Overnight military strikes on Ukrainian and Russian port cities resulted in three fatalities and widespread structural damage. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• LTX-2.5 is Here — Lightricks officially released LTX-2.5, its updated open-weights AI video generation model. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vlqy46/ltx25_is_here/
+• LTX 2.5. on 3060/16gb ram, 0.5mp 10 second video took 180 seconds to generate. — Community benchmarks show LTX 2.5 can generate a 10-second video locally in three minutes on consumer-grade hardware like an RTX 3060. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vlwfvj/ltx_25_on_306016gb_ram_05mp_10_second_video_took/
+• STAR REKT: Encounter at Goonpoint. Full TNG episode made locally in a day on a 5090 with MiniMax H3, native dialogue and audio, no TTS pipeline — A creator generated an entire animated show locally using MiniMax H3 open weights, outputting synced video, lip-matching, and audio in single passes. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vllala/star_rekt_encounter_at_goonpoint_full_tng_episode/
+• Release of H3 Infinite Continuation Suite for ComfyUI: Create infinite length videos in consistently High Quality using Keyframes in FFLF-Mode (fl2v-Checkpoint) — The H3 Infinite Continuation Suite for ComfyUI was released, allowing creators to produce long-form AI video sequences using keyframes. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1vlqn1i/release_of_h3_infinite_continuation_suite_for/
+
+🔥 ON-GOING EVENTS
+• Hyperpolitics: CJP protests and its aftermath - The Hindu — Media outlets continue analyzing the political implications and public response following recent Cockroach Janta Party demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxORUU3UzdCTENSdzczQUFIdGJrOEJDb0txV3VRZ1NnaFlzdTFMaFZNVDl0Y0xTZ05hOU1SclZIX3FIWGJjUlFOQjA0Tm9MeEREUWpud243bnNFOTJFR25saUZwbWVUNUlMby1oYnRtQzVUbWl6WTkya3EycHZBOXBKaEFwc3VhYy1UNUFGU1JmTVJjaUYzM0x3MHNJS211RXNiUF9WNTBn0gGsAUFVX3lxTE8zZUE0TTl6QTJfTWlHOTN3aWRvelU3eHJYWlNkaGZZZ0FBbnFNcWFWR3hHQjcxQXlOT2VmU1RsTElGVlAyZEFRNVRfQ21jeTU0S2ZFcjg3cDdrYkI1Q2pIQ1NDYWtRZmk2NVY1Ylo3N25YLU9senVhcU5sMzlxZDV0UjBNY2VUTzZ4QVVaajYzNUVncXhlYXJrbFk0ZGxXQVY2VzNSSVd2Wk5aQmE?oc=5
+• CJP To Launch Nationwide Campaign To Improve Rural Government Schools - NDTV — The Cockroach Janta Party announced a nationwide initiative focused on upgrading infrastructure in public rural schools. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV3JyNTl0N0xvTlMtOW0xNllYMk1TNWtMQ2k5U003c2t1N2FHQW9SQXVyN1dsQ0FEZjRzYkx0Wk9GdHFHazNUOGstcWhaenQ3RWwwYlJad2tuT3B3VG9TUVJGZEhMaEUxVzZ1c2FVdHlEU0s4Q055c1VpSFROY2o4dS1qcHZRRVd3Umdra0MwMEl0bEtLUE1FSkpQOFBzaFRGNFRZVU5XTzU5S2JtWHVuY3pZWkJBNmYyR2p3LWlMNkVzU2RyZUhOeEQyWFZuUm43M1VaY3JrRk7SAeABQVVfeXFMUEZVRXA2d1F1MGdudThkYU5LM1hUVDF2YjNuSGJoYXlCTzFqY1FPbUhmdDdXaEJxaExRdWVSczNsX3NQOUF2MEd5RGxsc3dhVVFZS084Vjh1UnpkVGl3T2dJVEdPQkdTbHJBWHYtd2djbzlNZmdTOW9qS0NYM2tnLXFtVmVRdGM5Znpld1FTZ3dKbmpFX0dJdWctb1NiMGxtOU1kY08wTHV6QVgzVzY4Y2ExRlRTN05ZcVQ1cndkWVNMOHo3R3FiUnlOcG9Ya1FjbE5RZDk1UjJGQ0VqQlIzNE8?oc=5
+• Supreme Court issues notice on PIL raising concerns over viral ‘Cockroach Janta Party’ campaign - The Hans India — The Supreme Court of India issued a notice regarding a public interest litigation filed against the viral Cockroach Janta Party campaign. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVWdSOXZ6dWVZY1pqSGZQa2dRdGhpUWlRNHVEMkhGeWNaRDBhcjVGOGNycUhCUC1fVVB0YkNSWkZuYVdnekdwZ2cxNmxzVXc2VFI3VHlsbWhJWVhtUXpYTm9wc3hyeGxZdkpDaVNya3Q1bWtSME9nUXRTejdaYTJpc2VZOElza3RzWmlLMUwyOGhkRUpTVGZ5U1k0NXB3d2RxUDBKUm1nWVdyb2ZPQWpKWTlFU1BZRzFPRG5LWDBMTm9ENmlDSVdIMG5YeW5xRU1IZTQ0cnY1dFMwTC05QWJNV3pGeHh5bGfSAewBQVVfeXFMT2hpenBjQUNTd2xzV08zNFZTVmh0Z3k1eXhLM0dmMFNDdWFqYUhEazBicHFhemdnQnRxS194LXJ1cGFqMzhYLVRNNFJSUDF2MDR6YTlFOHdXMFRaalNNeXNjMzZIeEtCTU5OcldWV21ieTJWUzlNQmpTTnhaRG9mME13WXlwODJSTER5a0UtT0gwMkc5T0hFb0NJM0h6ZXhsZHMxOXZDcERYMWFSMi1FZHdMdEh4NzBxUGY0MllVSTN0X3NINWdoV0g0Ym41STJqclB4R2tpUExXTU5BSlhjWHJkS0ZDX2VWU2tCTng?oc=5
+• India Politics Highlights | No FIR against protesters at Jantar Mantar: Delhi police clarifies - Deccan Herald — Delhi Police clarified that no formal police complaints were lodged against individuals participating in Jantar Mantar demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNeUUzYmIwcVZsSE1iU3hOS1IwZ3UxVnVWRkZlTkJBM2ZLSi1adGk5U0thUzhuREZlUHJ3T2RPSHR6M3QzRXpNMjlYYm4yX0Vfd2VKeHRRbURRN1JXS3B4M2wyWkdUNkg5R2pianI1VlVzMGhFNzlPaUhkUE8zbVJoVWRKYVlrTnVCYVpVR1lJdFQ4LXRqNTJfLWpUZ2J4bFhxTU5IaVNIMWFrYUJsNUs3NlYxN0dqS2pfNUhOUm1ySE45Njd2aXBrQVprdFJvSzlOcmdtbzROdmk1TEJ1NVNlYTlDbXJabUdvTm5GV2I1aFRBRF81c3BIaVIyMXhtRXNRb0xPRER0ZzJfVlhoeEh0RlRZTFB6TW00dXMta0lzN19Kam9kQWdaRmVSWXBMYTh3T0E?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-11-Aug-2026</id>
     <title>Daily Briefing — 11 Aug 2026</title>
