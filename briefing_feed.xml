@@ -3,7 +3,60 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-12T08:44:42Z</updated>
+  <updated>2026-08-13T08:49:04Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-13-Aug-2026</id>
+    <title>Daily Briefing — 13 Aug 2026</title>
+    <updated>2026-08-13T08:49:04.846881+00:00</updated>
+    <published>2026-08-13T08:49:04.846881+00:00</published>
+    <content type="text">📰 Daily Briefing — 13 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Attackers Exploit SharePoint Authentication Bypass After Public PoC Release — Threat actors are actively exploiting a critical SharePoint authentication bypass vulnerability following the public release of proof-of-concept code. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
+• Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor — North Korean threat actor Lazarus exploited a Windows zero-day flaw to deploy a new backdoor targeting defense and aerospace firms in India and other nations. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
+• OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning — A flaw in major AI API platforms allowed hidden reasoning objects to leak internal logs and sensitive credentials like API keys. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html
+• Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access — Attackers are actively exploiting a critical directory-traversal vulnerability in VMware vCenter to obtain persistent remote access. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html
+
+💰 FINANCE (India + Global)
+• Q1 earnings show resilience as demand, cost headwinds prove less severe than expected: ICRA — ICRA reported that Indian corporate revenue growth accelerated to 22% in Q1, driven by strong domestic consumption despite raw material margin pressures. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-as-demand-cost-headwinds-prove-less-severe-than-expected-icra/articleshow/133204304.cms
+• India bonds consolidate as traders seek fresh cues — Indian government bond yields consolidated as traders weighed domestic inflation statistics against global crude oil price movements. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-consolidate-as-traders-seek-fresh-cues/articleshow/133203797.cms
+• Stocks to buy: Nagaraj Shetti recommends Bank of Maharashtra, Hindustan Copper shares to buy in the short-term — Indian stock benchmarks remained under pressure as elevated crude oil prices and rising retail inflation weighed on investor sentiment. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bank-of-maharashtra-hindustan-copper-shares-to-buy-in-the-shortterm-11786605083579.html
+
+🇮🇳 INDIA NEWS
+• The long wait for a woman Minister in Karnataka — Karnataka faces ongoing criticism over ministerial representation as the state cabinet continues to operate without a female minister. (The Hindu - National)
+  🔗 https://www.thehindu.com/opinion/op-ed/the-long-wait-for-a-woman-minister-in-karnataka/article71337908.ece
+• Kerala vows strong opposition to Centre’s mining amendment — The Kerala state government pledged strong opposition to proposed federal mining law amendments, citing threats to state constitutional powers over land. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/kerala-vows-strong-opposition-to-centres-mining-amendment/article71340001.ece
+• NDA, INDIA bloc MPs face-off outside Parliament over Jharkhand protest, Ram temple donation issues — Rival political blocs staged demonstrations outside Parliament over student protests in Jharkhand and Ram temple donation controversies. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/nda-india-bloc-mps-face-off-outside-parliament-over-jharkhand-protest-ram-temple-donation-issues/article71339825.ece
+• A cloudburst or rampant deforestation - what is the real cause of the unprecedented Assam floods? — Unprecedented flooding in Assam has sparked widespread debate over whether localized cloudbursts or extensive deforestation are the primary cause. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/ce-t0bvjTIs
+
+🌍 WORLD NEWS
+• Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC — Nobel laureate Dmitry Muratov stated that Russia can no longer achieve total military victory in Ukraine as the conflict enters its fifth year. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss
+• Ebola outbreak on track to be deadliest ever, WHO chief says — The World Health Organization warned that the current Ebola outbreak has surpassed 2,000 deaths and is on track to become the deadliest on record. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&amp;at_campaign=rss
+• Three US states to hold executions on same day for first time since 2010 — Three U.S. states are scheduled to execute death row inmates on the same day for the first time in 16 years. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss
+• US defence secretary says drug cartels will be ‘targeted like ISIS’ — The U.S. Defense Secretary announced plans to target international drug cartels using military tactics similar to counter-terrorism operations. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• Jantar Mantar Season 2 very soon, says CJP founder Abhijeet Dipke - The Indian Express — Cockroach Janta Party founder Abhijeet Dipke announced plans to restart demonstrations at Jantar Mantar in Delhi. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQZm9hVk5oV0p5TXhSUFhYX2FuN1dseU1XME9fM0VjX21Ibm4wMjBLQmRCTkRzblBQN01zV0lIYTlTci1semxEaU9YTWdjMlRwSVROdGt5bmIyRDJfMFRUUnZRc0VqSmVHekM1Z2xrTk8yY2oxb1lHREJydGtBTFMwS1dvdVI3UmM5b3R2TkNUSnZXbnNkYmfSAZwBQVVfeXFMTjZHWWhyTHd6OENGcUl2NzNkLWdIc2JWLUhjdkozVDZSdnQyaXo2d2ZHYm1sODJBam8xRlpkY1ZEZ0dDdUxUMEE2andEZy1aaTFCTWcyT00wMEJjUWl5X0haTzdnZGw4N0tWVTlVajU0NDhNRnVmYVNJWHBGZVFJY3I3dzdvbkNxZDNtRW1Yd2hoaTZybjN2WnE2alph?oc=5
+• Booking for meet cancelled in Delhi due to political pressure: CJP - The Times of India — A scheduled political meeting in Delhi was cancelled after venue bookings were abruptly revoked under alleged political pressure. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUmwxcE9NTmlibS10NFpIalp6LXJTX2xRN0ctT3hBX2ZJcGFkWkI3YnY0MG0wWWJfTnRzYlptRHE3c1g1NzhTVm9yMHcyV1ZIMmNFeFloelVHVWdEaFF3MTRZV2dOTWZkRjJNeGlOZlFZRXJhVWY5VzV5VklzYVYwQVFxOEx5ZVRzUGhYTnVGaXZILTNhSXgwSktCNE0yeHM2NEpVYUF1Z0o3NXo2RnNTOGpnaUhxVFpJQi1qcjdMbDRreThPdHBnQjZFaHZrMDBYendiMNIB2gFBVV95cUxNLWVVM09rS05MQWpYQ3JUeVE0WWNlODRiTUZ6XzNzcTcwTUx5eFhocENBbThxUEJYSlNjNXJNbVdaT3MyQWFRTkpKSHJkMWJUbG9qaDdTR3p5aEVweXFwdWkwRDIxZ2ZFSjdTMV9hbFZyVXU4TE93SEFrcWpIeG1qTmN3bTlRM3I1eTNNNFZXTGE0ZmlXeHRXVWZGWG9PSGRPT0tjeDQ2X3B4MFl6VWhkVV9JSHFXb0h3ODA5YWYwRHNxaFlIUHJvZkdGRFBGbmstME14QkthMTh2QQ?oc=5
+• SC seeks responses on plea alleging fake lawyers, law degrees and 'Cockroach Janta Party' - Daily Pioneer — The Supreme Court of India sought official responses regarding a petition alleging fake law degrees connected to the Cockroach Janta Party. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9wS3U5VWVmZTdmZWFsaFlWNVJUamZ5c1FFR1Rrb1ZTTTFjTHhLUDNxc3BETWh4N1ZyZTZFSldpUzhDbmNkWTRvNjA1bUdnUnh1Z2tUbE5QY3BnUGtTUXdCRUZhZ0dKTUYtTUdCSC1jU0xwdlhZS1kxdE9xT1ltU2M?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-12-Aug-2026</id>
     <title>Daily Briefing — 12 Aug 2026</title>
