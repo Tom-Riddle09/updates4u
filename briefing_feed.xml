@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-13T08:49:04Z</updated>
+  <updated>2026-08-14T08:41:53Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-14-Aug-2026</id>
+    <title>Daily Briefing — 14 Aug 2026</title>
+    <updated>2026-08-14T08:41:53.208963+00:00</updated>
+    <published>2026-08-14T08:41:53.208963+00:00</published>
+    <content type="text">📰 Daily Briefing — 14 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Ruby 4.0 Universal RCE Deserialization Gadget Chain - elttam — Security researchers demonstrated an updated universal remote code execution deserialization gadget chain targeting Ruby 4.0. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vnxkvm/ruby_40_universal_rce_deserialization_gadget/
+• You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?)) - watchTowr Labs — A pre-authentication remote code execution vulnerability was disclosed affecting Citrix NetScaler appliances. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vo06aj/youre_back_in_the_room_citrix_netscaler_preauth/
+• When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg — An analysis of the Interlock ransomware ESXi decryptor details the mechanics and shortcomings of the threat actor's recovery tool. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vnmye4/when_you_pay_the_ransom_taking_apart_an_interlock/
+• From Unauthenticated API to Grid Risk: A Hybrid Inverter Vulnerability Explained — An unauthenticated API flaw in hybrid solar inverters allows unauthorized CAN bus commands, posing operational and physical grid risks. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vndp8e/from_unauthenticated_api_to_grid_risk_a_hybrid/
+
+💰 FINANCE (India + Global)
+• Unitree IPO: China’s humanoid robot starset for potentially explosive Shanghai debut — Chinese humanoid robotics manufacturer Unitree is preparing for a high-demand IPO debut in Shanghai. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/unitree-ipo-chinas-humanoid-robot-starset-for-potentially-explosive-shanghai-debut/articleshow/133232736.cms
+• Ananya Birla-promoted Svatantra Microfin files for Rs 3,000 crore IPO — India's second-largest microfinance lender, Svatantra Microfin, has filed draft papers for a Rs 3,000 crore initial public offering. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ananya-birla-promoted-svatantra-microfin-files-for-rs-3000-crore-ipo/articleshow/133231829.cms
+• Global Market: Taiwan dollar surges to one-month high as foreign flows boost currency — The Taiwan dollar reached a one-month high driven by heavy foreign equity inflows and reduced central bank intervention. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-taiwan-dollar-surges-to-one-month-high-as-foreign-flows-boost-currency/articleshow/133231661.cms
+• ​Why did Cerebras Systems stock fall despite higher 2026 guidance? — Cerebras Systems shares fell sharply as investors weighed widening net losses and AI chip competition against raised forward revenue guidance. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/why-did-cerebras-systems-stock-fall-despite-higher-2026-guidance/slideshow/133231594.cms
+
+🇮🇳 INDIA NEWS
+• Independence Day: Kerala CM to inaugurate ‘Resurge – Safe Women, Safe Kerala’ on August 14 night — Kerala launched the 'Resurge – Safe Women, Safe Kerala' nighttime civic initiative to mark Independence Day. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/independence-day-kerala-cm-to-inaugurate-resurge-safe-women-safe-kerala-on-august-14-night/article71340465.ece
+• Search for missing IIT Indore techie called off, Bengaluru police focus on digital footprint — Bengaluru police are analyzing digital footprints following the disappearance of an IIT Indore graduate near Shivagange Hill. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/search-for-missing-iit-indore-techie-called-off-bengaluru-police-focus-on-digital-footprint/article71344498.ece
+• Gen Alpha Takes To Streets #peektv — Students across several states have organized public demonstrations demanding basic civic infrastructure like water, electricity, and roads. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/vvSMqbmTGS0
+• Inside Assam's Unprecedented Floods - Houses Submerged, People &amp; Animals Swept Away | Ground Report — Severe flooding across Assam's Sivasagar district has submerged villages, cutting off power and displacing thousands of residents. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=SZJGeunOq7s
+
+🌍 WORLD NEWS
+• 'Unprecedented' rains in Japan kill six people — Severe torrential rains in Japan caused six fatalities, widespread power outages, and major disruptions at Tokyo's Narita airport. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss
+• US says dozens of countries helped China dodge Trump's tariffs — A United States government report concluded that China rerouted goods through third-party countries to evade trade tariffs. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss
+• Romania shuts only nuclear plant as heat causes huge drop in Danube River level — Romania temporarily halted operations at its Cernavodă nuclear plant after extreme heat caused a steep drop in Danube River water levels. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss
+• North Korea fumes over upcoming US-South Korea military drills — North Korea condemned upcoming joint military exercises between the United States and South Korea, citing heightened regional nuclear risk. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• isolate.video — Isolate.video launched as an automated AI tool for generating short-form product showcase videos. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/isolate-video
+
+🔥 ON-GOING EVENTS
+• Cockroach Janta Party calls for Manan Mishra's resignation as CJI slams move against NALSAR batch | India News - Hindustan Times — The Cockroach Janta Party demanded the resignation of BCI chairman Manan Mishra following judicial pushback against actions targeting NALSAR students. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYWVmaGZhc0JyZWFEaTZ6NjNjWnRDajVXamV4Q1dBSnA2X3Y2V1J4ZTBnSWNnWTNuN1BwSUVrcFQzT1RiWlN0Q0p6MXQyNXo5b3QzTDZ2SF9jaFp6Q3pRVC1HTEtKRjRUYzhRRVphd3pUSk03T2wwSzdrVmpTUXNFajhSWERueUFaekxyUmpaZHJRSEZmdV95M1ExQ2gzYW9zMmFkZ2k0OFZhWk1qVzFXLUE1azJuNFl1RTA0c1BXMGhJVUNBbVJ0ZC04VkZSZWVYMnNYNHFKZ0FrLTMzZDNkY0c3ZTBTQVZpRkpKUzJLa2l6Zjk2ZENJSy1vY1pNM014RlJ6R3dTeWPSAY4CQVVfeXFMTTJkamR2cVV1NkZIcE9ZRms5QmZuclRHQkRXVEVacmxYRTk5TnBHbHVOZWFZcHBTQmZqaWdoM0t5SVNjc0l6bnRfb0I2UmNXazg0b3ZBNDZUS2hINTg5T3BsbE9HVkgzUFBIUGVOV25VTEN6TXRlVWhuRDV0aC1HeE9lcF9ma1VnLUtrSHZPUXZFcWE3TGJOZ0RManlpWmVLSzVpcXpXbXRmdGxfUTlXWnFvNjZZSGRkeU0wWnN2SVdZdFhYS09PRHpFZWMtNEpSOGlrazN5YmpuWmM5TlB5YXhvV3ZSQWJmX05ERktqbnZBQlN5NmZ0RE84QmEzelRpaE1JQ3F6dE54ZlVmMFNn?oc=5
+• Season 2 of Jantar Mantar to Start Very Soon: Cockroach Janta Party - TheWire.in — Organizers of the Cockroach Janta Party announced plans to initiate a new phase of protests at Jantar Mantar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOREFvR0Nqald4V2VBV3pXaFJnamFLVDdmUVBGVlRwNEF6bkdBVXVFOVNLWmpCN0JuS0R5dlVrM0dCTEJsa2RpWFZJNGNLNmVSR1lkZDkxYmdpeTJmZGZ3SU5ZNk9WT1JYMEROeTRQRHYxekZvVVdRbG9LY3UtdnlpTWowY28xRzJUODFoQ0dSdDlobmN4WkhNVms5ZGdyUzQzcVB4QdIBqgFBVV95cUxObFA1ajZDSVFKNkhzMDVSd2g2d0VLajVFY3ZYV2RSYmNVcWhuXzljdV8taVdEWnZ2TkYxb0xrREZxOEpwRzZQTEtOdzJjTUNSYlJuUFh1Z2JIRVpNTF9WdWd5MzlfSUZoQzA0UnJBaGRkZ21mZkFGVXVaSV9nbTNwZktKa2tLUlFWOTlVdExXNGJtb2h1eTdITVFSTG1NdElRcDZSa1o4Qk1tdw?oc=5
+• Bar Council of India threatens Nalsar students, Cockroach Janta Party roars, order is withdrawn - Telegraph India — The Bar Council of India revoked its controversial order against NALSAR students following widespread student protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbHctWTJMZi1zcWhNOTZGRzRYZXd2MDJvYm9hWFBiNWR5Yll2QVFfMW1CSWJKZGVHenNQdlcxYl9wU21rLTdJeFNNUEdVVjIyM1FuVlFCQ0lPdjRjTDN3RjhQQUlrYU9ZM0tQZWNsRkswSENvYWtLaWtJZXp3ZTBYbnJITUhNczkyLVlEV21GWklmbGMyTkxQUFBxQld2RzQ3dDdGNnU0RDVqMFVBYkdEU1RRdGZxZmM1VkNDQ04yYjItalZnXzc0Z1htYkJTYUxGVG9xVjg4aVI0QdIB3wFBVV95cUxPSjQ5QUZEckFLSEVwanludVdKNjhVQzFHcm5sNms1enJTX1RGZ3FlNk8xbjNSNlBpTzVndkxyYWlmc0tEUlcwTEREUkJjanltYngzak5zWkRHNVVXdk1iSVpwbGRJc0N4aVhZM2hDZlVLQk8xWmxSQkt4OTBNcWxYd1JjZXJTbmlaNG9iQXJ3N1RaUUhTSURfcGpoSVpjcE5PemRHTDBDZHdsOGtBSHRvN3lydkZLNkpxNGRVakszelczY0xDYXpNWEhlYk1DaEx2dUJYWlREdFZNQzdLTkQ0?oc=5
+• How Gen Z and India’s Cockroach Janata Party are successfully challenging Narendra Modi - The Conversation — Youth mobilizations organized under the Cockroach Janata Party banner continue to focus national attention on student and civic grievances. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXhPMkJ4OG5PajM3VHE1NVgtV0pGenRpc0E2YlhwM0RqdEVub0l5czBobmRVNlBaelliQkFRMGc2M1RBdjEyUzhNazVPc2FSMk93Zk1EYmI3NHhpQXJ5d05uNTZMSmlDTUJTNGg1VE4zaFZtbjdscHg1RC15c2hwb0wxU1Z5bEJTRlZuSzBUTnpjWE42Z3ZBZi1FdzVlTEJ0T1lwUkxrVmF2LU9nZjBTZ1lDaW5lb2RFbDIxbjd3?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-13-Aug-2026</id>
     <title>Daily Briefing — 13 Aug 2026</title>
