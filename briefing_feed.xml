@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-16T07:50:55Z</updated>
+  <updated>2026-08-25T19:03:37Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-25-Aug-2026</id>
+    <title>Daily Briefing — 25 Aug 2026</title>
+    <updated>2026-08-25T19:03:37.923838+00:00</updated>
+    <published>2026-08-25T19:03:37.923838+00:00</published>
+    <content type="text">📰 Daily Briefing — 25 Aug 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw — A security vulnerability in NVIDIA NemoClaw allows malicious webpages to compromise local Ollama AI instances and manipulate model instructions. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
+• Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows — The Mirage2FA phishing toolkit has targeted over 4,500 organizations by abusing Microsoft 365 authentication flows to bypass two-factor authentication. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html
+• Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access — Threat actors are actively targeting unauthenticated authentication bypass vulnerabilities in the miniOrange SAML 2.0 WordPress plugin to gain administrator access. (The Hacker News)
+  🔗 https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html
+• Tata’s B2B platform returned OTPs in API responses — A security flaw in Tata's B2B platform Nexarc exposed one-time passwords directly within API responses. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1vx4j41/tatas_b2b_platform_returned_otps_in_api_responses/
+
+💰 FINANCE (India + Global)
+• Crude oil prices slide 4% as markets look past Iran sanctions — Crude oil prices dropped 4% to multi-week lows as markets absorbed milder-than-expected US sanctions on Iran. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms
+• Japanese bond funds see record inflows as rising yields attract global investors — Japanese government bond funds recorded unprecedented foreign capital inflows fueled by rising domestic yields. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/japanese-bond-funds-see-record-inflows-as-rising-yields-attract-global-investors/articleshow/133518488.cms
+• Government signals more PSU stake sales after Hindustan Copper OFS: Report — The Indian government plans additional PSU stake sales to help meet its ₹80,000 crore disinvestment target for FY27. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/government-signals-more-psu-stake-sales-after-hindustan-copper-ofs-report-11787677668931.html
+• Scott Bessent’s bond buyback strategy draws criticism from Druckenmiller, JPMorgan: ‘Paying mortgage with credit card’ — The US Treasury's expanded long-term bond buyback program drew criticism from major investors over debt management and borrowing cost risks. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/bonds/scott-bessent-s-bond-buyback-strategy-draws-criticism-from-druckenmiller-jpmorgan-paying-mortgage-with-credit-card-11787661389133.html
+
+🇮🇳 INDIA NEWS
+• Luxembourg firm iPC to invest ₹83,480 cr. in integrated green hydrogen, data centre project in Karnataka — Luxembourg-based iPC plans to invest ₹83,480 crore in Karnataka for an integrated green hydrogen and data center project. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/luxembourg-firm-ipc-to-invest-83480-cr-in-integrated-green-hydrogen-data-centre-project-in-karnataka/article71389590.ece
+• TNCC president accuses Centre of withholding ₹2,087 crore in MGNREGS funds — Tamil Nadu Congress leadership alleged the Central government is withholding ₹2,087 crore in MGNREGS rural employment funds. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/tncc-president-accuses-centre-of-withholding-2087-crore-in-mgnregs-funds/article71388559.ece
+• IIT Delhi Student’s Death Sparks Protest #iitdelhi #studentprotest #rishikeshkumar #news #peektv — Students at IIT Delhi staged protests demanding administrative resignations following the suicide of an MSc student on campus. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/SM6HN17Y1sM
+• Fire at the District Women's Hospital in Amravati, led to the de@th of three newborn babies — A fire at the District Women's Hospital in Amravati resulted in the deaths of three newborn infants. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/QI3of4JYwWY
+
+🌍 WORLD NEWS
+• Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50% — Canada implemented retaliatory tariffs of up to 50% on billions of dollars worth of US goods following stalled trade talks. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss
+• China hits out at 'illegal' new US sanctions on Iran and trading partners — China condemned new US sanctions targeting Iran and its international trade partners as unlawful. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss
+• CIA chief travels to Moscow for unannounced talks, US media reports — The CIA director reportedly made an unannounced trip to Moscow for bilateral talks with Russian officials. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss
+• Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa — The United States formally removed Syria from its state sponsor of terrorism list, easing long-standing economic sanctions. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• Cockroach Janta Party to march from India Gate to Delhi police HQ; says govt yet to keep word - Telegraph India — The Cockroach Janta Party organized a march from India Gate to Delhi Police Headquarters, citing unmet government assurances. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRjhUNE82UUNldEZrUjFhd0tKYWVLbnYzRUNRaW5yYmlKeUczTGkwcXNNVk13RzZJcko1dm0zNmQ5M3g3aWR5Q1pHMlNkZUptZVpDZmNaOVpqaWlJU0JWWWR2SFMxQzRJWGxidUp0NEhxY19jNkp0WEhFNkdfUk93MnRjdE5DLTZ3b0J0ZXdQbzd0d2prZXpwdWtPcG91cGFuY3A1NGJ0YkNIejFFZXBGN0haV3JCaDRPblF4Zm1ZY0xFWFVQbHpid2dNU09MSXpOcU5nWUdlSTFsd9IB3wFBVV95cUxNcnRfVFlleW0tMnNBWDlQejBHa1AtdThwdHlsQUpmT0xYbVdoSjNSNGRDa2lHZGliN1h1RzFOOFNsTHZNYWhUXzQyOU41UzBiZlhzaUdrdVJ4dFo2Ul9lSU9NMXR3c2ZYanBnTjRDU0FlQVdvX0dSLXdxVTFkMjBVZUtKdExwS3FhbklwN19LckVsdGRxMms5ejI1d1g2TG1PQ0ZkcmVqdDV3TW5qQmc3VG5NTXFEYUNxYjRNNEo2VGg2ZFBTMGd3RzJCaWtEUm5KWlJPTTR5UnVtTVFvTGhB?oc=5
+• Cockroach Janta Party protest updates: Protest ends in Jantar Mantar; six detained - The Hindu — Police detained six individuals as Cockroach Janta Party demonstrations concluded at Jantar Mantar in Delhi. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPejRxaE5zQi1mY3FtQ3h1S1kweDBxd3JoX3NubTJQdURHRHRJSGhLem9GM1U0V1UzYkJZdVdCSUJaWUFnZlVvT243UXVkTGZjZW9jbUpfazRmTk1GYVhjajBGRzI1S1gyNWVta1RTeld5bDdkNTY1NDNHOHhBOUhuUWZuVGxLZ0ZlVXJNbERZY19SUEZ2b05JaHpHWFdYYWdYcDJISDNWTzhFUDdmSElKeFRwaloyMjlfejM4a3ctaWlQTWFQTHNFUi0ydWJFb3pNTTJtTnRLbzlYc2J4VjZEZXFRMklBdkZzc3pJ0gHyAUFVX3lxTE80VkdDajUzbUhmYXIzdVhMcWRCT3FKY3VmbkZNNDFEaktISW15LXoxNS1hS1FVT2tLV0MtQmd1MWZ1cXF3eWRSRExKMThkSk9mTU9qNHkwVDJrV1Bqbzd3eHRjb3ZKVkgxdE9ITzVLaTV3MGp0Ylc5STRiVy1pdm9hdEloYlJ6WUswTlhKRU85WWh6ZUhMVHJFaGJXT2VzNnRDaHVjYkdadDZ0MXhvM0d3YVZROEdwUFdRcUJqNGdfMUNJdnZBNXRuMXY1ZFVLQkZSMmI0TmdoTVljbkVzT05MTDRZWHB6ck5XRUNWQjY1djZR?oc=5
+• Cockroach Janta Party launches nationwide legal aid platform for supporters, volunteers: ‘No fees, ever’ | India News - Hindustan Times — The Cockroach Janta Party launched a nationwide pro bono legal aid platform to support its volunteers and members. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZUpJa0JwUkotRU53X3c1TVM2aFBVdDQ1UlJnNk1RRHJtZWNiOEllaWpvSDdPWFN3a0Zwd3B3dXJYaFdFMVZ4ZU9wU0J3NHUwVjFFWHdMYkVSMnBNMFVtS0pwWTk2WVNzckpSSkJSOGo1YmlSRk13WThteHlCZkdfcWhrOFRtQ3RfMEZNLVhDdER1XzVQT0FTeUgtRXh1NnlSaFRIcWZDQW1zZ3ZqYkFpaEdXLWt3cnp0Qnc3YWd5OExQeUNfdHhKOWFtaXR5Q21TWkJJaFZOemg2TWpjTG8xb3REZ3VHTjlHTlU1YmtmeHhzRVFVa1NCbl930gH_AUFVX3lxTE14VG1tVV9lMzk2R2ktTWhDNnc5Y0F4OXRFMzBmd25RaW9QWmozUFBqbUZ6ZFpiYzVpUkpBakdfUEt0bF80X0Z3QTVwZ2JYNXdEUXRVOEpvYS1NQWVYcFdXdmlfNUNlRXV6cklFZUZtVGduZmNxMS1LWTYya0RYWTZOWE5NNEVsTUJ6YmZWVTI3dTJxOEljaE1tNTZvMEsyN2FIX25IcW01Z3JsZnhjYTB1dDF1UGU1YndleVIyM3BTeUxiU0hyaU9qZnd0b3ZfbG52V2lsNC1WSnFidWQxUnUtdVZ5Zk56cldablhsM252T3prQWphak9jY3BXbDRrcw?oc=5
+• Posts Revealing Address Of Cockroach Janta Party's Saurav Das Taken Down: X Tells Delhi High Court - Live Law — Social media platform X removed posts doxxing a Cockroach Janta Party leader following Delhi High Court proceedings. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXdiWWYxT1RONURqZl9saHN0RDNvVU5aU0lvTk1JN1J4Zm9VZ3E2ZnpRc2FZM0dMSC1nN254cjBnMGI5cUYwaWtkRi1WVkFxMXZ1NTRfV3JvWmlaVDBSMWRqVmNMMTExdUIta2JRamRfeFYtY3M1MlZEczNoQjZVZTNuNEFrUzk3a19sYmhZc004LWcwRlNEUVpBWVNtMGxjY0puN0V0UEMyeWdXT3d2ck1USGE1Z3NWNlBZRi1HVzJxMG5ndnlZ0gHMAUFVX3lxTE1sdVRRbVZGUlNDVFE0NGQ5WXBKeU1Ia0o3NlNSZlRXLVB3YXlsUWNKUzhWTkRqQWJBUnEwVHpWSy1DdmVHcFo1WmxMNnI2V0M2REY3OVk5OUtQQVpQTmxGYlBZVzNqSlc5cmtHWF90Q1RuWHg1T3B4QkR1Q1otVFpDV3piVXdCVzJQSHpwZzhaTXVuOGt6Wk5WRzBZNzVrcXloZlF2WFdDUHVwaGxqdkNPQ29wc3BsSXhEenR0UmVtR3RYdWl0bXpIbVliSQ?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-16-Aug-2026</id>
     <title>Daily Briefing — 16 Aug 2026</title>
