@@ -54,8 +54,9 @@ def entry_id(entry):
     return hashlib.sha256(key.encode("utf-8")).hexdigest()[:16]
 
 
-def fetch_category_entries(category_key, category_cfg, seen_ids, max_per_source=8):
-    """Fetch entries for one category, skipping already-seen items."""
+def fetch_category_entries(category_key, category_cfg, seen_ids, max_per_source=8, max_per_category=20):
+    """Fetch entries for one category, skipping already-seen items. Caps the total per
+    category so the Gemini prompt doesn't balloon in size (which risks timeouts)."""
     collected = []
     for source in category_cfg["sources"]:
         url = source["url"]
@@ -78,7 +79,7 @@ def fetch_category_entries(category_key, category_cfg, seen_ids, max_per_source=
                 "link": entry.get("link", ""),
                 "source": source["name"],
             })
-    return collected
+    return collected[:max_per_category]
 
 
 def build_gemini_prompt(all_category_items, category_meta):
@@ -123,20 +124,30 @@ Here is the data:
     return prompt
 
 
-def call_gemini(prompt, max_items):
+def call_gemini(prompt, max_items, max_retries=2):
     prompt = prompt.replace("{max_items}", str(max_items))
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.3},
     }
-    resp = requests.post(GEMINI_URL, json=body, timeout=60)
-    if not resp.ok:
-        print(f"[ERROR] Gemini API returned {resp.status_code}: {resp.text[:500]}")
-    resp.raise_for_status()
-    data = resp.json()
-    text = data["candidates"][0]["content"]["parts"][0]["text"]
-    text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-    return json.loads(text)
+
+    last_error = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.post(GEMINI_URL, json=body, timeout=150)
+            if not resp.ok:
+                print(f"[ERROR] Gemini API returned {resp.status_code}: {resp.text[:500]}")
+            resp.raise_for_status()
+            data = resp.json()
+            text = data["candidates"][0]["content"]["parts"][0]["text"]
+            text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+            return json.loads(text)
+        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError) as e:
+            last_error = e
+            print(f"[WARN] Gemini call attempt {attempt}/{max_retries} failed: {e}")
+            if attempt < max_retries:
+                print("[INFO] Retrying...")
+    raise last_error
 
 
 def resolve_selection(selection, all_category_items):
@@ -238,41 +249,75 @@ def write_atom_feed(archive):
         f.write(feed_xml)
 
 
+def send_telegram_error(stage, error):
+    """Best-effort notification so a failure is never silent - keeps it short, no stack trace."""
+    short_error = str(error)[:200]
+    message = (
+        f"⚠️ Daily Briefing FAILED\n\n"
+        f"Stage: {stage}\n"
+        f"Error: {short_error}\n\n"
+        f"Check GitHub Actions logs for full details."
+    )
+    try:
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        requests.post(url, json={"chat_id": TELEGRAM_CHAT_ID, "text": message}, timeout=15)
+    except Exception as notify_error:
+        # If even the error notification fails, just log it - nothing more we can do.
+        print(f"[ERROR] Could not send failure notification to Telegram: {notify_error}")
+
+
 def main():
-    config = load_json(CONFIG_PATH, {})
-    seen_ids = set(load_json(SEEN_PATH, []))
+    stage = "startup"
+    try:
+        stage = "loading config"
+        config = load_json(CONFIG_PATH, {})
+        seen_ids = set(load_json(SEEN_PATH, []))
 
-    categories = config["categories"]
-    max_items = config["briefing_config"].get("items_per_category", 4)
+        categories = config["categories"]
+        max_items = config["briefing_config"].get("items_per_category", 4)
 
-    all_category_items = {}
-    for cat_key, cat_cfg in categories.items():
-        items = fetch_category_entries(cat_key, cat_cfg, seen_ids)
-        all_category_items[cat_key] = items
-        print(f"[INFO] {cat_key}: {len(items)} new items fetched")
+        stage = "fetching sources"
+        all_category_items = {}
+        for cat_key, cat_cfg in categories.items():
+            items = fetch_category_entries(cat_key, cat_cfg, seen_ids)
+            all_category_items[cat_key] = items
+            print(f"[INFO] {cat_key}: {len(items)} new items fetched")
 
-    if not any(all_category_items.values()):
-        print("[INFO] No new items across all categories, skipping send.")
-        return
+        if not any(all_category_items.values()):
+            print("[INFO] No new items across all categories, skipping send.")
+            return
 
-    prompt = build_gemini_prompt(all_category_items, categories)
-    selection = call_gemini(prompt, max_items)
-    result = resolve_selection(selection, all_category_items)
+        stage = "building Gemini prompt"
+        prompt = build_gemini_prompt(all_category_items, categories)
 
-    message = format_briefing(result, categories)
-    send_telegram(message)
+        stage = "calling Gemini API"
+        selection = call_gemini(prompt, max_items)
 
-    date_str = datetime.now(timezone.utc).strftime("%d %b %Y")
-    update_archive_and_build_feed(message, date_str)
+        stage = "resolving selected items"
+        result = resolve_selection(selection, all_category_items)
 
-    # mark everything we fetched as seen (not just what was selected) to avoid re-fetch churn
-    for items in all_category_items.values():
-        for item in items:
-            seen_ids.add(item["id"])
-    # keep the seen set from growing forever - cap at last 2000 ids
-    save_json(SEEN_PATH, list(seen_ids)[-2000:])
+        stage = "formatting briefing"
+        message = format_briefing(result, categories)
 
-    print("[INFO] Briefing sent successfully.")
+        stage = "sending to Telegram"
+        send_telegram(message)
+
+        stage = "updating archive and RSS feed"
+        date_str = datetime.now(timezone.utc).strftime("%d %b %Y")
+        update_archive_and_build_feed(message, date_str)
+
+        stage = "saving seen_ids"
+        for items in all_category_items.values():
+            for item in items:
+                seen_ids.add(item["id"])
+        save_json(SEEN_PATH, list(seen_ids)[-2000:])
+
+        print("[INFO] Briefing sent successfully.")
+
+    except Exception as e:
+        print(f"[ERROR] Failed at stage '{stage}': {e}")
+        send_telegram_error(stage, e)
+        raise  # re-raise so the GitHub Actions run still shows as failed (red X)
 
 
 if __name__ == "__main__":
