@@ -7,6 +7,7 @@ Run daily via GitHub Actions cron.
 import json
 import os
 import hashlib
+import time
 import requests
 import feedparser
 from datetime import datetime, timezone
@@ -124,7 +125,10 @@ Here is the data:
     return prompt
 
 
-def call_gemini(prompt, max_items, max_retries=2):
+RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+
+
+def call_gemini(prompt, max_items, max_retries=3):
     prompt = prompt.replace("{max_items}", str(max_items))
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -135,18 +139,30 @@ def call_gemini(prompt, max_items, max_retries=2):
     for attempt in range(1, max_retries + 1):
         try:
             resp = requests.post(GEMINI_URL, json=body, timeout=150)
+
             if not resp.ok:
                 print(f"[ERROR] Gemini API returned {resp.status_code}: {resp.text[:500]}")
-            resp.raise_for_status()
+                if resp.status_code in RETRYABLE_STATUS_CODES and attempt < max_retries:
+                    wait = 10 * attempt  # 10s, 20s, 30s backoff
+                    print(f"[INFO] Retryable error ({resp.status_code}). Waiting {wait}s before retry {attempt + 1}/{max_retries}...")
+                    time.sleep(wait)
+                    last_error = requests.exceptions.HTTPError(f"{resp.status_code} error", response=resp)
+                    continue
+                resp.raise_for_status()  # non-retryable (or out of retries) - raise now
+
             data = resp.json()
             text = data["candidates"][0]["content"]["parts"][0]["text"]
             text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
             return json.loads(text)
+
         except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError) as e:
             last_error = e
             print(f"[WARN] Gemini call attempt {attempt}/{max_retries} failed: {e}")
             if attempt < max_retries:
-                print("[INFO] Retrying...")
+                wait = 10 * attempt
+                print(f"[INFO] Retrying in {wait}s...")
+                time.sleep(wait)
+
     raise last_error
 
 
