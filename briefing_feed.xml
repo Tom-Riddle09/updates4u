@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-08-25T19:03:37Z</updated>
+  <updated>2026-09-05T11:20:03Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-05-Sep-2026</id>
+    <title>Daily Briefing — 05 Sep 2026</title>
+    <updated>2026-09-05T11:20:03.382896+00:00</updated>
+    <published>2026-09-05T11:20:03.382896+00:00</published>
+    <content type="text">📰 Daily Briefing — 05 Sep 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters — Microsoft warned of a high-volume phishing campaign utilizing invisible Unicode characters to bypass email security filters. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html
+• PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution — PostgreSQL patched a 12-year-old flaw (CVE-2026-6471) that allowed users with replication privileges to execute arbitrary code as the database OS user. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html
+• New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic — A stealthy Linux backdoor dubbed Ted was discovered embedded in custom HAProxy load balancers to intercept and tamper with web traffic. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html
+• Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day — Google released a Chrome security patch addressing an actively exploited high-severity zero-day vulnerability in the V8 engine. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html
+
+💰 FINANCE (India + Global)
+• FIIs are coming back: Can Indian stocks sustain buying for 3rd consecutive month in September? — Foreign portfolio investors returned strongly to Indian equities in August, recording over $3.2 billion in net inflows led by consumer and financial services. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-coming-back-can-indian-stocks-sustain-buying-for-3rd-consecutive-month-in-september/articleshow/133798249.cms
+• Bitcoin trades at $79,000, next week’s US inflation data to test rate-cut hopes and crypto valuations — Bitcoin traded near $79,000 as global markets braced for upcoming U.S. inflation data to assess Federal Reserve interest rate cut expectations. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-79000-next-weeks-us-inflation-data-to-test-rate-cut-hopes-and-crypto-valuations/articleshow/133794377.cms
+• Dollar deluge from FCNR push to test RBI's liquidity drain toolkit — An influx of over $136 billion from the RBI's FCNR push has saturated the Indian banking system with surplus liquidity, challenging central bank absorption tools. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/dollar-deluge-fcnr-liquidity-rbi-mesures-foreign-reserves-market-rupee-11788517231526.html
+• Dollar Posts Weekly Loss as Yen Jumps Amid Shifting Rate Bets — The U.S. dollar logged a weekly decline as a surging Japanese yen and mixed monetary policy signals shifted currency market expectations. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/dollar-posts-weekly-loss-as-yen-jumps-amid-shifting-rate-bets-11788559180077.html
+
+🇮🇳 INDIA NEWS
+• Revanth and TCS announce ₹70,000 crore AI Data Centre in Future City, to be completed by June 2, 2028 — TCS and the Telangana government announced a ₹70,000 crore AI data centre in Future City, scheduled for completion by June 2028. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/telangana/revanth-and-tcs-announce-70000-crore-ai-data-centre-in-future-city-to-be-completed-by-june-2-2028/article71431767.ece
+• Around 330 held in crackdown on fraudulent activities in Assam: DGP — Assam police arrested around 330 individuals in a statewide crackdown on organized phone fraud and extortion syndicates. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/assam/many-held-in-crackdown-on-fraudulent-activities-in-assam-says-dgp/article71431714.ece
+• Complete all monsoon preparedness works in Chennai by September-end, T.N. Chief Secretary instructs officials — Tamil Nadu's Chief Secretary instructed civic authorities to complete all monsoon desilting and drainage works in Chennai by the end of September. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/complete-all-monsoon-preparedness-works-by-september-end-tn-chief-secretary-instructs-officials/article71431609.ece
+• An entry ramp on the Ganga Expressway caved in on Tuesday morning following heavy rainfall. — An entry ramp on the Ganga Expressway collapsed at Dahi Chowki following heavy and continuous rainfall in Uttar Pradesh. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/KxtLm-tTwm8
+
+🌍 WORLD NEWS
+• US envoys arrive in Moscow ahead of Ukraine talks — U.S. envoys arrived in Moscow to hold talks on the Ukraine conflict before proceeding to Kyiv. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss
+• Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect — European intelligence and security services suspect Russian involvement in an escalating series of infrastructure sabotage incidents across the continent. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss
+• Nepal rescuers try to reach dozens trapped in tunnel after two found alive — Rescue teams in Nepal are racing to reach dozens of individuals trapped in a tunnel following deadly monsoon flooding and landslides. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&amp;at_campaign=rss
+• UN votes to adopt new world map to reflect Africa's true size — The UN General Assembly voted to adopt a new world map projection that accurately reflects the geographic scale of Africa. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Retold — Retold launched a platform that uses AI to convert recorded family audio stories into hand-drawn animated films. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/retold
+
+🔥 ON-GOING EVENTS
+• Brahmbhatt launches CJP-Democratic, accuses Dipke-led platform of aligning with AAP - The Hindu — Brahmbhatt launched a breakaway faction named CJP-Democratic, accusing the original leadership of aligning with the AAP. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT281cm0yR2NjM2pWQk5Sbi1RR0haTm1QRzZnMGJ3a0ptU2hYM2JmMG5YSGRYZm9xOG51YmdtRjRxcE1zdVJybUNIYi1GekNDUi1oVWhBdmZobnNySUZDX1ZMNExXQzBBaUtjMkxacGFDam1jZDRJWmhPSjQtWHp5QU4tc1BGRXVpQ3o1TURyNXA0VmZPS0h1dExjMFF1SWVWcXJReF9qOEJUekpqSnNLSS1DeFBFNGFpdXEzc21HUU12cy16RWtnRjBkMExXZzVjRUNKa0ZULVHSAd8BQVVfeXFMTk1KNmp1RkszUUxYeFlHRnlZdWxIbDMzbHBKem1JaFh2Y3NtbnlIb2d1WG1DMU1zdW9xdzdrbVpSSkw0ZnVER3gwc25DekhjcWFabTRqWUVwa01UYmZ1cmF0SnBtQ2NkczhwNGVpYU1tTVdvaGplWDRfLU00X3p5MVpHbXVBdnZrV0RfQzVmWHhiblZKaWZfWmFxVWh4aHBPTFdONVJFTEpQN1J3azMwN3NSTHl3Q3Z1cFhhMWZVeVBtaU8tN21xQm82al9kZk1UV0Nxa2J6NXZ6dEVaMTd5dw?oc=5
+• End fast, march to Mumbai: Cockroach Janta Party founder tells tribal students, targets PM CARES Fund - The Times of India — The Cockroach Janta Party founder urged protesting tribal students to end their fast and prepare for a march to Mumbai. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQN1RZR1VoYkdhaE94eFptVXE5NVdneGRhWl9od3NtVUY4b1RNUWsxYldJeWZIV25RNXVndVc5YV9iQkNnMXdrUXA3OUNiN0FFOXFVdE52Z2NVMy1saFlTTUFhM2dfQktoZjdVdzJ4S0RyeTJaOFJ1OFVVS25FR1B0SGhZSjFDQ2NURk5GTHgxS0xaT0hQcUJrc2k4eEhIX21sMUFPTngwU0pscEQtZW5ITTBhaWdud25lUGZtdlktTkIyelN6UUFQWlVYRHZDeTFOT2RJR216TVB3N0hzR2sydUl6c0dYR3J6NmtTZ05BUHN4WnlXSFVPNGV1dU5qZ2NmSHfSAYcCQVVfeXFMTzFWSWNiSEM5NUdpTUZhcm8zVTlnMmRPakVjV1ZXMDdEb3c0YW52dDNLTmdxUnhLSm4ydUJWbWtENU1YM3p0RVRUM0xMTW9rMDhWNXR1N3RPaG5FMjBpVTRkbk16OTVidXAzTGo2eEgwak1GLUVRQjV6UkJpdlVBal9mc0JVSTlmLUxrLXMwaS1IUm1qNzNBSk1IekszbW1MM090bFZuWlB3dlNZRUpicEdadkJWcVFCbzFhTG9KOVFNbWgwU0I5OUF4bTQ5aHNKcVhCdWVzUnNnMUdYMV80Z2lqT3Y4RzlTSmpHZ1RuN2F5THNMalVPUmgxd3FkZTRMbGR1T2E5cEE?oc=5
+• 'Sanghi goon still free': Dipke demands DCP Sharma's prosecution over inaction against Hindutva influencer | India News - Hindustan Times — CJP leader Dipke called for legal action against senior police officials over alleged non-action against a Hindutva influencer. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPazZGMGlYMmVfTDNHNFhveVhsRTlXN0ExOHgzblJxYzJOejZfOW1rMTBfbkxDTmxJSENkdTdGUm1ELUQwbUpDekIycmVUSW93RlItM0ttSkZuRGdBN3FJS1Zjbk9kb3pCUHBiZlVEMEZaMU1WTW9wWWZEYkNXVktYeENEY29fNGNTSTZrTzVQWTJHdXo4aC1TQVpyY3NJQ0E5VmRsN3JZVTNSa1FwWHpZWUZCUndtSlM0d2FyeWRNbTlGRGd0S3hVcnRTTHc5MWNlSlpIRHh5QjJLSnllZ0dFRDBMV09vdXgzQWYxal94VGlwa0ZNcm04b3VZbGluNU13cndscW51bWwzSUtXUUlub9IBlgJBVV95cUxNZWtEYl96SmYxYXkwdGhmYUxBUWpXLTFQNmU4TzFwNWdZaWJ0R3BsUHI1eENEeTIzbk5kblpoZV9KUDJMSXJzYnB1QkdNVlVSWUpsQ1F3SlRxc2liWlk5SmttTUkxQUpWU3E1cFprVUVJTlBjOGpVV1JMSGxNUTRyLWJpWmxBWjdLNzBMUFI3YzUwdlQ3eVowY3Y3cU1YYU9CYVJHRUhDcEdVV29hYmhRV1RsVDBpa0pLRWRQeWxMZnh4S1pfd2dCWVZUWUlDQ2k2QmhDWWgxSFQ1bmduckZNV2FQTkJGaUJ2X2NoUVlnbXhHMDhBRnN3SmZQaVJMSDY0SWlEZmF1ZXRHY0ZaSmdmN0F5LW1VQQ?oc=5
+• Rajasthan school exposed by CJP razed, new Rs 18 lakh building gets nod - Telegraph India — A government school in Rajasthan flagged by the CJP was demolished after the state sanctioned ₹18 lakh for a new building. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEVXQWRvSVp2ck9mS1lfVGZyc184eDRmRXJsNURfSlJuNEFtTFFydFRXTGNFYUpiU010MnVpRHBMdXVyRGJaTm5Xem1rT2ZjQV9fYV9kb0VqSmw0ZUc5V0JZS1Eyb3YtS0x3VHJfelptMGZ5NWE2dWxqXzV4TkJsaGsyNlhVbjJHaUVoTEg5d2FNS3JHVnk1aF85WDlkWk85c0p2NU00ZGFOZmFzN0RfbkRaeklXZk1MQUNucVR0dWVHZzdjbWFCSU5VNEJkbWR6LUZhTdIB2gFBVV95cUxQeUd0b0o0WGh4ZFB2V1BPZ0tzVWdvSUdRZWpFamd6ZXUzQzNzZ0FLOGs0MFMyRGRaSnN5MTBrd0NLbVpfSUtMRHY4aWR3cF9XTmw2cmRON2dnOWpRSGZObEpJY1ozb2RGN0F0TlRjblBwdzg3VEduTkhtNkpEOEY3QjJOa3pONVdiUmY2UlhFT1RKRjNjOTJ4ZXI0clVnME9RZ3QtSldHd3k0dG92ZTR2WjJWQUZ0aHBUNld6TWRlaGdSUncweU95a2ZGTVNkVVZhSHBUTzVLRE5Cdw?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-25-Aug-2026</id>
     <title>Daily Briefing — 25 Aug 2026</title>
