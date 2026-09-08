@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-09-05T11:20:03Z</updated>
+  <updated>2026-09-08T12:13:36Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-08-Sep-2026</id>
+    <title>Daily Briefing — 08 Sep 2026</title>
+    <updated>2026-09-08T12:13:36.388587+00:00</updated>
+    <published>2026-09-08T12:13:36.388587+00:00</published>
+    <content type="text">📰 Daily Briefing — 08 Sep 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials — A flaw chain in FreeIPA allows unauthenticated clients to generate reusable Kerberos credentials with full Linux domain administrator privileges. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html
+• Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell — Adobe patched a critical zero-day vulnerability in Magento and Adobe Commerce that is actively exploited to execute arbitrary code and deploy backdoors. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html
+• PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution — Researchers uncovered PEEP, a post-exploitation framework disguised as a browser extension that turns Chrome and Edge into backdoors for remote command execution. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html
+• Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks — Threat actors are targeting Microsoft 365 and SaaS environments using IT help desk vishing and adversary-in-the-middle token theft for extortion. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
+
+💰 FINANCE (India + Global)
+• Bitcoin falls below $79,000 ahead of US inflation data. Here’s what’s weighing on crypto — Bitcoin dropped below $79,000 as resilient U.S. jobs data raised concerns over sustained higher interest rates ahead of key inflation reports. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-below-79000-ahead-of-us-inflation-data-heres-whats-weighing-on-crypto/articleshow/133923576.cms
+• Market wrap: BEL, HUL, ICICI Bank, Axis Bank top gainers and losers on Nifty and Sensex on Tuesday — Indian benchmark indices fell as elevated crude oil prices and global interest rate anxieties weighed heavily on domestic markets. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-hul-icici-bank-axis-bank-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/133923188.cms
+• The yen's sudden surge upsets the carry trade faithful — A sharp rally in the Japanese yen driven by expected Bank of Japan rate hikes has disrupted global currency carry trades. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/the-yens-sudden-surge-upsets-the-carry-trade-faithful/articleshow/133921530.cms
+• Rupee endures sharpest fall in over a month as Brent oil barrels towards $100 — The Indian rupee suffered its steepest single-day drop in over a month as Brent crude approached $100 per barrel amid West Asian geopolitical tensions. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-endures-sharpest-fall-in-over-a-month-as-brent-oil-barrels-towards-100/articleshow/133921004.cms
+
+🇮🇳 INDIA NEWS
+• CMRL pay-off case: Keralam begins examining ED report seeking case against Pinarayi Vijayan, kin — Kerala authorities are reviewing an Enforcement Directorate report seeking to register a money laundering case against Chief Minister Pinarayi Vijayan and his family. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/keralam-government-begins-to-examine-enforcement-directorates-report-seeking-registration-of-case-against-leader-of-the-opposition-pinarayi-vijayan-in-cmrl-pay-off-case/article71442237.ece
+• Railways deploys AI on tracks, trains and stations to boost safety — Indian Railways is deploying artificial intelligence systems across tracks, trains, and stations to enhance operational safety. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/telangana/railways-deploys-ai-on-tracks-trains-and-stations-to-boost-safety/article71442188.ece
+• Justice Gokuldas Commission report on 2024 Kallakurichi hooch tragedy tabled in T.N. Assembly; holds police, excise officials responsible — The Justice Gokuldas Commission report on the Kallakurichi illicit liquor tragedy was tabled in the Tamil Nadu Assembly, holding police and excise officials accountable. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/justice-gokuldas-commission-report-on-2024-kallakurichi-hooch-tragedy-tabled-in-tn-assembly-holds-police-excise-officials-responsible/article71441572.ece
+• Russia will welcome India’s efforts toward peaceful resolution of Ukraine conflict: Peskov — Russia announced President Vladimir Putin will hold a bilateral meeting with Prime Minister Narendra Modi during the BRICS summit to discuss the Ukraine conflict. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/international/russia-will-welcome-indias-efforts-toward-peaceful-resolution-of-ukraine-conflict-peskov/article71442448.ece
+
+🌍 WORLD NEWS
+• Canada braces for prolonged trade war as counter-tariffs on US take effect — Canada implemented retaliatory tariffs on $20 billion worth of American goods, heightening trade tensions with the United States. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss
+• At least two people dead after Russian strikes on Kyiv — Russian drone strikes on Kyiv killed at least two people and damaged infrastructure across the Ukrainian capital. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss
+• Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next? — Fighting between Saudi forces and Houthi rebels intensified following strikes on southern Saudi energy facilities. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss
+• How South Korea finds itself trapped in the US-Iran war — South Korea faces escalating diplomatic and security pressure amid confrontation between the United States and Iran. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• Satya Niketan building collapse: Cockroach Janata Party demands accountability and safety audit as 7 people d - India.com — The Cockroach Janta Party demanded structural safety audits and government accountability following the collapse of a building in Satya Niketan that killed seven people. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc0VNSmYwQTJMNHJqQmxUNDlFbS1SRmJZR3h4SUxTUTBqSVZlVkZMSDlOVTMyMGYtNU9BV2xMV1h3RElXMUthaVp6Q1FYbW5Ca2tZNkFqV1BjbGFDaW5FQTBCWkZ1OFZST0plcGZaZlNBMEw2dGFGUUk0eVFkbTFVeFA4TjFKdzZNSElVdE1PTE8wSGdPTTZndjk3Z3ZCc1U1cjFyMG00X2YweTlCOUplTnJTeTFsc2dId0tCczdKWnNNdjM3WTRvRVc3NWdybDZNMmpNRExjN0tuOGlJZFRuaHFxN2xlLWRa0gHuAUFVX3lxTE5YSXdwLTVVNlJlczFSNnZFNXJ3aHlDV0pBSXRVTDFxWEU0RXhjTy14dTBOU0Vqb2RKYmc0cWczVTFvd29IT2ZYclRIdFNGcXlLVGtrLVVObW5ZMm9LSGtiblJGY3pIUUYwbGFaY3p4cWtCZDRGU1oxY2pNOUJOOHdkRVBDNzZUVnRFZW90cnptUXN0cFBTNGU0T0dSMWlIY0NuaHk4cE9QSS0xM01kVEhad0Z5cWMyb202a01VUktSbFFHMkpsWGt6aXNRZ3hYY3BmLUtPRzlpZjUwT09GMGxnNjViaU80TWQ2aERvd0E?oc=5
+• Cockroach Janta Party protest updates | Protest continues for second day; Abhijeet Dipke urges people to join - The Hindu — Protests organized by the Cockroach Janta Party entered their second day over municipal negligence linked to unauthorized student housing. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3daaDJMTGw4M0VYQWFmdjFDMnRUU2h1VnVWNzBXX1FhRlpzZGdSaVhKNXJVR2x0VGFuXzBiTW90YXhvcG1MOXVkbW5zUU5hdzB1UTFsRE9NNGdYR21vcHM1MEhTUmc0WXpHNVpkMW9Qb1RWUjFHbE83VUdoV3BxOHdUUi1jdkEtYnRfamJVS2ZJOElWeVpGTEN1eVM0R3psOHhNUXJGbGlHa19aZ2JfbndsZHU3MExOSnNzb1FaODU1S2tBcFRpalZoa0ZWZ2VFVmExREo2SFFHQdIB4AFBVV95cUxPeGVYU0EwZWd2T1FQNnFwcVhCNlBCMXFZTkVlSGNjcFhEZ3ZwWTF4czh3S1I1QlNOcEQxVGo0MmNaUE11R1hTQ0ZlUUFnNnRrV3Bpa2M4N0dfc3owVkVaTXhScllSWE9RZTVvUFgxOFluOHROR3FScV9SUTNwWWpaRjZ3RWlLNDFQRE55STJ1YlNJTnRQUkVjUEdRQUVoQkNZZ2lHQnBUVXVIajFvLTBRVjh5VDdwWkdIYUdycUtQVWI1eHBqWUpqTHRYNWt3Z01wS2VjNVE0eUFWUnlrMm9zVA?oc=5
+• Satya Niketan Tragedy: Cockroach Janta Party Issues 7 Deman… - GujaratSamachar English — The Cockroach Janta Party released a seven-point list of demands seeking policy reforms and compensation after the Satya Niketan disaster. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQZk9hVmNIMm9fbkozSk1aWjR3RnBUTnpBOUV1Y2lVZ0M1eE0wMHpyUHR6b3UtZEwzemo1T2hYS19iTXJNZGJnM1J5NGtLNXdqMWt5ZVJXV1k5eks4TnI3ejM1WjE4MHlzYzJwM0phdWE5aE5LQXB4bldxTi1obk5PQldFb2RFcHVKeE52bFBtSjFPcDZ6UUFURDBvZ1lFSVJLQmdBVDZadHRlQk5QRHkzOGhnSi04RE1oal9HMnEwN05aRU1TME8wd09DUkk3ZVF6dmJjTGV4SHlKb2p5WXNQRUc1TDl6TEVZd0lrYmJlSzI0T1NNREJ0UVMxN042Z3lLUVY5TDNSejlPb1paNEItWg?oc=5
+• CJP protest in Bengaluru highlights: We are called cockroaches when we try to expose the broken system, Abhijeet Dipke says - The Hindu — Cockroach Janta Party demonstrations spread to Bengaluru, with leaders protesting systemic regulatory failures in urban infrastructure. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUU5Mkt2YjVxTjBqeXpiUmJ2Z3V5RVhsSmNtU3ZmOGlMQ1pVc2xsY0E4aThqUDY2YmlmQzY0UzFoRlpNbkhOTXpPUnEwVWw3Ykh3SEhUSFMyajFLc0lrdGhXN1pwVzdCNU5QejJiMmR1LUF6M3N3NnhEOFp2aHc5NEdhU3BWaWFOSTR1S1BpMHh2c3NNTkcwQkFFZlJtcG1CRmN1TzRueHFCdjBzdzFoZGtmb1RFMGNfeHRRUkVRdFJUXzdBekNfNHRkQmjSAdMBQVVfeXFMUHYxVzVwVkN6Skd1T2ZRNUZtUG5WSmM5eDA4WVhzRzhaTUNQamNIa1VWblpUdWF2RWw1OUVTVzlVNmtBVF9Vd0V3R0x0OU9WMU9EVmZvV2JCTy1qQjd6MjBrQWZrOFpoWnR4RkR4Y053M20ySmhFU3ZNdjlpRE9SSlV5NzVkRXFZYVZZWVlBS1RUYlhsSW85bEpzSHEyejBzLWtkVmc4Y2NBSFc4WFRSSW1uRDZDWXRlNXh2OXFWTDBNV3RaNWJDMXM0Z0toYnJ0VTNDQQ?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-05-Sep-2026</id>
     <title>Daily Briefing — 05 Sep 2026</title>
