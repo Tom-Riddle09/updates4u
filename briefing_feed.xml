@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-09-09T12:24:59Z</updated>
+  <updated>2026-09-20T12:30:49Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-20-Sep-2026</id>
+    <title>Daily Briefing — 20 Sep 2026</title>
+    <updated>2026-09-20T12:30:49.644761+00:00</updated>
+    <published>2026-09-20T12:30:49.644761+00:00</published>
+    <content type="text">📰 Daily Briefing — 20 Sep 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild — Fortinet reported active exploitation of a critical pre-authentication remote code execution vulnerability in the Orkes Conductor workflow platform. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
+• CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild — CISA added three actively exploited Linux kernel vulnerabilities to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html
+• SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE — SolarWinds patched a high-severity vulnerability in Access Rights Manager that allowed unauthenticated remote code execution via a hard-coded key. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
+• CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories — CrowdSec reported that an attacker exfiltrated 170 private GitHub repositories using an ex-employee's credentials compromised during an npm supply chain attack. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
+
+💰 FINANCE (India + Global)
+• ETMarkets Smart Talk | India may see 50 bps of rate hikes in 2026 as Fed tightens: Garima Kapoor — Elara Securities forecasts that the Reserve Bank of India may raise interest rates by up to 50 basis points in 2026 to counter US Federal Reserve tightening. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-india-may-see-50-bps-of-rate-hikes-in-2026-as-fed-tightens-garima-kapoor/articleshow/134365623.cms
+• Rs 23,000 crore outflows! Is the September FII rout indicating a worse end to 2026? — Foreign portfolio investors pulled over ₹23,000 crore from Indian equities in September due to higher crude prices, elevated US yields, and currency concerns. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-23000-crore-outflows-is-the-september-fii-rout-indicating-a-worse-end-to-2026/articleshow/134365561.cms
+• Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings — India's primary market will see 19 initial public offerings raising over ₹4,169 crore alongside 12 exchange listings this week. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms
+• Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints — The Japanese yen faces downside risks and liquidity pressure following the Bank of Japan's lack of strong guidance on future rate hikes. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints-11789892890813.html
+
+🇮🇳 INDIA NEWS
+• Supreme Court refuses extension for Aravalli panel, sets November 30 deadline for final report — The Supreme Court declined an extension request and mandated a November 30 deadline for the high-powered committee's final report on the Aravalli range. (The Hindu - National)
+  🔗 https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece
+• Win For Queer Love? #Shorts #News #PeekTV #QueerCouple #MedicalRights #SameSexCouples #LGBTQIA — The Central government told the Delhi High Court that queer partners are legally authorized to make emergency medical decisions on behalf of one another. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/2yKpTSKxkB8
+• Old era of jingoism, equating Nepali nationalism with anti-Indianism, is over: Nepal Finance Minister — Nepal's Finance Minister signaled a shift away from anti-Indian political rhetoric while seeking revised trade and connectivity agreements in New Delhi. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/old-era-of-jingoism-equating-nepali-nationalism-with-anti-indianism-is-over-nepal-finance-minister/article71487515.ece
+• End of Mamata's TMC? — The Election Commission froze the Trinamool Congress's party name and symbol following an internal split. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/AgyquFg9xRE
+
+🌍 WORLD NEWS
+• Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says — Ukraine launched its largest drone assault on Moscow to date, firing hundreds of drones into the Russian capital. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss
+• Houthis say they targeted Saudi capital with ballistic missiles — Houthi forces targeted Riyadh with ballistic missiles, leading to delays at the Saudi capital's airport after an interception. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss
+• Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' — NATO welcomed a new security pact between Denmark and the United States regarding permanent defense control over Greenland. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss
+• German elections under way which could decide fate of Chancellor Merz — Germany held pivotal regional elections that could determine the political standing of Chancellor Friedrich Merz. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&amp;at_campaign=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Everyone needs a Muse — OpenAI released updated capabilities and quality improvements for ChatGPT's image generation model. (Ben's Bites)
+  🔗 https://www.bensbites.com/p/everyone-needs-a-muse
+
+🔥 ON-GOING EVENTS
+• As it happened: Cockroach Janta Party wins, Dharmendra Pradhan resigns - Telegraph India — The Cockroach Janta Party claimed a political breakthrough following reports of Union Minister Dharmendra Pradhan's resignation. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmozRDc4d05XQTRkNHAwZ1dKdTljaG1hSHhiUmVfNjcxbVRuMEZWWlVHaGRCRXZPNGRwa3QwWXBUS3FBX1JwY2QtVFhuWmotSWZoNUFLUi1yZWlsVmtwc0g3UU9NNGgtdTFIazRmaWVuUVlocVU3elR6SUNvT19aeFREUU9lVXhTTC12UEltbHlOQ0hQTnpZeFllRzYwVXlIclVwZ0hmNzVyQk5vQnRSU0JrRXZQU0t0c1hKelRJelRyRWlqNzh6Q1daUDA4Ul95TkFtTUgtMA?oc=5
+• India’s Cockroach movement threatens to restart protests after mass student arrests - The Guardian — Organizers of India's Cockroach movement threatened to resume large-scale protests following the widespread detention of students. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQT21XQV9sdDFJbDZmZHYxTG1lX2J3VVRuWE9CTlhoNE5GUXJmQVBNZHdrOExPaHhNNGN2QUoxY2dKblhfUnY0Y2lQU0RsdzFHWUtaZGNOcDB5eGJTTEpXQzkyWkZheDAzRTJVcDhOdFlRNGt4d1lpSXMxSlNnR1ZYdDRWTVZMUWFRUWYzZG45OFdfZmQ0YXVkS3AtWTJNRU9PQ2I3WDFYMA?oc=5
+• 'Govt must be thinking something': Kapil Sibal questions NSA order, Connaught Place closure - Telegraph India — Kapil Sibal raised legal concerns over the government's deployment of the National Security Act and the shutdown of Connaught Place during protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzJJVWpIc0drak45TVFWLXVraDg2bG1aamZUNGpDZkJCWFRxVnRwWDJMLWwwTTd6QXE2eDRXTE5QdlFHWUlTdUtWVXJNd09pVThaZWpWZjUxamlhWlIxS3Nfc1hHRjJPUzRualYySWtZWnJTbDJSYXNiTXV5NjdQRi01VTUxZllaWGJuUkNpYWpINUZiY2RQMy1Xcm5vZnY2MUN0aEhoT0FySmI4OXEwTERZNGp0bmhvTjFGeFhmaw?oc=5
+• CJP alleges Centre bid to halt app-based deliveries at Jantar Mantar; Delhi Police deny - Telegraph India — Delhi Police rejected claims by the Cockroach Janta Party that authorities blocked app-based delivery services to demonstrators at Jantar Mantar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmFGTlIwQW9WTWJpbW1YZHRrVXV5VGVWZDBTa2R1akV4X2k1MWh5NjV4OVp3QWVkN0pTcEhpTWlBTFYwRVM0NWw1RUMzRHozR2xBa250cDJaMmEwdTUycE55LXhiQVg5bXhfWjlmVW14TWU0dHBkYU9OemhVOU13cEZRdjBhNEg2dXF2TzByWnBKVFRGWkJUTVE5TGVhSF84aC1lRnFxMlVXTllIc1FxV29iZy1xZE9BWENOQWRR?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-09-Sep-2026</id>
     <title>Daily Briefing — 09 Sep 2026</title>
