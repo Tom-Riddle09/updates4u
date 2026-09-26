@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-09-20T12:30:49Z</updated>
+  <updated>2026-09-26T12:18:25Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-26-Sep-2026</id>
+    <title>Daily Briefing — 26 Sep 2026</title>
+    <updated>2026-09-26T12:18:25.479935+00:00</updated>
+    <published>2026-09-26T12:18:25.479935+00:00</published>
+    <content type="text">📰 Daily Briefing — 26 Sep 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild — CISA added actively exploited Microsoft SharePoint RCE and MikroTik RouterOS vulnerabilities to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html
+• Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack — Kiteworks advised customers to take systems offline for nine hours over the weekend following intelligence warning of an imminent cyberattack. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html
+• Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise — Cryptocurrency exchange Bitget reported a $351.6 million theft from hot wallets attributed to suspected North Korean threat actors following a backend compromise. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html
+• Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild — The Canadian Centre for Cyber Security warned of active exploitation targeting a high-severity pre-authentication SQL injection flaw in Roundcube Webmail. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html
+
+💰 FINANCE (India + Global)
+• Same playbook, different numbers: Why FPI selling may not be the story it looks like — Foreign portfolio investors are rotating into debt and primary markets rather than executing an outright exit from Indian equities despite rising crude prices and US bond yields. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms
+• Bitcoin rebounds strongly this week, trades near $84,000 after climbing above $86,000. Here is what experts say — Bitcoin rebounded toward $84,000 following renewed ETF inflows and easing uncertainty after the US Federal Reserve's September rate decision. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-strongly-this-week-trades-near-84000-after-climbing-above-86000-here-is-what-experts-say/articleshow/134500992.cms
+• Nifty at key 23,000 support: Can bulls trigger a technical rebound? — The Nifty 50 extended its weekly decline for a seventh straight session, testing critical technical support in the 23,000 to 23,200 range. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms
+• Stock market holidays next week: India, China, Taiwan to Hong Kong — these global indices to remain closed on these days — Indian and major Asian stock exchanges will operate on truncated schedules during the upcoming week due to regional market holidays. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-next-week-india-china-taiwan-to-hong-kong-these-global-indices-to-remain-closed-on-these-days-11790396894180.html
+
+🇮🇳 INDIA NEWS
+• CMRL-Exalogic payoff case: ED affirms offence found during probe under PMLA Act warrants investigation by State police — The Enforcement Directorate stated that predicate offences uncovered during its PMLA investigation into the CMRL-Exalogic case warrant a state police probe. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-ed-affirms-offence-found-during-probe-under-pmla-act-warrants-investigation-by-state-police/article71512425.ece
+• Three-capitals petitions infructuous now that Amaravati is Andhra’s capital by law, High Court says — The Andhra Pradesh High Court closed petitions challenging the previous three-capitals proposal, ruling them infructuous following the legal reaffirmation of Amaravati as the sole capital. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/andhra-pradesh/three-capitals-petitions-infructuous-now-that-amaravati-is-andhras-capital-by-law-high-court-says/article71511718.ece
+• Election Commission must respond to SIR irregularity allegations, says Ram Madhav — Senior BJP leader Ram Madhav called on the Election Commission to publicly address concerns regarding alleged irregularities in the Special Intensive Revision of electoral rolls. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/andhra-pradesh/election-commission-must-respond-to-sir-irregularity-allegations-says-ram-madhav/article71509917.ece
+• ‘Resign Gyanesh’ Protests Across India #peekonground #gyaneshkumar #jantarmantar #aisa #news #delhi — Activists and student leaders were detained in New Delhi during demonstrations demanding the resignation of Chief Election Commissioner Gyanesh Kumar over electoral list discrepancies. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/J9UIR1Eqz90
+
+🌍 WORLD NEWS
+• Iran offers US deal to reopen Strait of Hormuz in seven days — Iran offered a deal to the United States to reopen the Strait of Hormuz within seven days as backchannel discussions continue through mediators. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss
+• OpenAI bots meddled with multiple US government agency sites — OpenAI disclosed that its automated web crawlers accessed public data across several US government agency websites during internal testing. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss
+• Bangkok roads submerged as flood disaster declared — Thai authorities declared a disaster emergency across Bangkok as prolonged heavy rainfall caused widespread flooding across major transit routes. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss
+• Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says — Ukrainian President Volodymyr Zelensky stated that Russian military strikes are intentionally targeting national data centers to disrupt civilian connectivity and digital infrastructure. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss
+
+🔥 ON-GOING EVENTS
+• FIR against Cockroach Janta Party over ‘AI-morphed photo’ of woman alongside Modi's image | India News - Hindustan Times — Police filed a First Information Report against the Cockroach Janta Party over the alleged online dissemination of an AI-morphed image involving the Prime Minister. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRGN3eHJ6QndNSW5FNW56RG80QlZOVXJKWHpPQVRINjdDazlSMURXWENFdlVwdFdpRHpLQ1BzMFh5WW9obnVEQnJhY1JHN3ZTZDl0eW45NWR6NmUwVG5MSXJIdzE4VHFJZHplbVZQZzJLWVMwRmFoMlg3RXh0ekhXMzZXbzN6ZXl6bE00RVpQZWgwcUxWZkhaZ0NVS0w5OGVDa211b0RVNzgwSlpsazJ1UXk0YWpaSE9CQ3dyRlllQXRvbGFnNFlpSml3ZnJZWGZSU0RtbDlWVU5IZjhXZnNIYkRVMHhiWHBrcE1TckNKN2NtY1JvMTRV0gH8AUFVX3lxTE5teWhSTVdHazVTZ0pvMUgxbHJ2amZrOFQ5WGV1ejNRYXRkRzFzS1MyNmd6ZmM1dFF3U2NxbVFSUi1zbWQ1SEdwNm5iTG16WmhrajktRktzZklOUW1BeGxpdFd6N1VFQl9sTGgzel94ckw1Tmlrczg5RnBpemlpckJTNnVQbnV3WnhZS0ZNbVpsVHEyeTY0aFhuS3BMU0xWaERPdmVwT0pHSEE0UlQxa2xuUUpQdThISzJycEhEWEtCb2hTVkhacEpIS0wta2FDTUFtaGtiUHJGa3R1dU1tTFlXV2hINFhrNVR3V0lCaFJ1R013LV9lWXgycURXVg?oc=5
+• India’s ‘cockroach’ movement demands election chief’s resignation - Al Jazeera — The Cockroach Janta Party movement has intensified public protests demanding the immediate resignation of the Chief Election Commissioner. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzFDbVBYRElqQm1uLTFRaUN2cF9UczVjcHhlaHhtNU9ickJpdk9nN3NCdDQ1Uk1lUFJmeFpEUmpKMDJHSks1TDhNSzdxN09BRWJVcUtWZFg5S0wxV3lGd2Zxak1sRGJDZU5JTWJjOFdMQlhhbzBCT3JKWHoyNjY2dzdxNUozWGVibjd3ZTBRNTA4X0NmeWVmUEZNQ1M3REhYWHdFZ9IBqgFBVV95cUxPcER4RTlNbERVU0EtRWQxdTVZYzlxQkRFRTdKcF9NWFdNQUhDSnJHQUxqckhGbEF4QmNHTC1JanBBSzl0TXI0bHBNTmIwYVlWV1hkSElmeVEtdFJQc3A1SWEwV29XZm1PUmd0eGNRZWk3czJ2VGM1WUZ5TS13M25pelhzNVFWSmZSamxVQUs0TWpuSFRBcVJkNE5BVzdhUm9nU1ZucjZ1UTFGUQ?oc=5
+• Cockroach Janta Party announces nationwide protest from Oct 2 if CEC Gyanesh doesn't resign | 'Jantar Mantar 2.0 will definitely happen' | Inshorts - Inshorts — The Cockroach Janta Party threatened to launch nationwide demonstrations on October 2 if Chief Election Commissioner Gyanesh Kumar does not step down. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3V4bkVHbVZYdk52QkI1Wlo2LXFzNmZiVi1rT3gzc0VhMmxYMXZ6NXJnV3pESi1heWZhV2plSkJjWTNGN0xCekF5SnZuSjFSTzVjRGZYSEsyQ3JPaFdFTDQ4SEJtVW5lQXZycUZzZnl4WGNKZWRrVTNsSXU1VmJHZldVYnVPWkpZR2V2bmdLR0pVWDhwNEtVc0xQV0E0Mk1BM2d0T2FrTnFlVFBIYzdhUGRaQnJJVWE4cHY3ZUc1SnJXY3dKamRuS2lQUzJBeVnSAdQBQVVfeXFMUEFuWGdRV3dMYVNOV1lpc0l4dkhRMU01RHY3cGNJa3NZRkdWSzZld096VVhOUi1lbkE1MWl4dU1BSmZUTjA1Y3JUZXdTMzh1aGVPOWlkMF91dzQtNTJYLTI5NHg0Tjl0V3Jxd0d2SlBSUXdwVUM1bUtHOGk1QWxoVTBoV284LXdUdmg1MG9GSTQ0aHotNXA3NUlHcTcyOE1iSU1NcEtZX09wNEFBc09YaWo5LXlzRmJaNTFyNXlRZkpBaWc0VE9PaDh2cFpVMjZlYlJRRFY?oc=5
+• India’s ‘Cockroach’ movement makes schools next battleground against Modi - Al Jazeera — The Cockroach movement is expanding its mobilization efforts into educational institutions as part of its ongoing campaign against central authorities. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW1FUFlRZEpIM1BSZ1VGVkVXOG4xWHN4Yk9qOElZS2E4Zk15N2hKZ3JXRVdWVjJYUThHMnRmTnNyS0liVlFZSFVqLU9qYXlPVWhVN0tCQkRrOEg4U1lZQTV2UHlEOGtQd2tYY1A2RjJMbzJ4cUNLcWxocmJlN0E2R200ZmlZVGc2WVBXakl0MTZzTEd2eDU4bWZHdEdRdUFRczNncjdQTzdDM0VEemN2LTYzam12UdIBuwFBVV95cUxNZW5URGNvUzZwTElNd2JqT1hlY3dkakhIQU1uZmZRbU1nbTk0b3R2My1UQXpoT3pUamI2QzhNak9FSnpwY0JfREQ5YXhzazBtWUVhVU42UWM0WUtkanZwelpsWDFISW44dDF4cEdtdlQ3Z2JqdTlTcHFESnRaSV8teWFlaFYyWUdnQXdUNmZ0SzA1RXF4bHVDeENMeGpoSHZwRUo5c2NKbHhGdWtYdkE4bGRkb0tCS3RoUXVv?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-20-Sep-2026</id>
     <title>Daily Briefing — 20 Sep 2026</title>
