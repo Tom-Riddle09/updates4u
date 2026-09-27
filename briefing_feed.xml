@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-09-26T12:18:25Z</updated>
+  <updated>2026-09-27T13:08:57Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-27-Sep-2026</id>
+    <title>Daily Briefing — 27 Sep 2026</title>
+    <updated>2026-09-27T13:08:57.920048+00:00</updated>
+    <published>2026-09-27T13:08:57.920048+00:00</published>
+    <content type="text">📰 Daily Briefing — 27 Sep 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation — Two unpatched zero-day vulnerabilities enabling remote code execution in Citrix NetScaler ADC and Gateway appliances are being actively exploited in the wild. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+• Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials — The Lunex malware-as-a-service platform distributes stealers that abuse an AMD driver to disable security monitoring and harvest browser credentials. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+• Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells — Attackers linked to ShinyHunters are bypassing web application firewalls to exploit a critical Oracle PeopleSoft flaw and deploy web shells. (The Hacker News)
+  🔗 https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
+• EDR Evasion: Process Injection Without WriteProcessMemory — Security researchers documented an EDR evasion technique using console named pipes to execute process injection without invoking WriteProcessMemory. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1wr9sr7/edr_evasion_process_injection_without/
+
+💰 FINANCE (India + Global)
+• ETMarkets Smart Talk | 2-3 crore wealth creators could enter PMS: Sandeep Jethwani on PRIM and India’s wealth boom — SEBI's new PRIM framework reduces the PMS investment threshold to ₹25 lakh, widening retail access to professional portfolio management. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-2-3-crore-wealth-creators-could-enter-pms-sandeep-jethwani-on-prim-and-indias-wealth-boom/articleshow/134517986.cms
+• ETMarkets Smart Talk | The next 12 months may be about capital saved, not returns made: Praveen Jagwani — Market analysts advise prioritizing capital preservation as potential US Federal Reserve monetary actions threaten foreign inflows and the rupee. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-the-next-12-months-may-be-about-capital-saved-not-returns-made-praveen-jagwani/articleshow/134516792.cms
+• India investment future: FIIs remain net sellers in Sept 2026 but these 5 factors can bring them back - Experts decode — Domestic institutional investors absorbed heavy September market selling, investing ₹52,617 crore to counter ₹18,531 crore in foreign portfolio outflows. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/india-investment-future-fiis-remain-net-sellers-in-sept-2026-but-these-5-factors-can-bring-them-back-experts-decode-11790500863005.html
+• Wall St Week Ahead-Jobs report, inflation data to test US rate path, economic strength — Upcoming US employment and inflation prints will serve as critical benchmarks for the Federal Reserve's interest rate trajectory. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/wall-st-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength-11790503314965.html
+
+🇮🇳 INDIA NEWS
+• Belagavi: Technology Business Incubator inaugurated at Visvesvaraya Technological University — Visvesvaraya Technological University has inaugurated a new Technology Business Incubator at its Belagavi campus. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/tech-incubator-in-vtu-campus/article71515962.ece
+• Modi Allies Question ECI — The Election Commission of India issued an official clarification regarding voting procedures following inquiries from NDA coalition partners. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/CpaonM4oHKQ
+• Protests erupted at LPU after reports of a student r@ped and later dying by su!cude circulated. — Widespread student protests and highway blockades erupted at Lovely Professional University in Punjab over the alleged death of a female student. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/VxR-pjYOXmU
+• EC Data Contradicts Adhikari’s SIR Claims, IIT Bombay Faces Protests over Dalit Student’s Death, and more. — Election Commission data challenged political claims regarding voter lists in West Bengal as student protests surfaced at IIT Bombay. (The Wire (via Kill the Newsletter))
+  🔗 https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn/entries/pj81w6m2zcf4x56wunno.html
+
+🌍 WORLD NEWS
+• Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal — Iran reiterated that diplomatic negotiations remain the only path to resolution after the US rejected a proposed Strait of Hormuz framework. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss
+• Two mass shootings in South Africa leave 27 dead — Separate mass shootings hours apart in South Africa left 27 people dead amid an escalation in gang violence. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss
+• Nor'easter brings flooding as New York and New Jersey declare emergency — New York and New Jersey declared states of emergency as a powerful Nor'easter brought severe coastal flooding across the US mid-Atlantic. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss
+• Floods and landslides kill at least 56 people in India, 12 in Nepal — Severe monsoon flooding and landslides have killed at least 56 people in India and 12 in neighboring Nepal. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• CJP announces October 2 protest launch in Mumbai, seeks Gyanesh Kumar's resignation - Telegraph India — The Cockroach Janta Party announced an October 2 demonstration in Mumbai demanding the resignation of Chief Election Commissioner Gyanesh Kumar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGdpODc5bE1GVnJnV0o5dUlnOWUyYmRqenRMWTJqZ2l2andscWhzQWF5N2NtcDk2R210Xzk5TGVRelB1SElDdW1ySUdHTkJrclRIWFVjVmVNcVdrQk1fT093b21nNWZjaG1UN3pjOXNibXpUUlFYek1ycm1LaDVXVFRoZ2otNmFqREZnUlZZN1U0Q2hXZWFvMlJFTmVoUnJkeWhOQnVSdUZySUZSVVprYUpGQmNiazFOZnJFakVfNHYtNHJ4Ty15UGxYZW9qVHVt0gHWAUFVX3lxTFA4S2ZiVno5Ql9Fb1RtTEFMa1N3Yk9WZ0tVTGVHMFhnNXppNkotbDFhbVNjdC1Ud3FkRWo5VU9PODRyOXRoRVV1eTNJWlBMenotaUtRQ2hxOGx4cmFQTldmVlVpNVVaYks3a3pRcjdqRndieWdjTC12anpsUzN4WWJjTFotLS1yNmw0ZXR4ZDdjV3NaYjcxNTBQdHVNWHVBa0RjTkxWLTFnMG1xMUtDLXZXTVZIQzN4amh4RzEyOFI1Zk1VYlZBT2xWemY0VFRDck9hdWNtYVE?oc=5
+• Wangchuk backs CJP’s Oct 2 protest seeking CEC accountability, may not attend physically - The New Indian Express — Sonam Wangchuk has endorsed the Cockroach Janta Party's October 2 protest demanding electoral commission accountability. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUFpNTnhpakJSSGp4SXVvOVM1NkpkSWhmdUlRdC1zdGNTbW01T2VPU3hrZkVhY1hPbzE0MmxJYUFPaVc1dzZCcDZiRXZDaE5iMGp3bElMWnJkTTQ3azMtcEViNFpydEhLVVFxTmFWbHN5U3lHLUxnMS1KRTg5b3ZWVUtyTXdmOGM4U3NYaXpwRzNYaUlTVGh4T2VIcm1MNGhCN3lEVDNnb21QaU1ZaTdBWlQyVnNacmFEUEpOaTZNbUV1R09oMXE2Y21fVGVDS2hOSjZv0gHgAUFVX3lxTE0tX3pIVVlNYWlJSkR3aE10LUE0TXpkYnhlNUhuU1BTS1hEMUhBaHgyQjlpV1ZMSWVnNFlOOThaN25CNzZEcllqWlNmSU1qZFNZYS1qZ0NfdHgyZ3ZLa2pYcF91ZmJiXy1tazZ0RU5KNG1pTS04ckszUnlJS0lzazFiRVFONXlGRlRWa29VV3hSWEMyMzMyZThrelBlWWUySExRRnl2Q2NIb19VcFNLWlVfNXpKRnRUcU9BUTR2RXJyeTAyamo2UG1LaUdJNV83eHV4eWNXM3VCOXRpdE9oVTlR?oc=5
+• India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters - CNBC — Global outlets covered the rapid political emergence of the Cockroach Janta Party and its anti-establishment campaigns against election authorities. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxONE1VeHY3dUxpbndLWFNsMW1EZC1wdWtENW9NZlJDQVVWQ2s1d2dERXhvaHlYVGhXZUVlbVV3Nm9DeDlpV1hzUnh3ZzNaMUlnbWFscXc4WTRXYzhrQmt3X0Y4RnFiV0x2LURNQ0dmOXVETEwwS2h2NmpodTY2TzBqZnhXSVFodEgta01XV0RB0gGTAUFVX3lxTE9UYlI1bml4YlNNdDRUSVoxQnI2SDBCOTVLR1l2eHFvSVJ1RFlOTWhoUkZObVJsMXhlQVp4MUc5R2pFbi1LTmhmQXo1bk8xRHZ3X1ItemVqTFFiT1RRdmFrSnhoWW14N1pGanlaaW1tSlpGNFpldGtTUlhfZ0g0RmhuTjFidFlqUUpYVVpmT05YX2ZjTQ?oc=5
+• CJP demands immediate release of co-convener Ashutosh Ranka, volunteers after detention in Guwahati - theprint.in — The Cockroach Janta Party demanded the release of its co-convener and grassroots volunteers following police detentions in Guwahati. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEd2Y2tHYmFJYjN4aGhxMTQtTklLMG1DRXdSMGdJdEMtMlVwSE9QS2YwRmVmNTdCakRqaWE1TGdBalhrM2ZNWnplNUpvWFBjNjRvS3QtSGhGNmptdG84UjRLRi1CQ2dYTHZGU1lUMVZMS0pPcmpDMDV0alVYYnV1bmg2SjFQMFpDWVh0WUNUNzM4RFJXWUoxWUFRb3dwUW9wT0puZl9NYWhpU1p1ZXc0QktudTkwMFRNdnVCQmk0TmlWOWpPRXh0NHM5TVBhQm9zdlHSAdcBQVVfeXFMTzlZbnEyR3hUVzFDRmlOUkZvVmZVWkRNSVNhSlExRUJWSDRvMzJEQ2QzSkFtZHR4ZUVMZEFCQnl5YnhndXRpZnZxQkVwdlZjWF9od25WMnRWU1kwSjJ4cTlxYW1jNndGNUxkRUk4TExUdXd0cHhCdXR2YVp4a1E3cWI1RDBTOVZkWlRiN3lrbjZ3eGQ5UGk5S182Q0FLZHA4S0xRRkZpZFJGZEZjZTZRalIyWHF6MHZyWUNMUTRjcXh4UWNHV25yZHp1Tk5BbjBKTWZkNFhESHc?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-26-Sep-2026</id>
     <title>Daily Briefing — 26 Sep 2026</title>
