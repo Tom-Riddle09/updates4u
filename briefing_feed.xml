@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-09-27T13:08:57Z</updated>
+  <updated>2026-10-01T14:37:39Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-01-Oct-2026</id>
+    <title>Daily Briefing — 01 Oct 2026</title>
+    <updated>2026-10-01T14:37:39.131556+00:00</updated>
+    <published>2026-10-01T14:37:39.131556+00:00</published>
+    <content type="text">📰 Daily Briefing — 01 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV — CISA added an actively exploited authentication bypass vulnerability in Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
+• Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft — Cryptocurrency exchange Bitget reported a $387.5 million loss following an exploit targeting a zero-day vulnerability in third-party security software. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html
+• Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs — Threat actors are actively chaining a critical command injection flaw in Citrix NetScaler to deploy persistent web shells and extract configuration files. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html
+• Critical RCE Alert: Full takeover of HashiCorp Vault and OpenBao. OpenBao is patched. Vault remains exposed — Security researchers published an exploit chain enabling unauthenticated remote code execution and full server compromise against HashiCorp Vault and OpenBao. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1wtn3cv/critical_rce_alert_full_takeover_of_hashicorp/
+
+💰 FINANCE (India + Global)
+• RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10% — The Reserve Bank of India finalized rules granting mutual funds and insurers a one-time approval path to acquire up to 10% stakes in commercial banks. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms
+• Sebi asks stock brokers to display investor warnings on apps and websites — SEBI directed all stockbrokers to implement mandatory alternating risk disclosures and investor awareness notices on digital trading platforms starting November 1. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-asks-stock-brokers-to-display-investor-warnings-on-apps-and-websites/articleshow/134620344.cms
+• Global bond rout hoists benchmark Indian yield to mid-2024 high before RBI policy — India's benchmark 10-year government bond yield rose to its highest level since mid-2024 amid a global bond sell-off and expectations around the upcoming RBI policy review. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/global-bond-rout-hoists-benchmark-indian-yield-to-mid-2024-high-before-rbi-policy/articleshow/134619359.cms
+• Nifty IT crashes 11% in September: TCS, Infosys, Wipro among top losers — Can Q2 earnings spark a rebound? — The Nifty IT index declined 11% through September due to elevated global interest rates and enterprise cutbacks on discretionary software spending. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-it-crashes-11-in-september-tcs-infosys-wipro-among-top-losers-can-q2-earnings-spark-a-rebound-11790851695743.html
+
+🇮🇳 INDIA NEWS
+• Steps being taken to mitigate impact of drought, says Dharwad Deputy Commissioner — The Dharwad district administration initiated drought mitigation programs following declarations that eight taluks suffered extensive crop damage from rainfall deficits. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/steps-being-taken-to-mitigate-impact-of-drought-says-dharwad-deputy-commissioner/article71533438.ece
+• ECI’s Biggest Weapon? — An investigative report examined whether internal Election Commission software systems are superseding the statutory decision-making powers of local election officers. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/2Eet_MpBDYk
+• Delhi's 'Ghost' Voters?: We Found the People Who Were Deleted — Field reporting in Delhi uncovered extensive discrepancies where hundreds of residents in populated settlements were omitted from the draft electoral rolls. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=jmTC8GH97gc
+• CEC Admits Guilt? — The Election Commission issued a public response addressing reported internal governance disputes raised by dissenting commissioners. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/uIQrwe8YMNs
+
+🌍 WORLD NEWS
+• Japan raises permanent residency fee by 20 times — Japan increased its permanent residency processing fees twentyfold as part of a revised immigration oversight framework. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&amp;at_campaign=rss
+• HIV prevention drug hailed as breakthrough, but who gets access? — Global health agencies are debating equitable distribution frameworks following clinical breakthroughs for the twice-yearly HIV prevention injection Lenacapavir. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss
+• Blasts heard in Addis Ababa as Ethiopia conflict widens in the north — Blasts were reported in Ethiopia's capital Addis Ababa as federal military operations against northern armed groups broadened. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss
+• Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault — A Russian drone strike struck a school and vital transport infrastructure in Kyiv during renewed aerial bombardments across Ukraine. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Vitra.ai — Vitra.ai released an agentic content platform intended to streamline automated digital media creation and multi-language content localization. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/vitra-ai-agentic-content-platform
+
+🔥 ON-GOING EVENTS
+• India's youth-led Cockroach movement targets election chief over voter-roll dispute - DW.com — Protesters organized by the youth-led Cockroach movement demonstrated against the Chief Election Commissioner over disputed voter roll purges. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTExoNF9WaWp3dDFDMjVzd29sVjZWVmVFbmFpaG1kcGNzbDJqX3JsdmtnVmdxVDVXREMyOGVMTDBzQzVmT2d0RE9VWXV1NDFIREI0bnJvUnZuNm90WV9OTUtUWUZqOFhpMUtOSXJfRU5CQ0VuMGFSR1VzaGJFbWttTXRVVF9YR2l3RENfTDlKQUViczlrM1dhaWJQUm5pdjRVemZ2Vnk3Z2pITTJDYmk0RnYtT1UtbE51QzhZcU9HUDNLQTdTMHfSAacBQVVfeXFMTnplZlpobnhCdzlUZ1I1bzJqSzBHcTM1VmFVTHdfck5WX0o2d1pEWUFYWTlMOG42Z3pYb3cyWkdGcGo1SEpfaUdBUlltYVdMSUlHcGhuTGlGaUhpQVVJSENlMFcxOWYxb1JYM1lTdGZxd05WWWpLalFyRnJEVVlYMEpIdVdKNmgzQk1JUXZsa0NycHhMcDFSVlNNbk1ibmtGNXlpZXgzS0U?oc=5
+• CJP to launch protests from Oct 2, seeks CEC Gyanesh Kumar's resignation - Business Standard — The Cockroach Janta Party scheduled demonstrations across multiple states demanding the resignation of Chief Election Commissioner Gyanesh Kumar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVEhWbE5xNklWbEp4czYtU3NOZ3Z2UUl3RHROZzRQcmdQVWRtOERpcnhvZ0ZSVUctd0t5ZUdTMlNIYWhaV05wSlJ4UEx4MTBoejBvckJoc1JiQWFJdjJKVFk5NUxuVTk4M1JPN0taRlhJQ2RYcUNkQ0JzUHBZNU9Sd3hHdllwWEplWjJfS21yb2hTSjhIcThXVzRMeGo5dndUR1FQbnZ3OGdoeVZQazlQMEllLXQ1ZVVtV2gzYl9kMVc2VUlyV1htYW5CZ0pJQXRJSXfSAdcBQVVfeXFMT3RqZ0RmZExHZTFSTV9GZW1ReEM2MS1vSVBIWmw0ZElUMFlfaVdPNnMxZXdFcEJNaU5wRFlMV21EWHp2RjRTNXI4UVN3UzB4QkJXelI0bnR0d244N0VKT1F5YnAwclZoSUZwU2lxT1UyVmd6MjVRWlRkMm9qcDlyVlB5OVFhMGY5dVM1R2RBeFFOVXVfa1hKUlMxU2NnOVlSWlhYSzVRUUJCOHRIQ2lHRU5RNjJJc2FBY0w0cnZvT0IwazlNaF9FaExnSmstRDg2NV82QlVHaFU?oc=5
+• Notice To Student Over Cockroach Janta Party Protest Withdrawn, Greater Noida Executive Magistrate Tells... - Live Law — Judicial authorities in Greater Noida withdrew an administrative notice previously served to a student involved in Cockroach Janta Party protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQemlNUWxqMFd1SUdQcWNZQ043Q25ZZEs0aF93cjdQY3BjaWZYalhOYWVVM2lVQl9zVUpUYkw0V1hiVGo4dy1LazhUZFliT01mOWhzU2RKdHVOSFBqSEtweVMxMHpORGZwN1NscFdod2pwMm9ydzhrZkw4THF1NjRqcklIU25ic2VlTDEydHA3U1VEWkk5azZiQmxWY0xxVUdZYnhrQ1hjcUJnUkJuUzFmdWpPWm5rZ1R3aFFXdS1Ja0V6QnFNUjFPVEpReEZYTERqUENDT25HLVFGdHdOdjBCN25Lb3NrYmdiT3lNX2Z1WXfSAfYBQVVfeXFMUDZrMi1QT1Awck8xTnNHTm1hZG5aS0xyMUR3OGVTdUZDRXhUenYxX2pCakJwd0dtSDJqdVFacVE3VU9uNDZnYkJQRjh5bkFocTV5WWVaSEhpTmZlY3Etc1hGYXNoeGcwRmJPbEx2MjlSU1lYR2c4bklsMzhxOExZYnpWWTFIRkVVZXhWWW8yMllHcnJrMEc0dFFxWW50TFR6dm1WZHNEYm9SZ3hwSUpmRDlwT2lNZi1SUkRoMXRieHRkNkJNOUx1blduVTVFaVhOdlE2WXJRV285QV9PNUNmWTBteHN5aVRCSlBmNURoUWtfdWZ5Tmd3?oc=5
+• Cockroach Janta Party turns focus to SIR voter deletions, asks Telangana volunteers to help affected electors - thehindu.com — The Cockroach Janta Party deployed volunteer networks across Telangana to assist voters whose registrations were removed during summary roll revisions. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZG0xVE9teHpxcGVFTU4yY2dqQURDZWk5SHZSOTBXZGxPVVRHSmNXLV9ib1JWcmhhQ1ptYWVyTEtPdjAzQ0EzYmNlUWFJR2U0RVFoZU1WS3NWYUc0Sngyckw5eHJrTjRYWk1Kdm83TlFWWVVpc3h2QTlCV2tFSmFhU0F4aml0YmwwTHJLVmN3WjFJdVF5M3dfdjVNNjBuSmNuVXA5TWtaNFpMZm5DcFpnNDd5d2EyYUNjdmFwdEZ2dktkSnI0RjdzOGU5S3AyWnNFMl85UWIzb2ZkdEpYb0V5TV8zNnZXVmZOMWJPbTVUaThLVVdUZDBnaDExbEpMcUVCdEgtLWFRZ03SAY8CQVVfeXFMT0lvdHV0YnJxQmJjQ1dBVXU1c0t4NXdmbDVKaWtyZ3VydU1renVkMnVCSG5yLWJTc0o5bVYxZFZhUE5XcTNmNDhnRGZWbE9vS2wwczZOb2VQUmloN0ZqT04wUmFRVGJGdm1ybHJSUjJIUFVUeVVvbDU4bmNsN3dvY2xrMDlTa2lHWHB2OHhMYkdDSGM5MGc5bkNsV2VrZFNSam0zQTFialhieENuZDFJYUxLbmF5RnUxU2ozNEp6X0hEZGF1Tnhyd1dIcDBkbldRUHNsMFFxZXlFM29LX1BxLUo4Y0ZPRUNGY0VjSUxCYTVEb3YwdU5WMGhyRWg5eF9vaGlKZTVBSVpNV3ZSN0RhTQ?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-27-Sep-2026</id>
     <title>Daily Briefing — 27 Sep 2026</title>
