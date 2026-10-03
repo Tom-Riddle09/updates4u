@@ -3,7 +3,60 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-01T14:37:39Z</updated>
+  <updated>2026-10-03T12:39:04Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-03-Oct-2026</id>
+    <title>Daily Briefing — 03 Oct 2026</title>
+    <updated>2026-10-03T12:39:04.110336+00:00</updated>
+    <published>2026-10-03T12:39:04.110336+00:00</published>
+    <content type="text">📰 Daily Briefing — 03 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers — GitLab released patches for a critical 9.9-severity remote command execution vulnerability in its AI Gateway affecting self-hosted environments. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
+• Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign — A China-nexus cyber espionage operation is leveraging the Antino backdoor with Outlook and OneDrive C2 to target policy institutions across Asia, including India. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+• Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes — Dell issued fixes for CVSS 10.0 vulnerabilities in its Container Storage Modules that permit unauthenticated root access to Kubernetes nodes. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
+• Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes — CISA added an actively exploited Fortinet FortiMail zero-day vulnerability allowing arbitrary file writes to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
+
+💰 FINANCE (India + Global)
+• Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments — SEBI is preparing a revised framework for the market Closing Auction Session following extensive public feedback on settlement mechanisms. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/articleshow/134655426.cms
+• Global AI stock correction may benefit India, but RBI Governor flags market risks — The RBI Governor stated that the domestic equity market pullback has stayed orderly despite risks stemming from global AI tech valuations. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/global-ai-stock-correction-may-benefit-india-but-rbi-governor-flags-market-risks-11791023745748.html
+• FPIs pull out over  ₹35,000 cr in Indian stocks in Sept: Why SEBI’s easier access reforms alone may not help — Foreign portfolio investors pulled over ₹35,000 crore out of Indian equities in September amid persistent global market headwinds. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/fpis-pull-out-over-rs-35-000-cr-in-indian-stocks-in-sept-why-sebi-s-easier-access-reforms-alone-may-not-help-11791021166199.html
+• After Sept, bond yields to peak in Oct too? Experts decode future of Indian bond market; RBI's next move holds key — Analysts expect Indian bond yields to remain elevated as markets weigh potential RBI interest rate adjustments against inflation pressures. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/bonds/after-sept-bond-yields-to-peak-in-oct-too-experts-decode-future-of-indian-bond-market-rbis-next-move-holds-key-11790928652341.html
+
+🇮🇳 INDIA NEWS
+• Trinamool Congress loses chairpersonship of two key Parliamentary panels — The Trinamool Congress lost the chairpersonship of two major Parliamentary standing committees during the latest panel reconstitutions. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/reconstitution-of-various-department-related-parliamentary-standing-committees/article71540390.ece
+• Protesters were detained in hundreds, organisations are set to return to demand CEC’s resignation. — Student organizations and opposition groups demonstrated at Jantar Mantar in New Delhi demanding the resignation of the Chief Election Commissioner. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/X9uEcBVVkRM
+
+🌍 WORLD NEWS
+• Russia hits second major bridge in Ukraine's capital Kyiv — Russian strikes hit a second critical bridge in Kyiv, escalating targeted damage to Ukraine's capital infrastructure. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss
+• Protesters across Spain demand action over housing crisis — Tens of thousands protested across Spain demanding immediate legislative intervention to tackle the country's housing crisis. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss
+• G7 to release millions of barrels of oil and diesel after Trump threat — G7 nations agreed to release strategic fuel reserves to curb market price spikes following US threats of diesel export limits. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss
+• Ethiopia’s government forces retake airport from Tigray rebels in Mekelle — Ethiopian federal troops retook the regional airport in Mekelle as Tigray rebel forces withdrew from the city. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• India’s Cockroach Party headlines day of anti-establishment protests - Al Jazeera — The Cockroach Janta Party led widespread demonstrations challenging the Election Commission over voter roll revisions. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlI3aVJOQTFQZDdPaW5lcGZ2YWlMMWpuU0U0YTRGUmZNNl9xOWZIdWNTQXNyUDU2VDU3bVlzNzg3LUxJTm1za0QwdENzTERodjZLSjgwVUtSNUVxME9TZTRCcG1GS1FfLUtoc1pPN3lIWmQxMWQ4RHVIOEQyUmthWjluSlhjOGJBd2N2RU5qVUN5QmRib1pFNGRpbnBzY2NqZmJuSzVlV3ZqZVBxbTBLYWxsLV9NSWtjMFHSAb8BQVVfeXFMUHpnWTVRaG01R2ZRN2pmOWtRSFRwamtKbEFjSjJCWVROVi1RbVV0MFVUTDllN2hqZ1RsWVh5aF9HaEdLUExiU2U0YVdudzZvaXBucXF3SWlZLUNlTDdHWVhReXdqUmxvVHZoYmRSZ2hlZERER2F4OHdId21wMHUydzVrX1VWNmRKNThrMm1qZURybElicEEwREd6ZGhlZjRuVW43MjdTWjJGdm5FNnlhZ0RXdVpGYkNVU1RnUG9wZlU?oc=5
+• Resign In 48 Hours Or We'll Begin Protests: CJP's Ultimatum To Poll Body Chief - ndtv.com — Protest organizers issued a 48-hour ultimatum demanding the immediate resignation of Chief Election Commissioner Gyanesh Kumar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOeGJobzRucTJsLUliX2hNeDBsZkV1WERmTWpna3Bzb1VSaEd4UldtUkhYSjRsbG4xT2VtMExMdG83S0M0SndBYjRLU08zOU5OYlBTXzgxT1QxY1JwUkI1Q3NWd3lBTTFjUDlrZG1rYXI5T3FLWVhmUlhqNDZ6QlVOOHV3VzFOZTMzWkV5WW5lUHBFYnowVWV6MnN0Z2VybnNSeXU1OG4tcFFVOVJnajk3ZXMta182QlNGVGJ5QkJEX1YzT25CVkdiN3dJNHFCNVk2eEtHSUIxUFh2bUdOUEFNNmFfdHV0dF9iY0dycjJwT09mc0dlVjBIVHNxMXRUYUJQY00yeFNpTWs2QdIBkgJBVV95cUxPM0t0eTg0UmFhME5GSmdGQldXbHZRY0dPTHphVEt5SnRhcHRaRGNzazRiNjFiUXhJT3Y2alN2TnRRQ2M2bkRNRW5hNFNwN1ZyNTFjSmtpSE8wMGVPWWMtcEpNTnNUWWoyX0E5MTlEanRXQ1I1ZFdWaE80OU9ZOWVlQTFGaHd5T1FrNjhYVV94aEVKZkFwR25fbjk1ZzVyaDRuY3hCdnBQZkFCQkU0bl90clRwU04yUjVnM0ZORXZ1ZVhQWUh2ell5eDJJTWhkaWZEYnN6ZmJVRDhmalNUSWdHdlJ2cFpyb0hPb25SMXRISHhMcG9SWC1MaEJwY2tPQm5SRkxlaHZKQVBwcGtEZ1RtUGNR?oc=5
+• CJP founder Dipke detained briefly after being spotted with placards at Marine Drive: Police - Deccan Herald — Mumbai Police briefly detained CJP founder Dipke at Marine Drive during protests against the election leadership. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWVNaems3OE1fNmh6LU1GTVdJcHFULTVVUmNIekJNYko1bnJaYTFzN00zMmRocGJQNVU4S011SGpLX3BKaVpGY0hNLUVUa0pBNHI5NjJWaDNnd1VLOVVOWHB0QTZOOVVBVGFodVg1WTN0RTBkYkV3OER0czdsVDFXaFJVaThvSndtc3A3ZjBJd1d6ZjROT1NpVXFxc2xwUmc5RHEzcjBGQlgzR3BfVXJhczR4VzZOX0NCQ0FzRG5Od3pVWW5SVXZQUlFGeFdXWENKNWJQZG45TFFBNzIyenc4?oc=5
+• Mumbai Police registers FIR against CJP protest organisers, 400-500 agitators - ANI News — Mumbai Police registered an FIR against several hundred CJP demonstrators and organizers for unlawful assembly. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOVB4RTBSOFl5TzVrUVU1aGZLSlFtS2FVOXQ4Y0VPNG1nLWNxb2ZJTGJnOXJySlBjMHItQzQtRDNUZ3gxcVJxejNCV0IxYzBCV2ZVMnhaRW5XV1EtWjhERC1HRlk1UklITXZXR01vNXhQWnp6M216RVRuS2V3ZHRrZ2E2NldyVFk3dnRGOFBlbWFtc0g0dDQwejdldXdxZWM4QXF0N2NxcktwMXE5bEpISTM5TU00T2ktc0UyWlQzQThtclNRMGtvb2xXalVZdnk4YzJpYzQ0Zw?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-01-Oct-2026</id>
     <title>Daily Briefing — 01 Oct 2026</title>
