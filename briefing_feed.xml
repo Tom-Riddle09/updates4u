@@ -3,7 +3,58 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-03T12:39:04Z</updated>
+  <updated>2026-10-04T13:19:23Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-04-Oct-2026</id>
+    <title>Daily Briefing — 04 Oct 2026</title>
+    <updated>2026-10-04T13:19:23.004463+00:00</updated>
+    <published>2026-10-04T13:19:23.004463+00:00</published>
+    <content type="text">📰 Daily Briefing — 04 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware — Threat actor Warlock is exploiting Microsoft SharePoint vulnerabilities to bypass security defenses and deploy ransomware across Portuguese- and Spanish-speaking targets. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+• ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members — Jordanian authorities have reportedly detained a key suspect behind the ShinyHunters extortion group, who is assisting the FBI in identifying members. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
+• China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing — Chinese cyber espionage group TA419 is conducting adversary-in-the-middle phishing attacks impersonating economists to compromise AI policy experts. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+• How to Hack Time, With C2PA — Security researchers demonstrated methods to manipulate timestamp metadata within the C2PA content provenance standard. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1wxc5pb/how_to_hack_time_with_c2pa/
+
+💰 FINANCE (India + Global)
+• RBI may hike repo rate by 25 bps as inflation and oil risks mount: Sunil Sanghai — Analysts anticipate the Reserve Bank of India may raise the repo rate by 25 basis points in October due to mounting inflation and crude oil pressures. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms
+• Ahead of Market: 10 things that will decide stock market action on Monday — Indian equities extended losses over consecutive sessions as aggressive FII selling, surging bond yields, and elevated oil prices pressured domestic markets. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134673452.cms
+• IT Q2 Preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus — India's top IT service firms are expected to post muted Q2 revenue growth as enterprise clients lengthen deal cycles and compress discretionary budgets. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus/articleshow/134672682.cms
+• OPEC  Set to Keep Quotas Steady in November, Delegates Say — OPEC+ members reached an agreement in principle to keep crude oil output quotas unchanged for November despite Middle East supply disruptions. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/opec-set-to-keep-quotas-steady-in-november-delegates-say-11791103809779.html
+
+🇮🇳 INDIA NEWS
+• EC explains new ERONET options for SIR notice disposal to EROs through demo video; no written instructions yet — The Election Commission introduced ERONET features allowing electoral registration officers to dispose of SIR notices without hearing requirements or physical documentation. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/ec-explains-new-eronet-options-for-sir-notice-disposal-to-eros-through-demo-video-no-written-instructions-yet/article71543373.ece
+• Protest against CEC Gyanesh Kumar: Delhi police detains AISA president Neha Bora — Delhi Police detained AISA president Neha Bora amid demonstrations at Jantar Mantar demanding the resignation of Chief Election Commissioner Gyanesh Kumar. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/protest-against-cec-gyanesh-kumar-october-4-2026/article71542893.ece
+• Keralam CM demands apology from CPI(M) for “seeking to demonise” Muslim-majority Malappuram district — Opposition leaders in Kerala demanded an apology from the ruling CPI(M) for remarks allegedly targeting the Muslim-majority Malappuram district. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/kerala-cm-demands-cpim-apology-for-demonising-muslim-majority-malappuram/article71543437.ece
+• Foreign nationals’ details must be reported within 24 hours of their arrival, Chittoor SP cautions host establishments — Andhra Pradesh police issued directives requiring all accommodation facilities to report foreign national check-ins within 24 hours of arrival. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/andhra-pradesh/foreign-nationals-details-must-be-reported-within-24-hours-of-their-arrival-sp-warns-host-establishments/article71543595.ece
+
+🌍 WORLD NEWS
+• Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit — Russian forces struck a major bridge in Kyiv with drones during an unannounced visit to the Ukrainian capital by the German chancellor. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss
+• Brazil votes in deeply polarised election pitting Lula against Bolsonaro — Brazil is voting in a polarized presidential election contest between incumbent Luiz Inácio Lula da Silva and conservative challenger Flávio Bolsonaro. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss
+• Iran says Hormuz to remain closed until US meets conditions — Iranian officials stated that the Strait of Hormuz will remain closed until specific conditions are met by the United States. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss
+• Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws — Ethiopian federal military forces regained control of the Tigray regional capital Mekelle following the retreat of local TPLF forces. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• CJP announces Jantar Mantar protest on October 10 if CEC Gyanesh Kumar does not resign - The Hindu — The Cockroach Janta Party announced a scheduled protest at Jantar Mantar on October 10 demanding the resignation of Chief Election Commissioner Gyanesh Kumar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa2x4YTJta01PV1hmYk9PeHNyNHE2UmJ3T3NoeEk0SEFxVDBHX21yeUVFX3hudWxLdm1tYnFRekx5TGNwUGVLQzlUTVZDU1FxRXRsZjZ0ZlZGN2ZJRXFsVExjUnQ4M3FMSTdmdm5DdmhDT3BjR3NRaFR6RHA0RXdmREgwVWNFRnNlRXpYOV8ta1B6VW5JY1hFUF9YUGNTVVVjUVNWQm5kc1E4aWhZbC1uLWNxeU5FT2o4Mlk0ZlVKTWk2QUdpeTBpUE11OEs2WkN5UDB3eTFXYS1zejl5S3fSAeQBQVVfeXFMUFdCYkc4dEw5OHFWTVZBcnByYTV2YTNuN1A3Qm5LMmE0eVhPSDhuWmJFQ2UySDdRc3lLTlRkNDFRQ0dYelo4RVlEODV5TUkzeDU0R0ZCY212Q01EZjRLUC0xazEwMXE1d2NxdzRRZVlNaFZFSzU3aHMzclBEOHBMNmFGUnpDdUpzYnBScDdZNlhGRzFmdjRBUy1EdzR3clFwdThqY2FsU28xQm04ZldZazFZVG42TERuNWNORTFpZjVrQnlONm9TQTlvVC1xOHB5NC1uQy16dENtOURYREdYTE5jT2dK?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-03-Oct-2026</id>
     <title>Daily Briefing — 03 Oct 2026</title>
