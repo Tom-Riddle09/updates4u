@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-04T13:19:23Z</updated>
+  <updated>2026-10-09T14:33:20Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-09-Oct-2026</id>
+    <title>Daily Briefing — 09 Oct 2026</title>
+    <updated>2026-10-09T14:33:20.195473+00:00</updated>
+    <published>2026-10-09T14:33:20.195473+00:00</published>
+    <content type="text">📰 Daily Briefing — 09 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access — Security researchers released a working exploit for an AnyDesk Linux pre-authentication flaw that enables remote code execution with root privileges. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
+• Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge — Threat actors are actively exploiting two vulnerabilities in the AhsayCBS backup utility to plant web shells and mine cryptocurrency. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
+• Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies — CISA added five vulnerabilities exploited by the Flax Typhoon threat group to its Known Exploited Vulnerabilities catalog with a mandatory October 11 patch deadline. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
+• You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589) - watchTowr Labs — A pre-authentication arbitrary file read flaw (CVE-2026-21589) has been disclosed across Atlassian Jira and Confluence enterprise deployments. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1wz82op/you_wont_hear_about_these_even_in_myths_atlassian/
+
+💰 FINANCE (India + Global)
+• Half of India’s MTF book is in smallcaps; Nithin Kamath flags liquidity risks — Zerodha founder Nithin Kamath warned of heightened liquidity risks as smallcap and microcap stocks now constitute half of India's margin trading book. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/half-of-indias-mtf-book-is-in-smallcaps-nithin-kamath-flags-liquidity-risks/articleshow/134835308.cms
+• India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift — Indian sovereign bonds extended their weekly decline amid elevated crude oil prices and a hawkish monetary policy shift by the Reserve Bank of India. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-extend-weekly-slide-struggle-to-shake-off-rbi-hike-hawkish-stance-shift/articleshow/134833317.cms
+• Jio Platforms said to set IPO price band, listing likely in October — Reliance's Jio Platforms is reportedly preparing an October IPO to raise up to ₹30,200 crore at an estimated ₹10.3 lakh crore valuation. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-price-band-size-valuation-date-11791553042606.html
+• Relief rally in Indian stock market; biggest weekly losing streak in 25 years snapped: What's next for Sensex, Nifty? — Indian benchmark indices snapped a prolonged weekly losing streak as financial and IT shares rallied alongside easing global crude prices. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/relief-rally-in-indian-stock-market-biggest-weekly-losing-streak-in-25-years-snapped-whats-next-for-sensex-nifty-11791550093630.html
+
+🇮🇳 INDIA NEWS
+• CEC row LIVE updates: Internet services to be suspended within a 4-km radius around Janpath–Kartavya Path crossing from tonight till Saturday — The Ministry of Home Affairs ordered a temporary suspension of internet services within a four-kilometer radius of central Delhi's Janpath–Kartavya Path corridor. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece
+• Delhi braces for CJP protest: 57 metro stations shut, trains cancelled, 23,000 security personnel deployed — Delhi authorities closed 57 metro stations and deployed 23,000 security personnel in preparation for large-scale political protests. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/Delhi/delhi-cjp-protest-october-10-2026-jantar-mantar-traffic-restrictions-police-deployed-everything-you-need-to-know/article71563807.ece
+• Census 2027: Ensure every individual is counted, says Registrar General — The Registrar General instructed officials to ensure complete data accuracy and adherence to deadlines for the upcoming phase of Census 2027. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece
+• Rahul Gandhi's 'Satyagraha' at Delhi's Rajghat — Opposition leaders staged a sit-in at Rajghat demanding the resignation of Chief Election Commissioner Gyanesh Kumar over electoral roll dispute allegations. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/_K0xn_UfM6o
+
+🌍 WORLD NEWS
+• Ethiopia and Eritrea accuse one another of launching war — Ethiopia and Eritrea traded accusations of cross-border aggression, significantly raising the risk of renewed armed conflict in the Horn of Africa. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss
+• Who is Navi Pillay, winner of the 2026 Nobel Peace Prize? — South African human rights jurist Navi Pillay has been awarded the 2026 Nobel Peace Prize for her work against apartheid and international war crimes. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss
+• Ukraine pushes Russia back in Donetsk as military, civilian casualties soar — Ukrainian forces launched counterattacks in the Donetsk region, pushing back Russian positions amid heavy casualties on both sides. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss
+• Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia — Malaysia closed schools across multiple regions after smoke from Indonesian agricultural forest fires triggered hazardous air pollution levels. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• CJP Protest Live Updates: CJP protest: Internet services to be suspended 10pm onwards within 4km radius of Jantar Mantar for 24 hours - The Times of India — Authorities cut mobile internet services for 24 hours across a four-kilometer perimeter surrounding New Delhi's Jantar Mantar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxObTVab1dKUjgzbUw0allZOWFhTW5RMUx0cEU3cUpWUmZVYkpjdm1RQThzdW5rcFRIeEl1WkRwN0QxRWtoREZjQUpqYWdrR2FtaVE1b3dseUNfWXZ5MF9SN2c2dE5DenpsQmR5MWZaNk1ZWVdMdXJjOWlQQmY4OTlVRGdYVEI3WmVwbUszZm1SUFdLa3VUU2Y4bkstY3RyZXYtcVN6VFRjTVFla1VYeDUwcWl4N2wzUllrVXhQeWs3Qjk5Zkk4WlFvbkRMV1o3Rm5KREc2LXZYSGRGUm85UVlLMTEtX0dVRDhVU1U2dGhIbmF1Zmh2MzE2YXYycTJvbXU4SEtsVXdsMWxrdjBPSUJpQnJoMlhWTzI1M3pUUUNEUld5UnFDRDhpYVpZeTBibS13OU5KMFVmZnpDTDZVcHV2ZE9ZV3FXaXg1VzNzLUVLZ9IB1AJBVV95cUxQdG5kTUxtSWJGTUxCeVJXTU1VLS03cUVEYWQ5UUxKSi01VTUwS3M3VThDTEFuMU1mNHNGdzFjWmlveUdPNTl6U002N0pwSHF3aWtoREVoR05UNWw4NTlxRG12SEFTUW1UZVdVSXhyRGREdlRZSUxZUDhSNS1LRzNpaFliQkNMcnhDbHExQ0ZZR1pacHpRcDhtNWpycnVSaXJfeTZSRVFtVmFYbmNrUnEtcEswWmtWX3VLRzVCc2MxMTZUcDhTOTlCd2V5WXMtZ2tTbjYzTEtmNEZhWFMzRGc0QVkzekFLS1VNdURYWkxyX0ZsNThnM1pkZy02a3MwM1lrclBFM1Rxdmtydmk5eFZNS3pqNWFaQ3R1Mzhfd0pxa3ZyNEt2c3l3OEdOUVR2NWVmZHg2ZW9nNXNsZ3hIRDlIeU1vYUdvMVM3NUN0S0JYOVNrd1Jf?oc=5
+• India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest - The Guardian — The Cockroach Janta Party accused police of conducting mass preemptive detentions of its organizers ahead of planned demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUZEYXdwVE1FVWd1bWNyNmRnQWE4OHA2cFZCVTRoVEtvMFVGVDFiakoxNTVfUjlEeGllTXh4MTFScnpWdjR2alNpUmtXRzFKU1M2c2R1a28yZWZwUF9veUZ0YWtBLW90RmI4cmdPTExwbDNCdlF2QnY1el92T2RKdTdCZ1A5YXhtYXhNcDdEa1lZSno3YkpyYjBEWHhoQktqQjV4anVkWUEwOGo5Z3Zv?oc=5
+• Voter-Roll Protests Put India’s Institutions in Focus - Bloomberg.com — Ongoing protests concerning electoral roll integrity have escalated national scrutiny over the independence of India's election machinery. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXNUeXBPZ2JHeTB4NWdiNEhQMWhBY3FZVXU2WjkzTHFzTWVqaXhyWlMwLWFPcUx6b3VuTHppTWtfc0RFdnhBdHd5czJ0MVNjNWx0RUttUHVQR2JtSTVGVG9wcmlVMG9kTXFJOFJoWEl5TDBNeHNuT0xrNk0xVVdiN040Y0FndlN5ZzRDRFdSaDZGU0JsVGNwd2JsTGw3RGU3WktxRkkxbm1NTGVNN2VfVzZBbw?oc=5
+• ‘Don’t use hammer to kill a fly’: SC asks Centre to ease metro, train curbs ahead of CJP protest - The New Indian Express — The Supreme Court directed central authorities to ease severe public transit and metro restrictions implemented ahead of the Delhi protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSFFWZktCNlZseVprSWI3NHlsQUdhNVl5a2E2RU5wMXNwR1g4VkpYczF0eFQ1U3JPMzU3XzcxQkFlZW1zS19sUm1zbkRoaUpEWFU4bjBma1h3NG12OW9KMGJNX2Z2ZlNPT25xdU96bWxrenY5T3Y3MzVzb2ZQZ3I1VzNDMjlXVDZxOUY3bW5TeEJ5SWotRm0wM3FTOTRDQndLdEtuTy1ndERpRTFRRDZPMERZOEs5YTRiSzZxb0ZFNW1JVG05eldHYW13dFRCQWNOeHhLckFjV2U0Z9IB5wFBVV95cUxNZm55YmtCSzEyT1Zic0tra1VhcXIyOXMyX1dyZXhOM1dYX0xMN0VWV3VaYzB6ajZmRmNpbGM3MjgyZFZTUHUwcUxldWZPNnp2TUlyaGl1N2NJRUZ3VWZscmxxRzBRS1g4N3BHXzdyMnRvOVVYeEJTWGJTcVNzc2s0eWIzam5LMk1nUjZQQV8xWW9kaExSME5JdFA1YmVWb0dmVXE0YmF3QXBSeVQ2c0htWXhKOXk2ckdKOTMzb1VYaGt4bUI3NDM4TXMzMnh3LVRydFhKdmdRZWVScDFYd0xBSWpfamRIbVE?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-04-Oct-2026</id>
     <title>Daily Briefing — 04 Oct 2026</title>
