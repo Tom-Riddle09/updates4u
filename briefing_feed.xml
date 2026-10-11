@@ -3,7 +3,70 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-09T14:33:20Z</updated>
+  <updated>2026-10-11T14:14:59Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-11-Oct-2026</id>
+    <title>Daily Briefing — 11 Oct 2026</title>
+    <updated>2026-10-11T14:14:59.215804+00:00</updated>
+    <published>2026-10-11T14:14:59.215804+00:00</published>
+    <content type="text">📰 Daily Briefing — 11 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories — Compromised developer accounts were used to plant credential-stealing workflows across hundreds of GitHub repositories. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/credential-stealing-github-actions.html
+• Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578) - watchTowr Labs — Security researchers uncovered pre-authentication remote code execution chains and patch bypasses affecting PaperCut servers. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x1squu/death_by_a_thousand_papercuts_papercut_preauth/
+• P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands — A new variant of the P7 DarkSword iOS exploit kit has surfaced with enhanced capabilities for on-device keychain and crypto-wallet data theft. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+• GitHub Actions leaking secrets when Miri output is cached — A security advisory highlights potential secret leakage in GitHub Actions during Miri cache operations. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x2dgsg/github_actions_leaking_secrets_when_miri_output/
+
+💰 FINANCE (India + Global)
+• FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend? — Foreign institutional investors pulled over ₹45,000 crore from Indian equities in just six sessions amid elevated US bond yields and high crude oil prices. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms
+• Ahead of Market: 10 things that will decide D-Street action on Monday — Indian benchmark indices snapped an eight-week losing streak with a 1% rebound driven by gains in IT stocks and cooling crude prices. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134869422.cms
+• Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? — Market analysts are assessing whether the recent rebound in the Nifty 50 and Sensex indicates a sustained recovery or a temporary relief rally. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/market-strategy-where-are-nifty-50-sensex-bank-nifty-headed-this-week-top-things-investors-should-watch-11791713354067.html
+• Markets with Bertie | What if the AI bubble has already burst? — Global market strategists are debating whether massive capital expenditures and power constraints are signaling a gradual deflation of the AI investment bubble. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/ai-bubble-burst-bertie-excessive-investment-public-opposition-data-centres-rising-interest-rates-stocks-11791704738597.html
+
+🇮🇳 INDIA NEWS
+• Anti-CEC protest LIVE: CJP leaders vow to protest till CEC resigns, urge all parties to unite ahead of INDIA bloc march — Protests intensified in Delhi with opposition parties backing demands for the Chief Election Commissioner's resignation amid disputes over preventive detentions. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece
+• Embarrassment for 'Vishwaguru'? — The UN Human Rights Office raised concerns over mass protest detentions in Delhi, which the Indian government rejected as internal interference. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/2aw4P3o96Sw
+• Supreme court orders not being followed in Delhi? — Protesters in Delhi alleged that local police continued widespread detentions despite Supreme Court directives upholding the right to peaceful assembly. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/Wr4oC-9FD4A
+• Census 2027: Mizoram to enumerate refugees separately — Mizoram announced plans to separately enumerate tens of thousands of regional refugees during the upcoming Census. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/mizoram/census-2027-mizoram-to-enumerate-refugees-separately/article71571381.ece
+
+🌍 WORLD NEWS
+• Ukraine strikes Yandex data centre in third attack on Russian tech giant — Ukrainian strikes targeted Russian tech giant Yandex's data center infrastructure, forcing a suspension of operations. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss
+• Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport — Saudi Arabia pledged retaliation after a Houthi strike on Riyadh airport resulted in 12 fatalities and hundreds of injuries. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss
+• Homes and bridges swept away as fresh floods hit Nepal — Severe fresh flooding in Nepal destroyed vital bridges and homes as the country struggles to recover from recent disasters. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&amp;at_campaign=rss
+• Children among 109 dead after boat capsizes off Djibouti, UN says — More than 100 migrants died after an overcrowded vessel capsized off the coast of Djibouti en route to Yemen. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• MePersona — MePersona launched an AI tool designed for content creators to automate personalized fan comment replies using their own synthetic voice. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/mepersona
+• Automations in Perplexity Computer — Perplexity introduced persistent automation workflows to streamline contextual background tasks across user sessions. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/perplexity-ai
+
+🔥 ON-GOING EVENTS
+• Hundreds from India's Gen Z-led 'cockroach' party protest, seek election chief's resignation - Reuters — Hundreds of youth demonstrators from the Cockroach Janta Party staged rallies demanding the immediate resignation of India's Chief Election Commissioner. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekRpbGVJR0F5ZURMVElTWW96TTg2c05la2hpang1Tkd6VEtXMTRFSVl4ZHd3eExmM1dmSEFzN2hXWVJ0bFhrVHZDZUd0MzZIdkg4NGt3YmJnRVBObm9LZTlMa1lrMU4zSXlZRk1BWW9GQmEydGM5ai1JSkZqa2hvWXB5SzI4TWUtYUQ4QlR6ZmNudlR6VlhjTVBxeHJpT1lRNEJpOU1yMmVkZE1rWlkydlB5a0c0QXJWb1dZ?oc=5
+• Supreme Court Moved For Release Of Detained Cockroach Janta Party Leaders, Habeas Plea Challenges Delhi Police Action Before October 10 Protest - LawChakra — A habeas corpus petition was filed in the Supreme Court challenging the preventive detention of Cockroach Janta Party leaders ahead of planned protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1qMlRHSkdIS0hYRWZHV1gxMjJscmVFdmItMHl3d3JIQVpzWWRiVjE5eC1wNTB4d3hPVEZ1VWVnZ2VzdnlJM0FIWFVNLTRyMVBjZ3paaGxnanY5RmpqRC1icTVrekJ4YUNiV19jNGhxQXhKbFBYRFVz?oc=5
+• Delhi Airport Detentions, Cockroach Janata Party Ties And Demand For Serious Electoral Reforms - India Today - India Today — Authorities initiated security stops and detentions across Delhi transport hubs targeting activists associated with the electoral reform demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbGNCSnViODdhS21aWEN6ckpMNV8xdlo5bTZLLWpCYU9rYUpxSWdNRGlTLXU1Ukl3a2hzWkNFMExsYkFUc08wLXZHUmpqQVc3M0pVSDN2ZlJkSFBMbHpHOWxrWWUxeERrU0lmTFlyQmFzaU9EZDFpSUQ3aWQ1UTdjNHBueG5hemFhV1Njc09NamhJaVlSWFBGSFllc0hoa211VnBTZnI0WHB6eklXczlkQ2hpU29PV0E2VF83NkxkWUFMMXRjcTNWUkdpZzRCWHQySEthS3QzWjF0bWE3ZnJoV0F6NDkzbTBjOFpj0gHwAUFVX3lxTE8xaUdyZjYwX2RTMWgtWnNWQnUwQXhNcVhGbFVZZ1g3UHpqWXdqNFRpOGJqRGc4V0VmY0hCMWpaWFRXc25SVDgxaGxUV2NjRTRieF9sVmNMd2ZUbFkxSXNHdU0yUlNzQ0xlcVJacEo0bFJFRlNkQVJkZXhNUjBnX2tWN0kyZDNlQU8yYW1wMDBrVjdBLVhLQW9hcDE0OGJ1QWRvQmtMc2JGMXBwdHZuemRRRGh0UzdZR21TUUozamd6Ynl6aTVoLU9LT0dlNWFtSnk3RHJLZzBCeWFET3VkQTlmRHFTRUo5UWlnWG1sNm00aw?oc=5
+• Abhijeet Dipke, CJP: The student behind 'cockroach' protests that forced an Indian minister to quit - BBC — Profiles spotlight student organizer Abhijeet Dipke as leadership of the youth-led protest movement faces sustained government scrutiny. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DNXJINHNnOHdHb0JfU1czd1h5NDhIOFJ2YlNPWkxZM1NSY3dCbF9GQ2pCRHVMN21wRURGcVlJUTd1c1R5Z1hsV3R2emtNRGJHMy1pbm1IbktRdw?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-09-Oct-2026</id>
     <title>Daily Briefing — 09 Oct 2026</title>
