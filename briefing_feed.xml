@@ -3,7 +3,60 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-11T14:14:59Z</updated>
+  <updated>2026-10-12T16:51:34Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-12-Oct-2026</id>
+    <title>Daily Briefing — 12 Oct 2026</title>
+    <updated>2026-10-12T16:51:34.929627+00:00</updated>
+    <published>2026-10-12T16:51:34.929627+00:00</published>
+    <content type="text">📰 Daily Briefing — 12 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch — Threat actors are actively exploiting a critical CVSS 10.0 pre-authentication SSRF vulnerability in SonicWall SMA 1000 appliances. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+• Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE — A maximum-severity unauthenticated remote code execution vulnerability in the WordPress Bricksforge plugin is facing active in-the-wild exploitation. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+• CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records — Threat actor CyberXero used Anthropic's Claude Code to automate initial access and steal over 628,000 Ukrainian records. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+• Google paid me $90,000 for this RCE — A security researcher demonstrated remote code execution against Google DevSite by exploiting insecure Python Flask session cookie deserialization. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x3v6od/google_paid_me_90000_for_this_rce/
+
+💰 FINANCE (India + Global)
+• SBI economists call for scrapping LTCG tax on equities — State Bank of India economists have proposed abolishing the long-term capital gains tax on equities to stem foreign portfolio outflows. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-economists-call-for-scrapping-ltcg-tax-on-equities/articleshow/134897107.cms
+• Rupee rebounds nearly 1% after RBI moves to curb speculative trades — The Indian rupee appreciated nearly 1% following targeted Reserve Bank of India interventions to curb speculative currency trades. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rebounds-nearly-1-after-rbi-moves-to-curb-speculative-trades/articleshow/134896489.cms
+• Nvidia, Micron, SK Hynix shares slump up to 5% as China's CXMT steps up challenge to global chipmakers - What it means — Global semiconductor stocks declined after Chinese memory producer CXMT announced plans to release advanced server memory by late 2026. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/nvidia-micron-sk-hynix-shares-slump-up-to-5-as-chinas-cxmt-steps-up-challenge-to-global-chipmakers-what-it-means-11791819024051.html
+• Small-cap, mid-cap funds grab 44% of equity MF inflows in September — Small-cap and mid-cap mutual funds accounted for 44% of equity inflows in September despite broader market corrections. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-mid-cap-funds-grab-44-of-equity-mf-inflows-in-september-11791809100380.html
+
+🇮🇳 INDIA NEWS
+• Delhi Police de-notifies Jantar Mantar as protest site; activists slam decision — Delhi Police de-notified Jantar Mantar as a designated protest venue, relocating future demonstrations to alternative peripheral sites amid activist opposition. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/Delhi/jantar-mantar-no-longer-legal-protest-site-three-alternative-sites-designated-by-delhi-police/article71574232.ece
+• Former security guard arrested for murder of five-year-old girl in Kowkoor over ₹20 lakh ransom — Police in Hyderabad arrested a former security guard for the kidnapping and murder of a five-year-old girl in a gated community. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/Hyderabad/former-security-guard-arrested-for-murder-of-five-year-old-girl-in-kowkoor-over-20-lakh-ransom/article71574279.ece
+
+🌍 WORLD NEWS
+• Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says — Ukrainian officials reported Russian strikes against six energy infrastructure facilities despite a recently announced ceasefire framework. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&amp;at_campaign=rss
+• Saudi minister vows 'serious response' to Houthi attacks on airports — Saudi Arabia warned of serious retaliation after Houthi strikes on two airports resulted in 13 deaths. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&amp;at_campaign=rss
+• Fridges in French supermarkets hit by cyber attack — A coordinated cyberattack disabled refrigeration systems across hundreds of French supermarkets, spoiling millions of euros in inventory. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss
+• Oil tanker reportedly attacked in Strait of Hormuz region — An oil tanker caught fire following a suspected drone strike off the coast of Oman near the Strait of Hormuz. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times — Key leaders of the Cockroach Janta Party were released from custody as smaller demonstrations persisted across New Delhi. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFBPcERCT3JRang5VkNkblVWVHRQWHFJZXlIRXVCTlFMSEpmRXpXcFk2OUZzcXdHR2hncEJ0clN2MXJtWF9CZTY1RkN5Q2hUQnc2bHBTQ0VZR1JPSTdBSXE1SjczYXB5N3NPRk1FaDhzUVdPeElHM2VYOUMtb2JkZThGWW11ek94Ukc3NkJKRnU0ZVE3WlE?oc=5
+• From 'cockroach' post to protest leader: India's Dipke tests Modi government - Reuters — Abhijeet Dipke's viral anti-corruption movement is drawing international scrutiny as protests test the government's response to youth dissent. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlJCSFh6OG5QTEg4RDQ3aHA5clp6XzF0RkUyQ3J0TnVtVzZ6Qy15N3BGNDJodkxDOUZYc21ob1d0bEVHQlNaeUhsUTNTZGxLX29oalQyRGdvREhyQzJNblN0cWU3aVUyTFhkMUtQeXBBcU1EVmdHd05MUDByZHNEemRHNE1vQTg5Q1dyOXp3a3RTYk9KX0lYbDhCYWV0QXVMb3g4VnBJaDJlUGFMMTk2Rk8yQTBsV28ySDY0?oc=5
+• MP John Brittas allegedly pinned down, pushed off bus by Delhi police; writes to Prez, CJI seeking independent probe - The New Indian Express — Rajya Sabha MP John Brittas petitioned the President and Chief Justice for an independent inquiry after being forcibly restrained by Delhi Police during protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOWTZ0bElaeTFSMFFza1EyLW9oTGZ3WVZNdEpLOGxETXRfUUUxdGI1NnZiUUJHWXVpd29xYlFUdURoRkJLcVIzNVNGV3FBNUVCcXp2bkttQXFDcHdEUTY2NjkxS2ZPdDAtZEdxTzN1SEMzWWhaNV9TS3FaUU9EdkZFRWt2NG9JMWFhbEt0c1o0YW9VeEg5dEpTbmEzTWxFQ0ZtWmduWXVOZ1JHbUU0X1ZTT19uUFhzWWRyN3JKNFB4VmxSVE10Q2E1NTEwb0VNdEQtTE1EMjdwWjZFV0J1Z25jZTBBQktOTFAtLXZQSlhYY2JkczRic2FtUEptWndRQXg00gGOAkFVX3lxTE1qZkk4YlhRX0FtSmJCTXNJSmpzV0JxV18zOGFnWS1tWU1qckp5dGZLa3FnSkdkWW1wclIxQ0VDTjQ4WmhKcVRwcDRWTHhvRDBET2JhUlNGY1VOVy1wdlE3NWhUM211cms5c3E1TnhYaXk3Yml3Q2Nycm12MlhWVW1GSDJ6ampfSlh4ampFNHlWOEtUQ0xobm1RLTJEelJlRER2VGhoQmZZcWQ1Tk1sWXA2WV80bDdVeWhBcnhueGo4elRGdkJXY2dodGc5VE12QmZJdkRmM3FXVWMzODNydGNjWVZGeEVQeFAtX2RiZGh1cU5FZDNMTFRRQnRSQVljUmpiVVBCY0N4WXcwNG5wdw?oc=5
+• 18 cops, 3 SUVs: How Delhi Police detained CJP leaders at IGI Airport, split them up - The Indian Express — Reports revealed Delhi Police deployed multiple tactical units to detain and separate CJP organizers immediately upon their arrival at IGI Airport. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelFsS1daeURXS3hKZUJ1WTFlRWFBZXh1MjhRaHVTQkV3LUxMNGNFam9IUWJpMV9pUjZKa0FweEtTcXF6Ym03SFRGMlFFVEUtd3BHSTZpd09SazltTW5iYkdmMHY2MjlSQjliQndGeEV5SGUxWkhNbnV5OTlaWnBRamltWWhPdXFYYzlHbl9KekpTYllQU0tXUVlZRTNtVVZnVTlpNFUweHNOUUV2dlB6eFY4U0VfZjNTc0ZaNVV1ZXdUSC1QT2lyTzhXUmYxVlJBU20xU0ZTLVpScXBONVpCZ1draEVWT0NrcVJEbmtUOFN3b0tad1RxZEg4WDhLaDDSAYYCQVVfeXFMUGphTUdHeEktbzZnWmdIU3UzV1U2WWtjdEY4Slp6U2Q3N0k1eDBnZDlDTHdIWndIb0RQQzk2Q1VZc3E3N2F0UkE5M1l0cXJRMlVLUlhlWFNYTVhLSjJkUjdfRUNIUUczckROQWtOb3ZfenBfZ3RVWnFwWHdtanh0VEtwMzR0TXdiMXNZNjhRNVcxVksxX2wyMlVqbmZPa1dMSXBpeXNkN0RjVUxYRVdlMU1Yb2t2ZWI3VGxVVlFLVFpNV0xHQmlLS3dGWFE0Tlh0UFMxWjJQd0ZKZVdmT2lhNEdkcU9LX0lKLXJzU2MzcndQd0ZPRTRyLUdZQ2ZFQUs4ZzREN3hzZw?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-11-Oct-2026</id>
     <title>Daily Briefing — 11 Oct 2026</title>
