@@ -3,7 +3,74 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-12T16:51:34Z</updated>
+  <updated>2026-10-17T11:41:32Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-17-Oct-2026</id>
+    <title>Daily Briefing — 17 Oct 2026</title>
+    <updated>2026-10-17T11:41:32.960881+00:00</updated>
+    <published>2026-10-17T11:41:32.960881+00:00</published>
+    <content type="text">📰 Daily Briefing — 17 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants — Threat actors abused compromised ConnectWise credentials to infiltrate 173 Microsoft 365 customer environments. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+• China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers — Chinese cyber espionage actors exploited a critical zero-day vulnerability in BeyondTrust Remote Support to seize control of enterprise support servers. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
+• Microsoft Patches More Than 1,400 Security Flaws — Microsoft released monthly security patches resolving an unprecedented volume of more than 1,400 software vulnerabilities. (Krebs on Security)
+  🔗 https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/
+• MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon — Researchers discovered a malicious npm package disguised as an image decoder that drops a shellcode loader via native Windows addons. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+
+💰 FINANCE (India + Global)
+• Rising borrowing costs signal funding risks for global AI expansion: Jefferies report — Rising borrowing and financing costs are intensifying credit risks for infrastructure providers backing the global artificial intelligence boom. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms
+• Nifty soars 2.8% this week: What lies ahead for Dalal Street? - Experts decode 5 triggers, key levels for next week — The Nifty rebounded 2.8% over the past week, with market focus now shifting to corporate earnings and foreign institutional capital flows. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-soars-2-8-this-week-what-lies-ahead-for-dalal-street-experts-decode-5-triggers-key-levels-for-next-week-11792231234654.html
+• HDFC Bank Q2 Results: Net profit rises 5% to  ₹19,510 crore, NII jumps 10% in last quarter under outgoing CEO Jagdishan — HDFC Bank reported a 5% year-on-year rise in quarterly net profit alongside a 10% increase in net interest income. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-q2-results-net-profit-rises-5-to-rs-19-610-crore-nii-jumps-10-in-last-quarter-under-outgoing-ceo-jagdishan-11792226165605.html
+• Reliance Jio IPO: From Dhirubhai Ambani's 1977 listing to Akash Ambani's mega issue - what's changed? Gen Z connect! — Reliance Jio Platforms is preparing a $3.2 billion public offering at an estimated $108 billion valuation in India's largest expected IPO. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-from-dhirubhai-ambanis-1977-listing-to-akash-ambanis-mega-issue-whats-changed-gen-z-connect-11792219519404.html
+
+🇮🇳 INDIA NEWS
+• Amid Relentless Crackdown on Protests, PM Modi Says India ‘Mother of Democracy’; SC to Hear Pleas on Police Brutalities; and More — The Supreme Court will examine petitions concerning police crackdowns and alleged excessive force during recent street demonstrations. (The Wire (via Kill the Newsletter))
+  🔗 https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn/entries/yrfavnu00eyzug2eh9g4pr62wt9u1s4eyezc8gus.html
+• Jantar Mantar Remains a Fortess, Rahul Gandhi's Outreach Continues, 2.86 Crore Voters Receive Notices in UP — Tight security restrictions remain in place around central Delhi as election authorities serve voter roll verification notices across Uttar Pradesh. (The Wire (via Kill the Newsletter))
+  🔗 https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn/entries/owhb5jnrn7gnkaugw1u9zqz069hpmr28aqh0tdkv.html
+• Ankita’s Parents Appeal to The President #peekonground #peektv #news #ankitabhandaricase — The family of Ankita Bhandari petitioned President Murmu seeking political accountability in the ongoing high-profile murder probe. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/EVHX1wvR6Z0
+• CJP's 'Tiranga March' Continues Despite Abhijeet Dipke, Neha Bora's Detention | Peek Ground Report — Protesters in central Delhi held a demonstration challenging ongoing police restrictions and the preventive detention of civil society activists. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=1978irl972Q
+
+🌍 WORLD NEWS
+• Trump waives several Russia sanctions as row with Zelensky intensifies — The U.S. administration temporarily suspended select sanctions on Russia citing national security considerations amid diplomatic tensions with Kyiv. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss
+• Russian strikes kill civilians, injure dozens across Ukraine — A fresh barrage of Russian missile and drone strikes across Ukraine killed at least eight people and wounded dozens. (Al Jazeera)
+  🔗 https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss
+• Nationwide protests spread across France as ‘yellow vests’ set to join — Anti-government protests expanded across France with civic and labor groups mobilizing over economic and education grievances. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss
+• Brazil sees record fall in Amazon deforestation as key election looms — Deforestation in Brazil's Amazon rainforest dropped to a record low ahead of the upcoming national elections. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Hey guys! I'm one of the core developers of MOSS-Image. AMA! — Developers publicly released MOSS-Image, an open-source 5-billion-parameter Diffusion Transformer text-to-image generation model. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1x7zf1r/hey_guys_im_one_of_the_core_developers_of/
+• Make Perfect Seamless Vlog Videos with 1 Click — A new AI video pipeline streamlines the automated generation of continuous, seamless vlog video content. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1x84uym/make_perfect_seamless_vlog_videos_with_1_click/
+• T2i Moss vs. Flux3 Klein vs. Krea2 — Comparative benchmarks emerged evaluating image fidelity and generation quality between MOSS, Flux.3 Klein, and Krea 2. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1x85fx8/t2i_moss_vs_flux3_klein_vs_krea2/
+• I made a custom node that turns illustrations into screentone manga panels — A custom Stable Diffusion workflow was released that converts standard 2D illustrations into stylized manga panels. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1x86cki/i_made_a_custom_node_that_turns_illustrations/
+
+🔥 ON-GOING EVENTS
+• India’s Cockroach Janta party leader arrested amid crackdown on protests - The Guardian — International media reported on the arrest of Cockroach Janta Party leadership amid a coordinated police crackdown on civic demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlnZ2J3Y0EwYUxCYmhXbW0zOXJ4UzFOcXo3WjJxd0x1c1NpcFdGZTgzVUZEcm9MQW0wOXlVN1dETXlMVkVvQ21tRmtkSGdsUTFKSEdoa3V0bUszN1lLNF8zYjlWY0Q4UDNMVUZheXY0azJIM2NIelBKdnJiVW1mS01ENDEyT0x0SmltQXFPdlBPWVlseUFqQU1VY0k2TzhCMk12RzJpQUxuMDhZcGhsN0M3dw?oc=5
+• MK Stalin Backs CJP Protest, Rules Out Working With 'Backstabber' Congress - NDTV — Tamil Nadu Chief Minister MK Stalin backed the CJP demonstrations while ruling out political cooperation with the Congress party. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0RmLWtjd0kyaDdaX1lTSVRPR2d1N0k4d0RYUE9DMXo3UkEwTUJKam4yTU5nV1JDUm5xTHpzQTEtMnlJNXJDbGpaM0VLLUQ5T2cyN3dGdXk1dDExMEpTbC1SZzlrWHV2aXZKTEhTM0xXaWlVV0NMS2pkWXJnWk84QlV1ZUctQTBFX1o4NUd4cWM4YktNOEFqVWR4WTlkSTl3WXQ1aGpXU1E2elhRRGNWWmg1VmI5Z9IBvgFBVV95cUxQZEQ1dHgwZHMxXzFzaFM2OW1JR3JRS2xpcUNfOElwbDh5M0lMMkw0QUNxdVBXcFoxc0dnVHFRSTViRFZJUTVCNTlSOWQtQVY5VVQ0cE9XeHRXZDVwTWl0WDY5MDZwLXY4QWJsWW55MENWclpib3VNS1EzaU5yc0Z0RXNENmx1SXBCbUJqTjRwVFB6d0llbmtxdENBbTdkMW1MM05BNF84UjExTjVVX3NqR1MteUxWN3A3bGdXOVRR?oc=5
+• India: CJP's Dipke detained amid call for fresh Delhi demo - DW.com — CJP founder Abhijeet Dipke was taken into preventive custody in Delhi following public calls for renewed protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2ptOVdNajdqT3lMNV8xTTBLdlFUaWxyNDdKa1JYMWJIdHI3dzdZRkJZUlpJX0Iycm5VeTFvekJ0NFNPdUZuVlNWWE5DdEJnQjd5akdLbkZnMUh5bWxHWmhrOUVFZFlFcnJjMnpPaWJ2Ukh3eWlmN0FHNEp3ZlBhYnNRZXJrMWtid2VuYnFYODFOWEFkUzc4?oc=5
+• Crackdowns on the Cockroach Janta Party Do Not Quell the Fight for Democracy - Human Rights Research Center | HRRC — Human rights monitoring groups cautioned that continued police detentions targeting CJP demonstrators undermine constitutional protest rights. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc3RBdzhnWHZWTEdVb1VCQ0k3NkNQaWh5Q20xVmVWcTBBYVBFZUlrQnItdjBGNU9YcVJWQ3JDeGZfWlZtZzRubXlpVUtobkx2VGNxNVR6RHluLVU2TldMUGt6VzJaalZuTGYwVERtWGJRMEdBdXhleXBwMndXYzBUMnlpQ1JNa2pwN3ZxVTZOTmt1SjhiT2FtWGp2ZG1WZzB3VUttSURPa0doX0loeFpudkhGeVJpQjNL?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-12-Oct-2026</id>
     <title>Daily Briefing — 12 Oct 2026</title>
