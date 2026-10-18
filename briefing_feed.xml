@@ -3,7 +3,66 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-17T11:41:32Z</updated>
+  <updated>2026-10-18T12:08:33Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-18-Oct-2026</id>
+    <title>Daily Briefing — 18 Oct 2026</title>
+    <updated>2026-10-18T12:08:33.802370+00:00</updated>
+    <published>2026-10-18T12:08:33.802370+00:00</published>
+    <content type="text">📰 Daily Briefing — 18 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants — ConnectWise disabled seven application identities after attackers compromised customer Microsoft 365 tenants via unauthorized access. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+• Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware — Citizen Lab exposed how advertising firm Discover-Tech leveraged targeted online ads to deliver zero-click mercenary spyware. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x6v1te/exposing_adfection_how_discovertech_turned/
+• Web Environment Integrity vs. Private Access Tokens - They're the same thing! — A technical analysis details the operational and privacy parallels between Google's Web Environment Integrity API and Apple's Private Access Tokens. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x7eg0y/web_environment_integrity_vs_private_access/
+• The Cloudflare Appstore (Appflare) Malware Audit — A security audit of the Cloudflare Appstore uncovered malicious applications exploiting the marketplace for software delivery. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x7fpdw/the_cloudflare_appstore_appflare_malware_audit/
+
+💰 FINANCE (India + Global)
+• FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus — Foreign portfolio investors pulled over ₹52,000 crore from Indian equities in October amid high US yields and oil prices, though domestic inflows kept benchmarks steady. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms
+• Jefferies’ Chris Wood says it’s time to diversify beyond AI. Where should investors look now? — Jefferies strategist Chris Wood recommended diversifying away from high-capex AI stocks into broader Asian equities ahead of slowing AI earnings growth. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-chris-wood-says-its-time-to-diversify-beyond-ai-where-should-investors-look-now/articleshow/135025560.cms
+• Mcap of nine of top-10 most valued firms surges by Rs 3.65 lakh cr; TCS shines — Nine of India's top ten companies added ₹3.65 lakh crore in market valuation last week, led by strong gains in major IT and telecom firms. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-rs-3-65-lakh-cr-tcs-shines/articleshow/135024970.cms
+
+🇮🇳 INDIA NEWS
+• Anti-CEC protest LIVE | Congress says nothing can save CEC, demands SIR be suspended forthwith as ECI agrees to share ‘readable’ voter rolls — The Election Commission agreed to release machine-readable voter rolls as opposition groups staged nationwide demonstrations demanding the halt of the Special Intensive Revision. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/cec-gyanesh-kumar-protests-oct-18-live-updates-cjp/article71598964.ece
+• A Durga Puja celebration in Kolkata turned tragic after a stampede at the Chorbagan Sarbojanin — A stampede during Durga Puja festivities at Chorbagan Sarbojanin in Kolkata led to multiple casualties and dampened celebrations. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/-1r1guACDbo
+• Moderate-intensity quake hits Shimla district — A moderate-intensity earthquake with a depth of 10 kilometers hit Himachal Pradesh's Shimla district. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/himachal-pradesh/moderate-intensity-quake-hits-shimla-district/article71595322.ece
+• UDF govt reconstitutes Keralam Waqf Board, appoints IUML leader M.C. Mayin Haji as chairman — The Kerala government reconstituted the state Waqf Board, appointing IUML leader M.C. Mayin Haji as its new chairman. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/udf-govt-reconstitutes-keralam-waqf-board-appoints-iuml-leader-mc-mayin-haji-as-chairman/article71595414.ece
+
+🌍 WORLD NEWS
+• Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting — Nationwide unrest in France escalated into riots and looting across Paris, leading to approximately 1,800 arrests. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss
+• Oil facilities hit in deadly overnight attack on St Petersburg — A Ukrainian strike on St. Petersburg killed at least one person and damaged local oil facilities along with a tech data center. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss
+• European diplomats attacked by Israeli settlers in West Bank — A delegation of European diplomats was attacked by Israeli settlers while visiting the occupied West Bank. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss
+• Several dead or injured in major fire at Canada military base — A major fire broke out at Canadian Forces Base Wainwright, leaving multiple individuals dead or injured. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Popcraft — Popcraft released a tool allowing AI agents to generate coordinated video, image, and audio assets. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/popcraft
+
+🔥 ON-GOING EVENTS
+• CJP’s Abhijeet Dipke released on conditional bail after arrest over Tiranga march; signs peace bond again - The New Indian Express — Cockroach Janta Party founder Abhijeet Dipke was granted conditional bail after signing a peace bond following his arrest over a protest march. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmlXYzVPMDZfQVF5YnlYQWZqV3JxaUMtcy1yOGhPXzRoSWdPZnNsOHRRVkJRRThDNnFZWHQtSVRDVkcyX2Zpd2J1aG54Y2xHMmo1MEE1T2UzRmlCNUQyVmZEbEVPRU41bGEweklsR2N0ZVFfMG9BdThmejdNNVBQdzVobWk4YVduQkNvS1pVQkVWb3E2SzRwSjZpQlBYdzd4N2ltN3VjbW9ORDRUa0RFLUM1Y0FFczZtZlBleXYzWE9kUE9pbDZEcVlOV0FPQmxmNXZ0Tzd1cmpnYVNHNjcwOWR1cUFXTXcwLXfSAfcBQVVfeXFMT254X3lHdmgzV1Q0eGpnYWtra0w4VmV2eHZUWkJqQ1dyUEJzS3hZSk9DakhGOEI0Tkw4cDRwWFZOUjctUmFFRDFXeXNsLXNkMW5YcHJDMXhIZEdPMDNoWG9JaWhWSjJHd2xjSmpJakNJd2VNS1dJQm14NWFKNGxCR3JwM3BnaElTVng0YndDUmgyYkZrbHpmWU5fNV9kVV9vM1FyeVR4Nk1QbThjVWY5NUJxamYtUUMzUzZ3MGs3Y0NvWjFOMkhVZTdqWlRMc2JvTU9DZWw5M1RWQlV3OU04bFROVTR5NlZ0M0RtSVA0X2VBeDl3d29nMA?oc=5
+• CJP to take legal action if Saurav Das, Ashutosh Ranka are not released today - The Economic Times — The Cockroach Janta Party threatened legal action against authorities if detained members Saurav Das and Ashutosh Ranka are not released promptly. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMDRobnVJcjlWM0xZeV85bEpPWVp5MzVJajRQR0U0RHUwVnhPdnVGb1k5N3ZrM3JRQnBrc3llNnVFRFVNdjFISnFOdUg4Zm85MU9ab2FhYTltTUZKSUhfekpjbmxtUTZZYW1BNjVJWl9QQTVyZFZPVk1Pb3kzOTcxOXZaUHA5MTFjN1NZV0padXdoWW9IZTJkSVBFYXZXdUxkSUlQY2t5NmRVWWdPeEdIS0ZJbVN6aU16V1JONUtiaTZBR0FrdVpHNjh5OEd4ZHdxazNWODEzaW7SAd4BQVVfeXFMT09ncUlsMEYySVJtSEt1YWU2dDVNcFBHLWN5eXRwVGstek0zNnFYRTBMNVBWaDdXYzlPSE96NWJaZks3Y3F3UHg3cGF0d2ZJNXB6QXhVMVpMOGtNZVVLd3I4UmN6cmR4YVlvYkdnMmZjcnFvVFN3clV3eWk3Q21YbHgtVWREVnVfOVZydHktcnJhWTFLejNNTlotZUp5aHJxNU9aMGZ3dWNRdFJxaTNMT2ZmWlItdWFZRWxPTWYxdk1pZkVvdF9ZZTA1RjRLYy1BczBIMEx2X1NpWFNKMnp3?oc=5
+• Why CJP's Abhijeet Dipke Walked Free While Saurav Das, Ashutosh Ranka Remain In Jail - NDTV — Legal scrutiny intensified over why CJP head Dipke received bail while co-organizers Das and Ranka remain in detention. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVm9zc3pDNktGb0ExRkhhNldZTGFsLTRleFhsd082SjhqV0JhV3pIX2t3eHBqQjB1VU9VN3pJNnZTTEdGYjQ3OWdPSVlCMU9meURTODd5LTBxZDdfYnhKSl90ck9ycjJuM3BvRnl5V1Y4SHhRYmFXV1BYRDRWM2syWVFkNmxiRXRwdk1FS0lvNmRYdEo5M19Fb1lKRjZrWHdmeGFBalE5MU5wRWZkOEhwdVdyVTZrQ1BndlFrUXREWjfSAcgBQVVfeXFMTWE3YlVIM1RvbWZ0NWV0YmpFWkYzUkJ3dDdCcTdhM2x0ODJyYTV5RWIzS2RCTkVnZTFpTUtjcy1Ka2djUTJvQUlvUmNjWll0b3VCczdNb1RfZThQQ2R4cTBnMlQ4Slh5NTlTVEpfZnhSTl9zTTV3eDIySnBGM0t3Y3hLSVE1a1dvaHJUem9FSUctSHR0MjRuSG1PYWoxRTBQNmNyQ254Z0VpNkdZRmVHWVBMWW5GOElCTlVxazVBbUlwOWExVUtFRl8?oc=5
+• Leaders of India’s Cockroach party jailed for violating ban on protest site - The Guardian — International media reported on the jailing of Cockroach party members in New Delhi following crackdowns on banned demonstration venues. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHJieVV3cEZldk1yTkN3ZWxvRmE1VzJVODVpSXY4Q1dLTUREbU9NUURxeW5JTjk5S2xYZXhyaEFVa0lqdHc1d2hSNHZnRmRGTzdfS3lqMjRleHI0cVlBbEJGY2Qwc254YlJKUXI3SGVqVHR6Uk1iX2hhT1ozdDZBX0RfQzQ2UmFJdVdRMC11SndIb0pCdWtqdldMSktjVWNjUmxYQ3FFV1lNbThrQUlRUC1kN2dpb3duUG5abw?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-17-Oct-2026</id>
     <title>Daily Briefing — 17 Oct 2026</title>
