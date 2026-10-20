@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-18T12:08:33Z</updated>
+  <updated>2026-10-20T12:50:08Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-20-Oct-2026</id>
+    <title>Daily Briefing — 20 Oct 2026</title>
+    <updated>2026-10-20T12:50:08.891873+00:00</updated>
+    <published>2026-10-20T12:50:08.891873+00:00</published>
+    <content type="text">📰 Daily Briefing — 20 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader — Russian state-sponsored threat group APT28 breached a NATO naval shipbuilder to deploy a novel reflective loader. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html
+• Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware — Attackers compromised an OVHcloud contributor's GitHub credentials to distribute secret-stealing malware inside legitimate CLI tool releases. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
+• Prompt injection, XSS and SIEM-exfil payloads living in reverse DNS, plus 28 fake Googlebots that passed FCrDNS — Security researchers demonstrated methods for hosting prompt injection, cross-site scripting, and SIEM exfiltration payloads inside reverse DNS records. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1xaqo61/prompt_injection_xss_and_siemexfil_payloads/
+• PhantomBuffer: Effective EDR Evasion Through Stealth Injection — A newly documented EDR evasion technique named PhantomBuffer uses Windows messaging injection via WM_SETTEXT to bypass endpoint security controls. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1x8rwjz/phantombuffer_effective_edr_evasion_through/
+
+💰 FINANCE (India + Global)
+• Dow Jones| Nasdaq | S&amp;amp;P 500 | US Stock Market Today |Live Updates: Nasdaq futures slip as oil rises, AI stocks weaken ahead of earnings — US stock futures slipped as crude oil prices advanced and major technology equities softened ahead of quarterly earnings. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms
+• French bond yields near 24-year high as new protests loom — French government bond yields hovered near 24-year highs as nationwide protests complicated prospects for fiscal reform. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/french-bond-yields-near-24-year-high-as-new-protests-loom/articleshow/135068905.cms
+• Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors — Reliance Jio Platforms received more than $25 billion in anchor bids ahead of its Rs 30,213 crore public offering. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html
+• Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? — South Korea's KOSPI dropped an additional 5 percent amid mounting market concerns over capital returns on artificial intelligence hardware investments. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/crash-kospi-in-free-fall-south-korea-stock-market-down-another-5-tanks-40-from-record-high-what-s-driving-ai-rout-11792483921193.html
+
+🇮🇳 INDIA NEWS
+• Indian scientists identify Martian analogue sites — Indian scientists identified terrestrial analogue sites within the country to aid future planetary mineral exploration on Mars. (The Hindu - National)
+  🔗 https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece
+• CJP seeks urgent hearing in Delhi High Court challenging judicial custody of Saurav Das, Ashutosh Ranka — Legal representatives for Saurav Das and Ashutosh Ranka approached the Delhi High Court seeking an urgent hearing against their continued judicial custody. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/saurav-das-ashutosh-ranka-judicial-custody-cjp-seeks-urgent-hearing-in-delhi-high-court/article71604565.ece
+• Defence Minister Rajnath Singh meets Iranian Vice-President, Tajikistan Prime Minister — Defence Minister Rajnath Singh held bilateral meetings with Iranian and Tajik leadership during the SCO summit in Dushanbe. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/defence-minister-rajnath-singh-meets-iranian-vice-president-tajikistan-prime-minister/article71604395.ece
+• Rubio, Jaishankar meet in Mumbai as U.S. and India aim to finalise trade deal — External Affairs Minister S. Jaishankar met US officials in Mumbai to discuss energy security, defence ties, and a potential trade agreement. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece
+
+🌍 WORLD NEWS
+• Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence — Ukrainian President Volodymyr Zelensky traveled to Oslo for high-level diplomatic and intelligence-sharing talks with US envoys. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss
+• Seventh day of violent clashes between Albanian protesters and police — Anti-government protests in Albania turned violent for a seventh consecutive day, resulting in nearly 300 injuries. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&amp;at_campaign=rss
+• France PM promises more curfews as authorities seek to regain control — The French government announced that local authorities may implement curfews to curb ongoing nationwide civil unrest. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss
+• UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks — The United Kingdom deployed Typhoon fighter jets to Saudi Arabia in a defensive role against regional Houthi attacks. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Kling 4.0 — Kuaishou launched Kling 4.0, optimizing its generative AI video pipeline for faster output and lower generation costs for creators. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/kling-4-0-4
+
+🔥 ON-GOING EVENTS
+• This carnival of protest on the streets of Delhi has shaken Narendra Modi like nothing before | Meena Kandasamy - The Guardian — International commentary noted the growing domestic political footprint of the Cockroach Janta Party street demonstrations in Delhi. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNWmlhdzBYQ2pvdGFPQ1VneUJIejhIRFdxa1pyUmd6VnVqMHUzUUpLaWV6eUY3VFo4N3pONHVMSmxLdzk5bDdubTN2YXg0M05LZ0JYRTJwN1JGNUgtY3piSnFiR21LMFY4NzlaZTNBQ2VsUmdFWk50M3Zrem92aGl4Y25rSnlzZkw1N3ZlNjJpOVpwODROWkMwSmRZcmhldw?oc=5
+• 'Laal Hit Janta Party': New outfit emerges to counter CJP's protests against CEC Gyanesh Kumar - The Times of India — A counter-group named the Laal Hit Janta Party formed in Delhi to oppose the ongoing anti-EC protests by the Cockroach Janta Party. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVmdFaWxvNDIyT3dLYXp5YzZHNEM2bm45RUJwSHV6QVlHcjZUdXE1U2wyYW9PeWxTWmQ4WTBiQkFYYkZ3SDRYZmt1cy1EcGt1UmYxUTZXN1BLYXRkRTB1TEtlV2lKZUEyQUtpVXFLaFc0dkxoTWVZMkM0NFlNMXhhVVYtVXlBa25VMUN3dDBpbWdPN2VoaTRqUnAyX1BUREJ0TjlsT2tuVjFVT0kxdkJvaHpWbEluS1hwLUtfbzBvSWxYNkpTYU5aTGR4NU13V2xjaW5HZ0pmYmMyODE4cXhiT0d3NXVqdXZlWmJlUFpBMNIB9AFBVV95cUxNcS04UXRvaDZmQThYN211N25rbWxnT184aHRpTWZVb25EQUlGcUFGN2dwZzNtVm5oQWxRQkozSzJ2dlFXTHFuNUlNTVFNaVkyc0Q1SXA1eUgteVY4QVlkb3BvZlhvcE9TUFp6Rl9oMjNLV1BXUFI2NEstMEJkYmNWNFQyblo1cnhqdXdhVV9vcUxjLXhWQnkyQUtWS2pjcF9KcmFSc3YxV1VJSEFvZ1FFMkJKUGRmd3JybTZMUjAtNHZqWlFsYldURlFNU0FnMHFjaDFza3pNcmhRMEg4c0RTVXhOdUdGaFVZWmktZE5qVmp2X3N2?oc=5
+• Delhi protest: CJP leaders’ judicial custody extended by two days - The Hindu — A Delhi court extended the judicial custody of Cockroach Janta Party leaders by two days. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTdyeFBKU0NvMkIxbG0tMWo2V2RaZDM2VFdMdlkweEttcFZzbFY1NHhCa3I5VGQ5NURLTmZrRUxhVnNwZGpnczQybkVNX2tTTG9XMkhnRkF1b3NJTmNhTWgtaTVkX2pWT013Rkg2VWotRm8wNERYOG5WYzRFQ2tlSFJkb0FLT2hfVHYxVlNQT09nRU05b1VsSXcxOUNkdzlaVkhEanRZVXhlNzV6Nzl4NE10Qjdnc3dObXktOS1TdHpHeTJG0gHLAUFVX3lxTE1kNWprVnFfaXAwTnRCaXhQcGYwV3BkRnlRbFRRN0hVUXVGRHNDNEhBTHBmclhvLWZVX2U0NzNnMDl2VTQxUFZreFJoSUk0SDJpZG9wY096YmhjMTRrZGxreUpSOUV1UnVCWW9OU1JuTzE3WENYdmhKTTJMMFJLbVJKM2ZSeWJNbXd2UVBSczNZajBYTHVndl9aeFctUTR0VmJPUnNmY1hkeTVuaVZUYnByTXF3ODFlMllZamRqQnloRXVBOUdfWGlablc4?oc=5
+• Cockroach effigy at Delhi Ramlila event triggers queries; organisers say promoting cleanliness - The Hindu — Organizers of a Delhi Ramlila event sparked debate by burning a giant cockroach effigy alongside traditional effigies during Dussehra. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWktIemN6MHNvS3Z4NnlNclRmMG1yM2wtZ3B3eTd0SlJWVzJiMGs2Sk1GcjM0T2MySERobWtEYU13YzAtUnRYV2NDeHQwVUwwaFZwMzNpc3pVRnhOSTUtNTF2RW1YNnpkN2Vjc2FOR0VIWnhvSVF3N05WaXhqOFJSYlYzTFZxSTRjc29ieXpodDk4a2JZSGFkMjVIdXN6UG5mWExyZ3JUcXpnNVNuOFRObHpvRmItOHAtc2JDb2VOTmpzYS15dkpKM3kxenc2Qk1zamxJMkVTS3FXRnAyMGdsOW9nSW1VZWZiZllVX9IB8wFBVV95cUxQR2k3X3g0T2JhVDlxLUhjRzdCRklPOVk2c0NkZ0ZLR0Jrc1VpVUdJS2xBU3B6bkpCdlpTMkNPbW1FcFd0dVZnRTJxRWs5dTZYemF0eEJfY18zblEzdE5YVGFQNk9waU5xTTlVSkZxWWczSmZYUDVPeERWRzAwN05ycm0yektUdHBVNzFOc0l6Yk5MdzIzUjhCR1pjaTFfV1pPeEMxMHZVSlhacV9oX2JRSzJvZ1RRS0V4ckROUC1fVFlacENkN19pYlFOaGRiT0lhMzlabE9hdldYcXVtTHFiQVpfam9JdTJ0SUdGMkFjZ1RkQlk?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-18-Oct-2026</id>
     <title>Daily Briefing — 18 Oct 2026</title>
