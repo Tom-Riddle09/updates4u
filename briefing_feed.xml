@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-20T12:50:08Z</updated>
+  <updated>2026-10-21T13:02:31Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-21-Oct-2026</id>
+    <title>Daily Briefing — 21 Oct 2026</title>
+    <updated>2026-10-21T13:02:31.385607+00:00</updated>
+    <published>2026-10-21T13:02:31.385607+00:00</published>
+    <content type="text">📰 Daily Briefing — 21 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't — Security administrators face urgent patching requirements for two critical remote code execution vulnerabilities in PHP as temporary configuration workarounds proved insufficient. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html
+• Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections — Threat actors compromised more than 300 Tor exit relays to mount man-in-the-middle attacks intercepting plaintext SSH administrative credentials. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html
+• Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports — Proofpoint reported that generative AI is eroding traditional email security defenses by eliminating grammatical and behavioral indicators in phishing campaigns. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html
+• China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors — Researchers identified Bronze Sandcastle, a China-aligned threat group leveraging Sandboxie DLL sideloading to deliver backdoors across Asian and African organizations. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html
+
+💰 FINANCE (India + Global)
+• Rupee rises 46 paise to 94.45 on India-US trade deal hopes; oil prices cap gains — The Indian rupee appreciated 46 paise to 94.45 against the US dollar, supported by India-US trade deal optimism and central bank interventions despite elevated crude prices. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms
+• Global Market: Eurozone bond yields rise as French unrest fuels fiscal concerns — Eurozone government bond yields climbed sharply as prolonged French political unrest raised fiscal sustainability concerns across the bloc. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-bond-yields-rise-as-french-unrest-fuels-fiscal-concerns/articleshow/135090708.cms
+• Global Market: BOJ's Himino says Japan inflation near 2% target, signals further rate hikes — Bank of Japan Deputy Governor Ryozo Himino signaled further interest rate increases as domestic inflation steadily approaches the central bank's 2% target. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bojs-himino-says-japan-inflation-near-2-target-signals-further-rate-hikes/articleshow/135090643.cms
+• Got stock tips on WhatsApp? Zerodha's Nithin Kamath warns against pump-and-dump schemes, advises asking ChatGPT — Zerodha co-founder Nithin Kamath alerted retail investors to exercise caution against coordinated pump-and-dump fraud proliferating across messaging channels. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/got-stock-tips-on-whatsapp-zerodhas-nithin-kamath-warns-against-pump-and-dump-schemes-advises-asking-chatgpt-11792578165904.html
+
+🇮🇳 INDIA NEWS
+• Top news of the day: CJP’s Das, Ranka withdraw High Court plea on custody extension; Data breach: SBI admits exposure of its customer data on the Dark Web; and more — State Bank of India confirmed an incident involving the unauthorized exposure of customer information on the dark web. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/top-news-of-the-day-on-october-21-2026/article71607450.ece
+• Tamil Nadu rains LIVE: Warning to residents along Palar river — Authorities issued flood alerts along the Palar river as active Bay of Bengal weather systems threatened continued heavy downpours across Tamil Nadu. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece
+• Police forces across the country should work together to make India drug-free: Amit Shah — Union Home Minister Amit Shah called for synchronized national policing initiatives to eliminate illegal drug networks by December 2029. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/police-forces-across-the-country-should-work-together-to-make-india-drug-free-amit-shah/article71607550.ece
+• Groundwater levels in Telangana’s urban areas dip by 6.85 metres; experts suggest aerators to taps, treated water to lakes — Groundwater monitoring indicated an average decline of 6.85 meters across urban areas in Telangana, prompting municipal recommendations for water conservation. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/Hyderabad/groundwater-levels-in-telanganas-urban-areas-dip-by-685-metres-experts-suggest-aerators-to-taps-treated-water-to-lakes/article71607440.ece
+
+🌍 WORLD NEWS
+• US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin — Russia released 74-year-old American citizen Stephen Hubbard following bilateral discussions with a US diplomatic envoy. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss
+• Sudan army drones hit mourners and fuel market killing more than 300 people, sources say — Military drone strikes in Sudan struck a funeral procession and a fuel market, resulting in over 300 civilian deaths. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss
+• Iran’s enriched uranium re-emerges as point of contention in US talks — High-level diplomatic talks between the US and Iran hit renewed obstacles concerning the acceptable thresholds for Iranian uranium enrichment. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss
+• Katya Adler: France divided over who to blame for riots and what to learn from them — France remains polarized over political accountability and economic grievances following widespread urban riots across several major cities. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss
+
+🔥 ON-GOING EVENTS
+• CJP’s Saurav Das, Ashutosh Ranka withdraw Delhi High Court plea against extension of judicial custody - The Hindu — Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka withdrew their High Court petition challenging the extension of their judicial remand. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWpuc2FCYlJxMWZHY080QTdLODdQYXlKTXBSSVhxSVF0RFBqSmw5UzYzSjN0TDZaY0tua2tkQUxRalkzazlyWURhWnBTVU01OHpDUk8tMlo0QlJIR3NwRGNTNWw1dVQ4clZudF8yWDRzSVl0X052X3pkSUxwSGQ5a3lMV1BKck5pQmR4ZHppbDNFbFhYekhEM1NBaFBQZXRCc2lhamZHRkhoQkp1NDIxd3YwYzdIcjUydXpkU3R2ajVYaGRwNXpuT0lfWGxRU29f0gHXAUFVX3lxTE5VYUl3OHpsLVNQcjZfVFNPY1Z6dDMtYzN0V3VaWGVrd1d1SGhJaVhyWDZKUVdmVVEyekJRM21NbFhMX0JjNktCQ2Y0eXNpR0xzdUFXMm14a0p2c2dqUjNUZ05xb3VYU05tNEZGckYxdG96c0s3MVp6cDJteFJXZm9yQVJ5RlpGcDlkblJoUjhpblNWX3JaampMdU9CY2pVRkRHcERhTjR2NG5EN2R6d043RmNaZVRWNzQ1VWM4dkUyNmp0dk5UNGxZVFljS2E1WURYd3RmN200?oc=5
+• UN experts: India must stop excessive force on protesters, assembly bans, digital surveillance - Telegraph India — United Nations human rights experts urged the Indian government to halt digital surveillance, assembly prohibitions, and excessive force against peaceful demonstrators. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZTZ0MWZURllQR1QyMktEVGx3bkxXRVVHTl9VeDZGMEREbTZBNWpPd05RQmtfRnM3OVdIQXEtaTJjaWExVFA4Q3lWZFpIVDVCVHd0QUdLVWNHVmhqOWVnejJZdV9lTEFOc251OEZ0eld4OGtTX0FKQV9uVXNqcjI0QklGSDFsQVczSDZVQ2V1T0wxX0tNQ1cyeHVKclVDQTJtOFc3TGJHZnZ2aU5ncFdxNVRaZGdXTVlwQ0pKeW1JcEtsZ1ZkVm9CNGhiRzNXbUxfcjRkRTZKWdIB3AFBVV95cUxQMlFhZE1WM0RwTzI5eEpSOUV3c2pZNVdqVHVJcU9ROVh6eXhsREhnQU0xU2RLMnJqRE1rVE9NSkN4UUlhRFd6SzJMV3FrLW5wODRFOUlodjJoSGVMRzRubHh2dFRUSW9xRjVWal9naHRLTERtWXlGOTFYM2VUZUNMMV9JRVMwaGgzcGUyWW5QYWNjYk9kaUI2c3RVbE5sM1dEcURMVE9QRGlxVkl3MjcxOExmaHU1SXF5N0RpSHB2MndKYkd4OHg1VHpEdjNkVUUyYmMxRW5zWjgyaGxH?oc=5
+• Indian court extends detention of ‘Cockroach’ leaders - Al Jazeera — A Delhi court approved the continued police detention of key Cockroach Janta Party organizers following demonstrations at Jantar Mantar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3hIOHpwZHprb0dGM2FxS3F1MkRxOTVrLVFZSjNMZ0VqMV94dlBGbFcxQWFsOG0xZnlLTkFiSExhcXlEMFBtVjhNTzl0Y1h2dGtYMDNTMXR3LXMzSzhsRWlmcHJ2Z1h3b1JSbVV0OXFHVm9nX05zRk9TWkVuNEV2bTdEdERnYkQtT1lqWURMbURCNC1waUZDNdIBngFBVV95cUxQdGJYSjRMU1RUQkh1aTdVMmEzWUNENzV0NWxldHVnaEdXRXNQeTZBY0lDeTM3M2lhNlNJakFxdWJwU05XUF9ZUzhZTG9GSFZlaHhLWjgtaHdkeFVpQnI2QmtCLWI0cjdUWmQ0a1hjZThqcWlpNHB5Q1JOeXZ5QU0zYjJZODBON0JHZEpyNXlYNFhZZVNyX3ltM0tfaG5RUQ?oc=5
+• 'Lawrence Bishnoi Sahab': CJP's Dipke slams Delhi Police over 'respect for gangsters' - The New Indian Express — Cockroach Janta Party organizers publicly questioned Delhi Police leadership regarding disparate treatment of political demonstrators versus organized crime figures. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVVlaGtsODhSQ1hRY3ZqUW50RTNaY2FlOURyTmg2bERZanNmcmRpTXRHcjBRNW5fS0NnTVd4UnNtNmg5QzRjV1BiMFlsWDFJT2l3cXlfZUVwaXQ1TGpOZDNYcUZKVkRZbG9DREJiLUtOME80djJ1V0QyOXNYNHBPSXFGM1JCWlZVSkphR0I2LXRGeno2YTlLVzJCUEJPQmI3LTQwaF9mbXY0VlEtNnlCUVVfMzhVTFRJTFQxTWE5SGZUV1R3a3dUV0hB0gHXAUFVX3lxTE5NdGVqQ0ZONHZZTS1FSXFtc1c4MG03TDc2UVFGTnNfR2lBaHV1TDB2elZ4aW1tMjFaWDlRYU52RWF6aWh6dVlCY0p3OGVKa2RFQXNXNU1jZTEtUDZ0cVVkVXl6NTZLaGdmN1doRHg0SU1PR2c4Tk5BbHlOdWJXTU5zT09ORXVZV296NUd5a05nd2dpd2VQQ3p6VGw5YUprcVVwN2tPYmdnT3NmOEJIODY0NkdERUwtLXlqclFEYTM2ejQ2VTB0ZDFJRkdsbjFLaVRaRGRMZjZj?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-20-Oct-2026</id>
     <title>Daily Briefing — 20 Oct 2026</title>
