@@ -3,7 +3,70 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-21T13:02:31Z</updated>
+  <updated>2026-10-22T13:04:46Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-22-Oct-2026</id>
+    <title>Daily Briefing — 22 Oct 2026</title>
+    <updated>2026-10-22T13:04:46.626631+00:00</updated>
+    <published>2026-10-22T13:04:46.626631+00:00</published>
+    <content type="text">📰 Daily Briefing — 22 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release — LiteLLM reported that a compromised release pipeline and leaked GitHub token were used to inject a credential stealer and backdoor into its Python package on Docker Hub. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html
+• Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases — GitLab released urgent security patches for a critical CVSS 10.0 vulnerability allowing unauthenticated remote code execution across all self-managed versions released since 2014. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html
+• Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation — Cloud platform Railway urged customers to rotate secrets after discovering unauthorized access to systems storing encrypted environment variables. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
+• OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL — A security flaw in the OpenCode AI coding assistant allows malicious Model Context Protocol servers to execute arbitrary code on developer workstations during sign-in. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html
+
+💰 FINANCE (India + Global)
+• Sebi allows margin relief against early pay-in of securities for subsequent trades — SEBI issued a directive easing margin requirements for clients on subsequent trades when early pay-in of securities has been confirmed by clearing corporations. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-margin-relief-against-early-pay-in-of-securities-for-subsequent-trades/articleshow/135119438.cms
+• Top 2 stocks to buy tomorrow: Federal Bank, Indian Hotel by market expert; check stop-loss, target price for Fri, 23 Oct — Indian benchmark indices slipped for a third consecutive session as crude oil surged past $112 per barrel, reviving domestic inflation concerns. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-tomorrow-federal-bank-indian-hotel-by-market-expert-check-stop-loss-target-price-for-fri-23-oct-11792669540014.html
+• Yes Bank shares tumble over 20% in two weeks amid AT-1 bond shock: Is more downside ahead? Here's what experts say — Yes Bank shares dropped over 20% in two weeks following a Supreme Court ruling that reinstated claims on ₹8,415 crore of written-down AT-1 bonds. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-shares-tumble-over-20-in-two-weeks-amid-at-1-bond-shock-is-more-downside-ahead-heres-what-experts-say-11792666004555.html
+• SoFi targets idle crypto cash with interest-bearing tokenized deposit — SoFi launched an FDIC-insured tokenized cash deposit offering a 4.2% annual interest yield targeting crypto market liquidity. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/sofi-targets-idle-crypto-cash-with-interest-bearing-tokenized-deposit/articleshow/135119511.cms
+
+🇮🇳 INDIA NEWS
+• Indian national killed, three others injured in attacks on airport and oil field in Saudi Arabia — An Indian national was killed and three others were injured during attacks on an airport and oil facility in Saudi Arabia. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece
+• Arrange special flights to bring back Umrah pilgrims: Owaisi urges Centre — AIMIM chief Asaduddin Owaisi requested the central government arrange special repatriation flights for economically vulnerable Indian pilgrims stranded in Saudi Arabia. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/telangana/arrange-special-flights-to-bring-back-umrah-pilgrims-owaisi-urges-centre/article71611338.ece
+• CMRL-Exalogic payoff case: Ex-Keralam CM Pinarayi Vijayan to skip questioning by ED on October 23 — Former Kerala Chief Minister Pinarayi Vijayan declined to appear for Enforcement Directorate questioning, citing a Supreme Court stay on the underlying state police probe. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-ex-keralam-cm-pinarayi-vijayan-to-skip-questioning-by-ed-on-october-23/article71611043.ece
+• CM D.K. Shivakumar to meet with sugarcane farmers in Suvarna Soudha on October 26 — Karnataka Deputy Chief Minister D.K. Shivakumar scheduled a meeting with sugarcane farmers at Suvarna Soudha to negotiate sector demands. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/karnataka/cm-dk-shivakumar-to-meet-with-sugarcane-farmers-in-suvarna-soudha-on-october-26/article71611401.ece
+
+🌍 WORLD NEWS
+• Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks — Russian missiles struck Kyiv shortly after Moscow signaled conditional willingness to resume US-sponsored peace negotiations. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss
+• Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent? — The United States ordered diplomatic staff to evacuate Saudi Arabia amid escalating Middle East tensions and concerns over potential strikes on Iran. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss
+• Two killed in attack on airport in eastern Saudi Arabia, authorities say — Two people were killed in an airport attack in eastern Saudi Arabia attributed to the Houthi movement. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&amp;at_campaign=rss
+• France reports first human Shamonda virus case, says no health risk — French health authorities confirmed the first documented human infection and subsequent death from the animal-borne Shamonda virus. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Dadan — Dadan introduced an integrated AI video workspace designed for automated recording, meeting summarization, and step-by-step video guide generation. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/dadan
+• Loom Record for agents — Loom rolled out an updated desktop recorder featuring built-in AI handoff capabilities to automate post-recording video workflows. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/loom
+
+🔥 ON-GOING EVENTS
+• BREAKING: Delhi SEM Orders Release Of CJP Leaders Saurav Das, Ashutosh Ranka In Jantar Mantar Peace Bond... - LawBeat — A Delhi magistrate court ordered the release of Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka after they agreed to peace bonds prohibiting protests at Jantar Mantar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGtQX1FQMDdqV2ZJODF3MWdPMTh0UWZCUlNPdDRncHVyVXdNVUYzWGs0UGtTNS1NSEhzNkNVd194U3N5MUJKc016OTl2RV92bC1RbW5WSTV6SEdubk9DV3hZcjZhaHNiZzRiSHNOMDVoMlhmYmlEc2M3ZVZ0ay1zTVlhNlZpbWd4RWhxdWFHQm9ObzJBWnV0UTFnLWRRTlhTMWJqNTBqM2RGc3A5RzBKQXo1X1ZxbmdCSGxQN00taVctT0ZNUHlKdU4tWUlOVEszRFRzU0tZX2tzLUs3WlpTadIB5gFBVV95cUxNOXVqNFMxZ2pMYTZnaWJEMmd5MUxNanpEcEJHUFd5MllUR3dDVEZudG1SRnFydE1uRHhuMUNqTHZNeElDc29VbUxqR2FVdW9vc0IzSXZ3NDR3ZXBOUHVZa3A3SWg1Zko5OTRoSkR3QVVqSEt5c1FoWHkzVjFPb2VMMVRkMFBBTmk5T0E0TldDWERUTV82Y3VzWnEwMmdIRmlrNkdRcF81ak9RVWRRemhsZ3BfVE9ZcGFoMWxyWjJzM1VkS1BpZGRod2VKMVplRjJnd0NidENXUERSNWNCTC1ndFlxcUxhZw?oc=5
+• No role in CJP protest call: Neha Bora to Delhi HC on peace bond after detention - India Today — Student activist Neha Bora moved the Delhi High Court disassociating herself from the Cockroach Janta Party's protest calls following her detention. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEpYWTdmalpMVDJjYnVablRtc0Z0Smd3MnlwbF9xdmhLNXJ2S1dUWVI3b012LUtMejlIOFZnOFFLRFlfd0FZanZoT201RTF0TjVCMGF2enZIR2lvbDB2X2NCOHlPTmxWTTdjQ05yVlgtUDV5ODNRRmVDemVLTzVTZ3pKYnRrS21YVG1DN3hPc21ZZXVLdk00MUtBRlhZcERHczV0ODIzdlNBcG5DczYxdGpBak1TRmFqbTE2d2ZaZGtKUdIBxwFBVV95cUxPZHhJZVdNUUtEWnBHeUdub01jb1FtRDJGVjU0ajBCMUN3dl9zM1Q2WVIxcllsb2pPRTQxN1RoZmZCSllDRUJlY2pJekluQXN5ZjNPWF95ZU1oR1Rxc2QwOFVEMGRZR2VEV1d0X2lBc1NMRDRoWkppcHhvbVZtcjJMYVJnZU9abXdFWlNIRjh6c1l6NjBLM3pzSXRKUFByUTZmR194RnI4bXpiQVg3QjdoRl9VTmdTX0pyTW1aYUxNRjVjU2hlS2tv?oc=5
+• Cockroach Party Evolves Into Modi’s Opposition - Bloomberg.com — International media highlighted the youth-led Cockroach movement's rapid transition into a coordinated opposition force across major Indian cities. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdNMVpyVmJUdEZteEE3Vy1Cb3pqb1VLOHdoZEdfTi1pLTB1WmQwNU1hRWYyaFoxNFFaNGI1UVppVFhvc3ZTU3U0ZDJaelZFYXpTcnpBRnhXRDlVQVV5LXpXWUVOSkMwZlRoaExOMDlsWmZ1dms4VGt6cmZjVzBOT0RKd19CMnRndGNLLThodnJBT1ZDYU56S3Fhcy0wdkgyaEdVTDZjcEw2WEV3UlIwUldPaHdRRTZ1eUhmZFBIRQ?oc=5
+• You're a foreign agent if you question: Annamalai slams CJP arrests, BJP responds - India Today — BJP leader K. Annamalai publicly criticized the police crackdown and preventive detentions directed against Cockroach Janta Party demonstrators. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU1ZtM2JLOWI4QzdNWDEtWWV3WW1oSm8xbzRhYjQ1QTVCcWMyRkN2bHg2RHA5UzluNkdnR2VNcDMyc09DN09ZemxlWUdxS0JQdm9qMl9xV0VQYjA0SkRmSmkwVDVfNk83MlJ0VlVISnhPOTJ4ZkpCYlpLbGE3dXJGdVlpdmYwZDJBYjFxa24yN0FMQVhCams3MFJFTFhZTV91TUFBaERlS2pPTWJnZWtIRlJvMnVPVlJYM0RkU2xFYkRObFp4NlFzWDZKLTFoVU1EeU1MWHZYNNIB3AFBVV95cUxOYXN1S2Y1Zy1IM2NFU1VOXy1mdVRjdXlZdm9SbEpvLTlUZV9ZN0RTMjVRWnN3S1VyQVA3VWpEaUdMNFBBWEwzcDFHTW5TY1BMZDB1UTNSakVmY0lSX3pCLUtoU3h5S0UwLUYyQmNtNk5GRm15NzN2LWdLRUUtRXhyUmZ2eDdHNW52VVpsT1V2RFJzYi1uVHVCY0RRSHd2a1JUMzlPUWZteWNxVWYzNDZZUkVTMUIxdm5tZElPZTNhMmtlbXlSUVFCRHpuOGhEeC1vN3BZRXl1SEdORlRz?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-21-Oct-2026</id>
     <title>Daily Briefing — 21 Oct 2026</title>
