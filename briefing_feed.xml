@@ -3,7 +3,64 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-22T13:04:46Z</updated>
+  <updated>2026-10-30T14:25:25Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-30-Oct-2026</id>
+    <title>Daily Briefing — 30 Oct 2026</title>
+    <updated>2026-10-30T14:25:25.019211+00:00</updated>
+    <published>2026-10-30T14:25:25.019211+00:00</published>
+    <content type="text">📰 Daily Briefing — 30 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor — A trojanized version of the Claude Code extension on the Cursor Marketplace was found delivering a persistent SSH backdoor to developer workstations. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+• Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw — Threat actors are actively exploiting a critical authorization bypass flaw in Drupal Commerce Core across multiple release versions. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+• CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV — CISA added actively exploited vulnerabilities affecting GitLab remote code execution and Cisco firewall denial-of-service to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+• Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen — Binance experienced a major security incident compromising $6.3 billion in assets, leading to roughly $3 billion being frozen on-chain. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/binance-suffers-security-breach.html
+
+💰 FINANCE (India + Global)
+• US stocks today: Nasdaq tumbles over 2%, S&amp;amp;P 1% at open as Amazon, Intel add to AI spending woes — The Nasdaq fell over 2% at the open as aggressive AI capital expenditure and cash burn warnings from Amazon and Intel triggered a tech sell-off. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-tumbles-over-2-sp-1-at-open-as-amazon-intel-add-to-ai-spending-woes/articleshow/135364444.cms
+• India bonds buckle for fourth straight month on oil's climb — Indian government bonds declined for a fourth consecutive month amid surging Brent crude prices and inflation concerns linked to RBI policy. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms
+• India gold price, October 30: MCX rate crashes below  ₹1.42 lakh ahead of Dhanteras - What's triggering sell-off? — Domestic gold prices on the MCX saw a sharp drop ahead of Dhanteras, pressured by stronger US economic data and expectations of a Fed rate hike. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/commodities/india-gold-price-october-30-mcx-rate-crashes-below-rs-1-42-lakh-ahead-of-dhanteras-whats-triggering-selloff-11793360090751.html
+• Anthropic IPO mega valuation: Top finance mind Aswath Damodaran estimates Claude maker's worth at $1.475 trn — Finance professor Aswath Damodaran estimated Claude creator Anthropic's value at $1.475 trillion ahead of a potential IPO, citing heavy compute costs and margin uncertainty. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/anthropic-ipo-mega-valuation-top-finance-mind-aswath-damodaran-estimates-claude-makers-worth-at-1-475-trn-11793356354028.html
+
+🇮🇳 INDIA NEWS
+• Leopard spotted in Nadaprabhu Kempe Gowda Layout of West Bengaluru — A leopard was sighted roaming in the Nadaprabhu Kempe Gowda Layout area of West Bengaluru. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/bangalore/leopard-spotted-in-nadaprabhu-kempe-gowda-layout-of-west-bengaluru/article71645323.ece
+• Uttarakhand Chopper Crash: 6 Dead — Six people died after a helicopter crashed shortly after taking off from Badrinath in Uttarakhand. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/dAXDF98I_Ck
+• Reality Check on ECI Affidavit #news #peektv — Scrutiny emerged over the Election Commission of India's Special Intensive Revision process following reported internal dissent among commissioners. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/enR14XHP0uw
+• Crime Branch files charge sheet in Kerala University assistant recruitment case — The Kerala Crime Branch filed a charge sheet alleging political corruption and manipulated appointments in the 2005 Kerala University assistant recruitment case. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/crime-branch-files-charge-sheet-in-kerala-university-assistant-recruitment-case/article71645668.ece
+
+🌍 WORLD NEWS
+• Prominent Russian newspaper shuts down under pressure from authorities — Prominent independent Russian newspaper Novaya Gazeta shut down operations under sustained pressure from state authorities. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss
+• Spain transport minister says he won't resign over high-speed rail disaster — Spain's transport minister refused calls to step down following a high-speed train collision that killed at least 69 people. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&amp;at_campaign=rss
+• Syrians struggle with soaring prices as crisis challenges post-Assad recovery — Syrian citizens are facing soaring consumer prices and subsidy eliminations as the post-Assad government struggles to stabilize the economy. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss
+• Ukraine invests in firepower as it inflicts a new Russian casualty record — Ukraine reported record Russian battlefield casualties while accelerating investments in domestic firepower to reduce reliance on foreign support. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• Madras HC issues notice on plea seeking probe into CJP leader Saurav Das’ nationality - Scroll.in — The Madras High Court issued a notice on a plea requesting an investigation into the nationality of Cockroach Janta Party co-convenor Saurav Das. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTUwOHM3Ty1VQjZrMV9WWWlKNkU2blpRNTJMY0hNWkxueFV3d09tbF93WE81OVA1SkhYZjg4MnFKelpZaG1wSVZvRFZXUTBzZzR2UjhDdm9OaVFuakxZSHhxMFpSQ053XzUya3ZpNlVubVd2VzVfWjM5bmxoTEV6ZnNxVUJZYmU5OENwcklNeU1tUVU4ZzhETDJnMFJlUzhQbElfT2Z2dWJiOHgwYXBRVkp1UE3SAboBQVVfeXFMT1BKNVRiYk9tTDJBbDB2VV9HWXBKam1iMXV5TDRvdkl2amFTMmlkRFNTTGpqQVdiemE5aVhaT0hMQ1JmZUJxVTRyeF9ua21XY0hCTXBsY3N0a00xX2NrSHNvYmstUFNMaW5QaUR0dWN2TkF6Q2lmb3RGV0l0cllibkdLUzMwZVJQYVFFQmVwR0ZCRU51WnF3NGgwZjI3b2ZTRVIzTzdRQm90V1dkVS1JaWFUNjNEd1hDdFR3?oc=5
+• Cockroach Janta Party backs INDIA bloc’s November 1 rally - The Hindu — The Cockroach Janta Party formally extended its support to the INDIA bloc's scheduled November 1 rally. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU8wSElQVTh6QWlrc2NBbFdDQ1RHM1B2OXZrZXZpMWtyMEtqS2FLYk5ULTRYNm5vNVhpUlJ1WW1nZWJqd19kR280Q09uSFltTm05bkpucmVDOTQ0ajdjbUNCc1cweWdMYjJ5V3RXRVpUeFh0R2N2R3lwWWMzbHhCM0dVVTlyamtRRW9DQUFWTjJERG0tZnRhTlZlVk83cVpvdU5pazQxU0tTQmc4ZWdxZVpSWHFyUdIBvAFBVV95cUxPMTZKQVJFTXVJU1h1bEc1cl9URjNXVmw4Nl9ibW5VMzJTNzZZYmFDcnZIMUlkc0hLejNMZy1nTGpkclRfc3hHOGN2a1FTbl8wVkp3bDFaNVBXdmNDakcxQWpyTkw4OWx4NHF5QUFpUDBOeXduN1F5Z1N0RDAwNnViRWU4dkwtaDNjYzliZ3I5V19abjRsVkVCUWw1WGppVXhCWDcwcVIwMndYOEN0QXFCaDlQSU5UOWplWk8ydw?oc=5
+• Cockroach Janta Party says Gyanesh Kumar must quit, backs INDIA bloc’s November 1 rally - Telegraph India — The Cockroach Janta Party demanded the immediate resignation of Chief Election Commissioner Gyanesh Kumar while organizing for upcoming protests. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUF2bm1aR2R6blUzbVZ2cGZ3enBIM1hKY1luSFhmcTdqcjJCNDJGbE9DSG9NcnpOVlY1aVVrT3M0V19wMkh4VXZFM2s1UVVrZF9OOERZLWpNR2ViRVhLWUU5Y3FzcFJacU9zSm42MEZhd1lCeXY3b3VhR1NzRWNHajY0WVQwY0VVU3JRZnhJWk0xRy0xZTJfT0VRWFlUcmowTEdGV3VyWEx4OU5mRmI4VmpIUnUxV0FGUDZSNjd4Q01EbFlpSElRUlFkVzZac3c1b3fSAdcBQVVfeXFMT1FVMWRzS0FjSU03MDVTQS1YTk1NMHoxR1oxLWROU3pSd00xdmI1dk5tWnFaOGEzM05JUExZVFlTMzNiYXV6b3VXZDlRTzZEaFBFY2VVOU5samRzUEx3YUcwNXdzczhLa3hNTHJyR3pGMk1FOFBBbnN5b25zNDFzVGcxR2ZJU2RNcUlndExtam1qd0VtSlRXRkJYNmp2MTlUSnJEWlVDUXFRLUpQcFBGRXlYUjEyUmhFMmstaEdyQkp6OVlkTjVzdHhpcFh4Y3c3QmxpRW12SUE?oc=5
+• PIL in Madras HC seeks probe into CJP's Saurav Das, blocking of social media accounts over comments on judiciary - The New Indian Express — A public interest litigation was filed in the Madras High Court seeking social media bans against Saurav Das over remarks regarding the judiciary. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOZ1FjVlZjRzhxcW9FR3hxbUFwSkp5NzBpYnJhb2RPTzViVDlfUHNOOGV4YXlfZFJsUWtsZS1oUFltSzVmN1lPMjF6S3hBX1ZaX2RJSG5qSjNQNTBucFBGSXViU1h5Z082RTYxV1pSX1lxRnVzZjdUSFVnNHJHRHhXQmdMaE90RUZtNUJUcmlQNGE4eXBZYjN1bWhDSXZ3dWE2SGJKdHYyYXBCODltVTVXTzQyeFpWUklaRmZ2QzU5RU9jZ0pzakNzWjRndDRJcWd6NXZqVWxweHhnbW9vTW9wLUZibEE0UVhfajUwXzh0R2NuTVUyU2VlV0hyZnp6X0Fncml30gGQAkFVX3lxTE1DaGh5bEhLVTVPRHctZG9VLUxIZ1BWZGh3MXk4RW1ocWpwVlNVcWpITjZHcnZldmdkOUhEWFdfV3JFd1hlX0xIbzZubzI5VjVzc21oczlMTXJ6ZXowcUlPRmt0a3ZpaVBwcXRxdVB2TmxvS0d0UklkeGNOaHA3M1ZuZ01yVURpR1doWW9hTm5RcDVWVEM2aTJzSWRpYUQyMzlEOW92OTdaTlBncHNEWVlkRHh0QUt6UEJ2NnhHc0RjalVxZzJGZ0R0b2ZOS3hmUVMtbW1LclRPSWhsOUJqdVJLVGhxZUd6ZmFNUFhPRVZUVHd5X1VpcWRTb01CbDMzLUFHcXhBVmMzZ2Jjenlra3lW?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-22-Oct-2026</id>
     <title>Daily Briefing — 22 Oct 2026</title>
