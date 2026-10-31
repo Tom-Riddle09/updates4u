@@ -3,7 +3,62 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-30T14:25:25Z</updated>
+  <updated>2026-10-31T13:47:15Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-31-Oct-2026</id>
+    <title>Daily Briefing — 31 Oct 2026</title>
+    <updated>2026-10-31T13:47:15.265936+00:00</updated>
+    <published>2026-10-31T13:47:15.265936+00:00</published>
+    <content type="text">📰 Daily Briefing — 31 Oct 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access — CISA added actively exploited Ivanti Connect Secure vulnerabilities to its Known Exploited Vulnerabilities catalog after attackers chained them to obtain unauthenticated root access. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+• Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide — CrowdStrike identified Chinese state-sponsored hackers deploying a Go-based, AI-driven penetration testing tool named ARTEX against more than 200 high-value organizations. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html
+• TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them — TeamViewer addressed a security flaw that enabled a controlled remote host to compromise the connecting client system during a session. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
+• WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours — Attackers launched nearly 63,000 exploitation attempts in a single day against a newly patched high-severity remote code execution flaw in WordPress Core. (The Hacker News)
+  🔗 https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
+
+💰 FINANCE (India + Global)
+• Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey — SEBI will soon publish a consultation paper aimed at revising foreign institutional investor compliance norms to align with international standards. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms
+• US bonds rally, sending yields to biggest monthly decline since 2023 — US Treasury yields recorded their sharpest monthly drop since 2023 as disappointing Big Tech earnings prompted a flight to safer assets. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms
+• ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation — ICICI Prudential's S Naren highlighted long-term market turnover to urge retail investors to prioritize disciplined asset allocation over stock picking. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms
+• Silver loses more than half its value from record high: What went wrong and will it recover? — Silver prices collapsed over 58% from recent peaks due to widespread profit-taking, cooling industrial consumption, and changing macro indicators. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms
+
+🇮🇳 INDIA NEWS
+• CESL to help set up EV charging, battery-swapping stations in Gram Panchayats — Convergence Energy Services Limited is partnering with local administration to deploy EV charging and battery-swapping stations across rural Gram Panchayats. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/telangana/cesl-to-help-set-up-ev-charging-battery-swapping-stations-in-gram-panchayats/article71649267.ece
+• Correction: Trans Amendment *Act, not bill. #news #peekonground #peektv — A fresh Public Interest Litigation was filed in the Supreme Court challenging provisions of the Transgender Persons Amendment Act. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/Si4JztNmSug
+• ISRO’s Successful Launch #news #peektv #isro — ISRO successfully placed the next-generation NVS-03 navigation satellite into orbit using a GSLV-F18 rocket to expand India's NavIC capabilities. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/3zjjm2dEZb8
+• 27% To 2%: India's Poverty Reduction Praised By World Bank | Real Story Behind The Numbers Explained — World Bank data revealed that India's extreme poverty rate dropped from 27.1% in 2011–12 down to 2.6% in 2023–24. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=4bbTW0jnQgU
+
+🌍 WORLD NEWS
+• US approves sale of 500 Patriot missiles to Ukraine — The United States approved the sale of 500 Patriot interceptor missiles to strengthen Ukraine's defense against ballistic missile strikes. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss
+• Why North Korea's 'elite' hackers are the prime suspect in major Binance hack — Investigators suspect elite North Korean cyber operatives were behind a major digital heist targeting cryptocurrency exchange Binance. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss
+• Police deployed during stand-off over control of top Poland court — Police were deployed in Warsaw amid an escalating standoff over the government's suspension of two top court justices. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss
+• G20 'family photo' cancelled after protests over presence of Russian minister — The traditional G20 leaders group photograph was called off following diplomatic confrontations over the attendance of Russia's foreign minister. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss
+
+🔥 ON-GOING EVENTS
+• Madras HC issues notice on plea seeking probe into CJP leader Saurav Das’ nationality - Scroll.in — The Madras High Court issued a notice on a petition demanding an investigation into the nationality of Cockroach Janta Party leader Saurav Das. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTUwOHM3Ty1VQjZrMV9WWWlKNkU2blpRNTJMY0hNWkxueFV3d09tbF93WE81OVA1SkhYZjg4MnFKelpZaG1wSVZvRFZXUTBzZzR2UjhDdm9OaVFuakxZSHhxMFpSQ053XzUya3ZpNlVubVd2VzVfWjM5bmxoTEV6ZnNxVUJZYmU5OENwcklNeU1tUVU4ZzhETDJnMFJlUzhQbElfT2Z2dWJiOHgwYXBRVkp1UE3SAboBQVVfeXFMT1BKNVRiYk9tTDJBbDB2VV9HWXBKam1iMXV5TDRvdkl2amFTMmlkRFNTTGpqQVdiemE5aVhaT0hMQ1JmZUJxVTRyeF9ua21XY0hCTXBsY3N0a00xX2NrSHNvYmstUFNMaW5QaUR0dWN2TkF6Q2lmb3RGV0l0cllibkdLUzMwZVJQYVFFQmVwR0ZCRU51WnF3NGgwZjI3b2ZTRVIzTzdRQm90V1dkVS1JaWFUNjNEd1hDdFR3?oc=5
+• Diljit Dosanjh lashes out at Cockroach Janata Party at Delhi concert for mocking his film Satluj, says 'don't teach Punjabis how to fight' | Hindustan Times - Hindustan Times — Singer Diljit Dosanjh publicly rebuked the Cockroach Janata Party during his Delhi concert following the group's criticism of his film. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOSERtR2pNcmszU2w3dmtmTExUWlZuOFNlR09fMVM3MW9yaTJ2V3h6MGJXcUpkanQxdDJuOXlfMlNWQnhKcUhFLVZvU1Y3VGtrdjBaWTl3N0pTU0NfT0hjSXg3RjltWkZMalBOUl9PaGJQNzU5UWFVajNiWUhSTzJJby1xNDQ2ZjdtQllxWklqNnM0aFdRQnc3b3B1aEx0MEsybDhMV2ZTQmtMZGR1aXNCOXRIVGZFcklxSm5Kc0x4SUNvY3l4amF3dWNNU1A2X3dlc2drMGhmSnlweU81aDNRWkJIY3pDcWw1c3RUSS1nQmlDd0RUNXJ1RVktWEg4OC1mb213VUw1dkw0Z0ZEM3oxZzdJdWZwZFE2dkNzVkJmWXVMNXlBNzJFbTRoMDh2T2vSAbQCQVVfeXFMUFZTS21iZTljUG9KV3F6RmM0VnZmTENvemE5TUw3dDlUbFFPQklGS08wQmg3UHJKTVZodEtwd0NYcTdBVVBaZGVLWldCS2tkejROSC0ySTVZb3lLTmxZbWhtaUpObWcydV9HQWloeEY2cXYwTmJFR2ozaDYweVZLTzJlak9KcDV5Wl9iSjYzbVhqVmV1SzJqSVA0dVNsSG5SMk1OZjdVZHljdy1mVlVfYW9tWWlPeTRWcVZvQ3lqaEc0MUZ2ZnAtVlZyMXh0dHI4U3A5NDB3VzNCa1ZxejV1U0k5eUcwaGpseUdVZDZqdGZfTzRKSG5mVXR0eV9sTGtic1ZZYXAxSVpDdzJtbW1jS2hGRVRCekk0R3JncGJVMXpMYkFBSnZVWkNZb05BQW9qT2dmVWE?oc=5
+• Anti CEC Protest Live Updates: CJP's Abhijeet Dipke released by police after getting conditional bail - The Times of India — Delhi police released Cockroach Janta Party member Abhijeet Dipke on conditional bail after demonstrations against the Chief Election Commissioner. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxPRGY0aS10dGNWTzlnLW5zNHZMb3BleXhMYXBiNnNURFh4TXE0LUZRNlRxbTF5UUlvMmdCajJuU2pUbC03bFZWUGVNUFFTTTdSbFpVVWdDLXlYaGFpTFZYTHlBVkowTVg3V1RHc1B2SV83eEs5NHNlQ0RFcU44eGFDRHVpemRKazlaakZtaVhnVV83Q0NCcXJiNk9FRUNxbGxoMmdQNS1IbjlCY0QxNHZEaVVOVmR0UlVJU2lMWWhmVFBqTHZKbkVPVHFNTGtSd0lkRFNrcGlTQXZlSzNtUmt2SzRUTkN5bVVBOVZKaF9yeU41Sk1PSmlrUFU2X3RzY1I0OTZsUWhLZnRrVGtVejl5NnRmamtqYmFKRzFNV2VlQmdQcU5RNW04WU43SHDSAbICQVVfeXFMT0ZiZThjTXV4TmI4VW9vMF84bXY5cmZlLVVzRVpzaUZOUmZYVmQ5NTI5bFJvVmZ4NnNhenhhRUJ0djVvb3BoNG9NQm1oQ29OS2JjMWx2Ui1pTmtrZFFORDBmN3FCOGFfTVVUWE1UNU5WQmZHZVFPb2MzOG4zM01NaXVoNzZtNGNYcEJra1N3RFlVTFJfeXhzeFc2ZVp3QVlndkN1UGEtYndvRHEtYVQ3M0I5elFsc1ZyVnV4UllSUVhvcUFUbXoxRVNOUlpMQUlsQ3hSdEY3bkNBRWFEMFpjTjlfM24xbG1HNmFvaDdQT0F5SEtvcUtVZW5BdFdPT3Nqdk5ESTh3UnZXMmFhZ0JFUF9uTWJIbDV4VkdmdWp6c1gydmNrYXRBV0hFcFduVDVhdmRR?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-30-Oct-2026</id>
     <title>Daily Briefing — 30 Oct 2026</title>
