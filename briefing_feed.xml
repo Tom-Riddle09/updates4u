@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-10-31T13:47:15Z</updated>
+  <updated>2026-11-01T14:26:54Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-01-Nov-2026</id>
+    <title>Daily Briefing — 01 Nov 2026</title>
+    <updated>2026-11-01T14:26:54.440103+00:00</updated>
+    <published>2026-11-01T14:26:54.440103+00:00</published>
+    <content type="text">📰 Daily Briefing — 01 Nov 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key — A maximum-severity CVSS 10.0 vulnerability in Canonical's LXD and MicroCloud allows attackers with network access and a public certificate to impersonate trusted clients without needing their private key. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+• Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script — Attackers stole approximately $2.7 million from Polymarket traders by compromising a third-party page-speed script to inject malicious transaction-hijacking code. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
+• FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist — The FBI officially attributed a record-breaking $6.43 billion cryptocurrency theft from Binance to North Korea's state-sponsored TraderTraitor hacking syndicate. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
+• NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection — Kaspersky identified a sophisticated malware loader dubbed NetamLoader targeting custom Windows 10 installations within Asian government bodies using .NET injection. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/netamloader-malware-targets-government.html
+
+💰 FINANCE (India + Global)
+• FPIs pull out Rs 34,843 cr from equities in Oct; turn net buyers last week — Foreign portfolio investors pulled out Rs 34,843 crore from Indian equities in October before reversing into net buyers during the final week of the month. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms
+• Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel — The Indian government revised fuel export tariffs, raising duties on diesel and aviation turbine fuel while dropping the levy on petrol to zero. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html
+• From Wall Street to D-Street: What history suggests for S&amp;amp;P 500 returns, impact on India stock market, Sensex, Nifty — Market analysis highlights that crude oil prices, US Treasury yields, and dollar strength pose stronger near-term risks to the rupee and Indian equities than US midterm politics. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/from-wall-street-to-d-street-what-history-suggests-for-s-p-500-returns-impact-on-india-stock-market-sensex-nifty-11793526487765.html
+• Gold, silver rates approaching Dec 2025 levels; energy prices, inflation, Fed weighing on investor sentiments - Details — Domestic gold and silver prices dropped sharply following pressure from rising energy costs, sticky inflation, and cautious US Federal Reserve expectations. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-approaching-dec-2025-levels-energy-prices-inflation-fed-weighing-on-investor-sentiments-details-11793521144409.html
+
+🇮🇳 INDIA NEWS
+• Temple priest gets life imprisonment for recording obscene videos of girls, selling them to foreigners — A Mathura court sentenced a temple priest to life imprisonment and imposed a fine for recording and selling illicit videos. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/uttar-pradesh/temple-priest-gets-life-imprisonment-for-recording-obscene-videos-of-girls-selling-them-to-foreigners/article71653319.ece
+• A.P. civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes — Urban local body elections concluded across multiple districts in Andhra Pradesh amid isolated clashes and opposition demands for repolls in select segments. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/andhra-pradesh/ap-civic-polls-largely-peaceful-jagan-demands-repoll-in-pulivendula-after-clashes/article71653094.ece
+• 'Chalo Dilli' protests: Rahul Gandhi assures 'legal action against PM Modi'; Kharge says 'we're not afraid to fight' | LIVE — The opposition INDIA bloc held a major protest rally at Delhi's Ramlila Maidan demanding accountability and legal action over alleged electoral irregularities. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece
+
+🌍 WORLD NEWS
+• Shops looted as German cost of living protests turn violent — Widespread cost-of-living protests across major German cities escalated into violent clashes and commercial looting. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss
+• Crypto firm Binance covers 90% of losses after $6.3bn hack — Binance pledged to cover 90% of user losses resulting from an unprecedented $6.3 billion cyber heist linked to North Korean state hackers. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss
+• Judge orders Trump administration to stop threatening US election officials — A US federal judge issued an order barring federal officials from sending intimidation letters to state election administrators regarding voter rolls. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&amp;at_campaign=rss
+• More than 50 million votes cast in US midterm elections: What does it mean? — More than 50 million Americans cast early ballots as the high-stakes US midterm elections enter their final days. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Hey guys! I'm one of the core developers of MOSS-Image. AMA! — Developers released MOSS-Image, a new open-source 5-billion-parameter Diffusion Transformer model for image generation. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1x7zf1r/hey_guys_im_one_of_the_core_developers_of/
+• Krea 2 Turbo with my 4-step LoRA and Nvidia PiD = Super-Fast High-Res (ComfyUI) — Creators developed an optimized ComfyUI pipeline pairing Krea 2 Turbo with a 4-step LoRA and Nvidia PiD for fast, high-resolution rendering. (r/StableDiffusion)
+  🔗 https://www.reddit.com/r/StableDiffusion/comments/1xl34bd/krea_2_turbo_with_my_4step_lora_and_nvidia_pid/
+• Screen Studio 4.0 — Screen Studio 4.0 released new creator-focused features including transcript-based video editing, glass loupe zooms, and custom camera cutouts. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/screen-studio
+• Riverside Agents — Riverside launched Riverside Agents, an AI suite designed to automate end-to-end video production, editing, clip generation, and social publishing. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/riverside-fm
+
+🔥 ON-GOING EVENTS
+• Cockroach Janta Party Backs ‘Vote Chori’ Fight, But Skips INDIA Bloc’s Ramlila Maidan Rally - The Times of India — The Cockroach Janta Party expressed support for broader electoral integrity grievances while opting out of the joint opposition rally at Ramlila Maidan. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYm5MSVg3UzQtVXZHSExBcGNaMDZXejNhbzFpTFdCNmlQVURhc2l4V3VyamVfVVh1ZXB6TjNxWkEwN0YxcjNyMUxvRnMyVGQ4NnI4Y3J0TkZnQVdaOUdseENsNG01a1VfeGF0b194dlAtUzJZcDg0MEl6cDZvTXJ5ZU1jcUpqYjdsX2xNSUJWNWItM1F1eXhYdkYzdTdkOUxleEJ4T0NxUXRlUjN4c3ItQ0hjQTM4Q1g4MzJlM21vYUpLczZsMWhSWFFKMkJFa2lhbVdXVWVMOXNqOUNpQ1Q4Q09uQ1E5cEVneVBjRC1wLVLSAfYBQVVfeXFMTlpaSF9YNEVhZGJFNXdtalhrTy1Tc2xLV0lqZEdGcHB1dEZmNWw1NHdRWkNaWnFROG9xTkhOcHIzN1A1c183ZmtDZHZoc3Y1WDZVNWZ0OEJLb09UY2VjUk1BX2xnSVNYdmk4UlBhdFExSDRtaURMUTNrMVU1WGlyaTdPM3hNYWFXb0tzVUVYU3FFZ0owSzczVWVXMVN2cEQ2SHFNVHgxODliRjZDdDkxRGdiUTJ6SDBBcGpSZ1BCNmgzOW8yd2lqcG03aE5oNjV6ODQweUlkcm02VVVnRGdnMm9aV1BzTmNsSmJldnBNSjJ2eDhYR1V3?oc=5
+• Indian opposition parties stage mega rally seeking election chief’s resignation - France 24 — Indian opposition leaders organized a mass demonstration in New Delhi calling for the immediate resignation of Chief Election Commissioner Gyanesh Kumar. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUFCbjhfMHNTYTdJWlBEang3VDUxTG4wVFNGZkZlZmZrOFdPT0ZlU0l6N01fWkpwNVpDdl9FMFBpMmtKYi1kRFJySW53UWo4ODlTNnA4V2Y0YlZ4V3hYV1poNzRPNGNfUllKZUNzRlgyUmNXMmJMSzF4aWstOWtPVGlDcnM4emMzb1lSbTg4ZFp1QUhmZlRZTS1jbGNETEtNdkdodG9UQjZhdVE4VFl5Yjl2cWVvNUtuYlBVVzlXUXRQRkphTFRsQUlzYUJUeTJZdzN6ajNzRlg2QlU?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-31-Oct-2026</id>
     <title>Daily Briefing — 31 Oct 2026</title>
