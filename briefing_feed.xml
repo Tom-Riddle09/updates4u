@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-11-01T14:26:54Z</updated>
+  <updated>2026-11-07T14:16:42Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-07-Nov-2026</id>
+    <title>Daily Briefing — 07 Nov 2026</title>
+    <updated>2026-11-07T14:16:42.494866+00:00</updated>
+    <published>2026-11-07T14:16:42.494866+00:00</published>
+    <content type="text">📰 Daily Briefing — 07 Nov 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub — Anthropic's Claude Code CLI tool can inadvertently save approved bash commands containing plaintext secrets and API keys to files that developers subsequently push to public GitHub repositories. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html
+• Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot — Threat actors are actively weaponizing a newly disclosed OpenSSH vulnerability, tracked as SSHole, to gain root access on Linux servers with passwordless accounts. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+• Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services — Chainalysis disclosed that a recent cyber incident compromised names, password hashes, and active session tokens across its entire user base, prompting the shutdown of key platforms. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+• Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560) - watchTowr Labs — Security researchers uncovered critical pre-authentication remote code execution flaws in Barracuda Email Security Gateway appliances allowing unauthenticated root compromise. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1xouqpj/barracuda_networks_is_your_new_best_friend/
+
+💰 FINANCE (India + Global)
+• Wall Street grapples with $5.7 trillion rout as AI bets unwind — A massive $5.7 trillion sell-off hit Wall Street as investors re-evaluated elevated valuations and massive corporate capital expenditure across the AI sector. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms
+• Dollar jumps after strong US payrolls report — The US dollar rallied sharply after stronger-than-expected labor data raised market expectations of an upcoming Federal Reserve interest rate hike to nearly 80%. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms
+• Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains — Indian market indices have seen gains concentrated strictly within mega-cap stocks, while broad mid-cap and small-cap segments experienced sustained declines. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/diwali-cheer-missing-nifty-lights-up-but-your-portfolio-may-be-burning-whats-driving-the-disconnect-samco-explains-11794050891575.html
+• NSE overhauls key trading rules: CAS, F&amp;amp;O expiry trading hours revised - What changes from December 7? — The National Stock Exchange announced revisions to its Closing Auction Session rules and expiry-day trading framework effective December 7. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html
+
+🇮🇳 INDIA NEWS
+• Abhishek Banerjee alleges attack by ‘BJP hooligans’ on residence, claims 7th attempt on his life in 6 months — Trinamool Congress MP Abhishek Banerjee alleged that BJP workers attacked his residence in West Bengal, calling it an attempt on his life. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/kolkata/seventh-attempt-on-my-life-in-six-months-abhishek-after-his-residence-attacked/article71677292.ece
+• Samyukt Kisan Morcha Looks to Revive Farmers' Agitation, 'Ill-Conceived' Agnipath Scheme Partially Rolled Back — The Samyukt Kisan Morcha announced plans to reignite farmer demonstrations across India following reports of partial modifications to the Agnipath military recruitment scheme. (The Wire (via Kill the Newsletter))
+  🔗 https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn/entries/9l0ilh0fwhb98kpm5yce6dkut1ow2nj97zco5ctt.html
+• Maharashtra CM Posts 19 Tweets on Rs 20-Crore Kumbh Event Amid Farmer Suicides, EC Defends Form 6 for Reinstating Deleted Voters, and Agniveers’ Service Extended From Four to Six Years — Political debate mounted in Maharashtra over public expenditure amid agrarian distress, while election authorities defended ongoing voter list revision procedures. (The Wire (via Kill the Newsletter))
+  🔗 https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn/entries/irgxphb49ukroycn4bcaqi1k7k6vhgudc5jvd7zs.html
+• Delhi Police Issues Takedown Notice to IFF,  Adani and OpIndia Named ‘Press Freedom Predators' — Delhi Police issued a content takedown notice to the Internet Freedom Foundation as global advocacy groups flagged growing pressures on Indian digital rights and press freedom. (The Wire (via Kill the Newsletter))
+  🔗 https://kill-the-newsletter.com/feeds/pni5uc05xl0drh97xuxn/entries/rp5k4h39dpe51aj6bmbppwuyhw5sx4u2uqxo3sdt.html
+
+🌍 WORLD NEWS
+• Paraguay's president impeached and under house arrest after bank collapse — Paraguayan President Santiago Peña was impeached and placed under house arrest following a systemic banking collapse that wiped out citizen deposits. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss
+• Ukraine's power network suffers further damage after fresh Russian strikes — Russian missile and drone strikes inflicted severe fresh damage on Ukraine's power grid immediately ahead of scheduled diplomatic talks in Abu Dhabi. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss
+• Spain's rail authorities face European fraud probe after Urda rail disaster — European prosecutors opened a formal fraud probe into the allocation of EU rail modernization funds in Spain following a fatal train derailment. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss
+• Pro-Russian hackers leak Italian foreign minister’s data on dark web — Pro-Russian hackers leaked sensitive personal and official data belonging to Italy's foreign minister on the dark web. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Instagram Edits for Desktop — Meta released Instagram Edits for Desktop, a free desktop video editing application integrated with AI agents for content creators. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/instagram
+
+🔥 ON-GOING EVENTS
+• Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV — The central government accused the Cockroach Janta Party of receiving illicit foreign funding and having unauthorized overseas links to coordinate ongoing demonstrations. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
+• Abhijeet Dipke, Prakash Raj, to lead ‘Jantar Mantar at Kochi’ rally to safeguard voting rights - The New Indian Express — Activist Abhijeet Dipke and actor Prakash Raj led a major demonstration in Kochi to protest against the Election Commission's Special Intensive Revision roll changes. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNakhwSm9FWUZSNDNiVTdfYWt5N0FaeDhfLU1lXzRzUkxvY3UwdTZ3NXBuem5VQkpjOFM2SHZ6WDNDY0k3M1BOVnZYTGRNYVYwTVhBOFN2MEdqU3dacWI4bUgyaDlCVnRmWHlQTDRQUm45MjNUdEcxeEFiUkt4X0RCU1NVT1RpZmdLRGJYLUhvU0I3b3NEMVQxU3k5Ry1PRzlDQUNyTTlMLXl4cGwyVjNHdG1uQjFPbkp6TzRxZWVna1ExRFlMeUpJLWVhOERIak5iWjB6LVU3MWpDXzR3dzRwV3phVdIB8AFBVV95cUxPalctSlFNMzdkZmRpOHBwYTljNW9HNlBNbGNac3g2aGZ6b3k0c1BKZ3dnQ2IwVG1RcVNoeE5QdlMwWHo2aWgzRDI2TlZuTm04UVZIa2dPTmpSRXJxZzVYLXkzNFlRQjJhQkFwX0h0WUlSVGFSQkNhUm45YzZRYnlrR2c4dGxqa3BweWZaLWtia2hfcVNkMkVZOUZpU2lLRkNyeG9GaHAzUUYxSVBYWkdEaUo1Y2dYNHg3UU1SalJLNEJNREp1QUdYNURacHZzWHMzUFlXVGxEcGUtOVZ0cEdDbk9LS01ZcVdWUnVVdmY5R2Q?oc=5
+• ‘We Will Not Back Off’: CJP's Saurav Das Thanks Supporters After Tihar Release, Says Fight Will Continue - News18 — Cockroach Janta Party leader Saurav Das announced the continuation of electoral reform protests following his release from Tihar Jail. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS19pYkhnbFpReTUxNWhNYmRZS0JVbklNcjVFUGR3U25saWVRX3pWSzVpSzFfeWxTMmR6T3VPZVVQaGxUb1FsZzdyUHhuQW5HSk1TQlo2Y3RPbVRYNVE4UnFzNldtbW0yN3ZoUy1wSWFqOU9KQzJwVWdLWkxPdnZvc0gzM3NkaGdVSThFTWpBbFBYZFdteHV2SFFKVVNTYlIzdDVwczhUN1RkLUlWX2xCSzU2Q2tkTnQ3ZDdzV1JwVzNfWmRyNEtNcWtCbDhuVnhwYTdleC1sbXPSAd4BQVVfeXFMT1VLdEhNVFJUWnE2VGJ6MUJTN0l3NTFscktyendrX3ZwS1MzT3o5VWt5OUJVaS12X2VNdEdCcUo1VFRKdlY4OE51M19HcTVCbEt6RFZfV0FXR0VaZ2xvcjV1VnMwMDh1a00zZDVwZjBGX1hCSmd4eVdiRTctbWJqUVVXVkxqQUhwVzRuWHR3S0c0dFU4R1o0eGJra1dKSEFZVDhJdkY2MW1Jd0phbzlQSUlZOGxUcWJaM1RaTkxRZGFIdUJLTU5LRUNVSHEzeGtmT3Y2dndaMGRoMVdEVndB?oc=5
+• Dipke Vows to Continue Fight Against CEC Until Impartial Elections Are Ensured - Deccan Chronicle — Protest organizers declared that nationwide demonstrations will persist until the Election Commission adopts stricter impartiality standards. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTV9nTE9QNld5N3dpZTZSWnA5YVBicHc2eVE4eHFkT1BiWU9ibWptWks3bDVGU0NjQ0dQc2N1UEFzOXg2YmpCbWtSZkZ6QlVqUU1GMzcwMnpxYnN4aXpfTkdfS0dZSjJQamt5TXVLRHVuV1p6X1ZJUVFRYnlIYVp2QUdlLTdJQUstRldyNi1CeW8wcW11TGpqc3E1TjN5cHNranNCVXkwR3lrNHVUV0FtWlhQY29ydkRZYmgxTHZVaDc0eDjSAcgBQVVfeXFMUEFTTHlRYmRINEdQNWx3a3N6cEIyVjRvSC02dGFhWE8xQ2RiT3B5em5ROUdlMFF5aHZuZ0lldlBFYlZuOHNYSm4tUlNXQjBWYk5pRWYyaS1OcUxjaDNlZlVRQ2F1YV9XX2x0UHQyM04wTmoyREJYRDBQSDV1aG56RVFYcmNuRU9TWUI3WURNRE9kMnctV0tUaHRyZTBEUU5rVkZZeURveEtSTi10TWk2VzlmQzJuVllseFNodm1ScGhqRlhBc1E5VmI?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-01-Nov-2026</id>
     <title>Daily Briefing — 01 Nov 2026</title>
