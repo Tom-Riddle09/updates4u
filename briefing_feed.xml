@@ -3,7 +3,62 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-11-07T14:16:42Z</updated>
+  <updated>2026-11-08T14:27:46Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-08-Nov-2026</id>
+    <title>Daily Briefing — 08 Nov 2026</title>
+    <updated>2026-11-08T14:27:46.144741+00:00</updated>
+    <published>2026-11-08T14:27:46.144741+00:00</published>
+    <content type="text">📰 Daily Briefing — 08 Nov 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Microsoft Patches More Than 1,400 Security Flaws — Microsoft issued security updates addressing over 1,400 vulnerabilities across Windows and related software in its latest patch release. (Krebs on Security)
+  🔗 https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/
+• I spent countless nights digging into PHP2Shell. Here's a deep dive into how it actually works, from memory to PHP internals to a real exploit. — A technical deep dive examines the internal mechanics, memory manipulation, and exploitation flow of the PHP2Shell vulnerability. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1xqlw37/i_spent_countless_nights_digging_into_php2shell/
+• ARTEX attack — Security researchers report that automated threat agents under the ARTEX campaign are actively scanning GitHub to exploit exposed credentials and secrets. (r/netsec)
+  🔗 https://www.reddit.com/r/netsec/comments/1xqmhgk/artex_attack/
+
+💰 FINANCE (India + Global)
+• Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff — ANMI projects Indian macroeconomic growth above 7%, supported by falling crude prices and steady domestic institutional inflows. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms
+• Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan — NSE's chief executive stated that robust macroeconomic fundamentals and rising domestic savings continue to attract foreign capital back to Indian markets. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms
+• Global AI sell-off turns into India's gain as FPIs pump  ₹46,000 crore in 5 sessions; will the buying spree sustain? — Foreign portfolio investors directed nearly ₹46,000 crore into Indian equities over five sessions amid a retreat from global AI stocks and easing oil prices. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/global-ai-sell-off-turns-into-indias-gain-as-fpis-pump-rs-46-000-crore-in-5-sessions-will-the-buying-spree-sustain-11794135940793.html
+• Muhurat Trading 2026: Samvat 2082 ends, Samvat 2083 begins - Sensex, Nifty end in red first time after 2017 | Reasons — Indian benchmark indices opened Samvat 2083 with their first Muhurat trading decline since 2017, weighed down by geopolitical tensions and elevated US bond yields. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html
+
+🇮🇳 INDIA NEWS
+• Assam OIL facility fire: death toll rises to four as another injured dies; four suspended — A high-level inquiry was initiated following a fatal fire at an Oil India Limited facility in Assam that claimed four lives. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece
+• ‘Dimagi Naxals’ instigating people against Constitution: PM Modi as Maoists eliminated — Prime Minister Narendra Modi addressed security forces in Bastar, calling for the defeat of ideological networks supporting Naxalism. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece
+• Delhi records ‘very poor’ air quality on Diwali with 376 AQI — Delhi's overall air quality index deteriorated to the 'very poor' category during Diwali, with several localities recording severe AQI levels. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece
+• Revanth sets target of making one crore women millionaires by 2034 — Telangana Chief Minister A. Revanth Reddy announced a policy target to turn one crore women in self-help groups into millionaires by 2034. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/telangana/revanth-sets-target-of-making-one-crore-women-millionaires-by-2034/article71680974.ece
+
+🌍 WORLD NEWS
+• Israel's president tasks opposition leader Eisenkot with forming government — Israel's president tasked opposition figure Gadi Eisenkot with attempting to form a governing coalition after an inconclusive election. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss
+• US offers $20m reward for information about Iran's nuclear programme — The United States government announced a $20 million bounty for actionable intelligence regarding Iran's nuclear operations. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss
+• Poland mourns six killed in attack as authorities launch ‘terrorism’ probe — Polish authorities launched a formal terrorism probe into a shooting in Krakow's central square that left six people dead. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss
+• Russian strikes on Ukraine leave hundreds of thousands without electricity — Extensive Russian attacks on Ukrainian power infrastructure severed electricity access for roughly 850,000 residents across two regions. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss
+
+🔥 ON-GOING EVENTS
+• 'Arrest me across the country': Dipke vows to keep raising Tricolour, likens Modi rule to British - The New Indian Express — Cockroach Janta Party organizer Abhijeet Dipke pledged to continue nationwide protests despite threats of detention. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjZMVGNLMVF0Q2JadkgzN1FlU1E1dlJjQXE0TWpSUXlhaDlJYkJpMXpiTkltSHo4RkpxdVhLOTZkdEYwUjhDT2VhcDI5MDlNZ0VHUHVtR2xXcHo4dUE5MjV4cWtOdy0wbWRXcGlOQ0FjaTA0dzVkVkNRUVo1N3RzVWQyX3NXQXRMTmxibmE5czhPYXBvVGlMLThnb25oVzhSZGkxVWJLeks4eWlGa081bnFfdS0tRDdoMDNocTFyMnJMbUc2ZXM5QVowY0FfNnpheFHSAd8BQVVfeXFMTkp3elo4V1VCVGFCX3NWRzFvV3pOazR5aWMyQ0p6QTR1RWFONVdaR2pHZHZSYTkta3BJdjNvQXlOQlNKWER2cFQyOVBzd0lDeng3cXFvTTI0eGlaSmtRcUZWMEQySHQzdWlHVHdqcHVMbjQzZzkwXzZiWlNYTERGVUU2d2U1YjFneEdxYzJJM0xLLW5Ndmx5XzlFeFlleVd1RF9HcVZYN0NUZUsxcUtYc0lwTHRNS0RRZ2gxd3lQU1k4UnZ4NjlzX3lHak5rMXlqN3k1NC1TN3I3RlBiaDlQcw?oc=5
+• CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC — Key organizers of the Cockroach Janta Party demonstrations were released from police custody after protesting outside the election commission. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+• CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for ‘free publicity’ over cockroach effigy - The Hindu — Protest organizers responded publicly to Delhi Ramlila effigy burnings targeting their movement, citing increased visibility for their campaign. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa20zc240V2s5dG8tS3pMWTEtb1VTYV9tVUJZLUp6eGxDQXh3X1EwV3JzSzVOVEQ2VEZNNWlIV3pSTHhkVy00ZS1mU1hIZUNJZUs4c0E5dlpjeEVkTUF2MENfNmwwam9IdjhLOEJhQnZrcUE0Rjhtc095dHZmMTg0NTlLanA1OXo3eVF6aTM2WmdwYTBsdmNKUVVGMFZUS2RzLU9fVFhCZDhUVVlXR1Nyd1lxeXFpZUhyRDBzV3MtUnBhcVlRbkZEQ3dBM09KcTYyWkpIMEFhckJjZjAyTjlzeHZuaFRad9IB7AFBVV95cUxNb0R0V2xHenJnS0dMWGxuZE5qN1dqSmtMWV9za1JmY2ZKSlpEbGtvMGxRVkZWYkl4RklPUVlEOFdEUHI4dEdvTUZzVVIzdjZLWmFYNXQ3MGV5MjBkV2stX1FRN1ZhVXdMUXZUeGFsM0tYNGo5eGNhT0ozQ0tZSmJfb1QzRVJna2NyRUd6dGowUkJFNW1hYmIybzZKc2ZxR3NFeDhfSUJ0SWU0WVdQRVJCdG42TFU3NmlTdkVEV2xMd1hnRkJwOHNSNndsb3docTBTZy1nalI1NkltWXA1RlgyRTUwcWhlTDVsdDJHdQ?oc=5
+• Indian Gen Z ‘cockroach’ protesters aim to upend assumptions about democracy – and populism – in Modi’s India - The Conversation — Political analysts examine the mobilization strategies and democratic grievances driving the youth-led Cockroach Janta Party protests in India. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHpNdlNSWU9Ka0tlcFJGRkVfMExJN2F5d2pzaVMyWVhTVTdRZjl4cnc0eU9DRjhiM09HZ3NNWnRxdWpzWlFwT18zSXlzcm9Ec3dTUmpoVGMwVkdIeVYwaWZWMEt6XzFzODlGMUVUejc3ZnprRDF2eWU3aGhIQ2Q2al9OMFBvcWNjdFVoVnlOR3VqMkpoZFVXZTFDdzZRVVVmY0tJazFyRUQzVHBPVVVwZjZqNjEwSGVnNW5ESFNKbFg0ZlExUGR0Vzh2dVRhWm1qRzVZ?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-07-Nov-2026</id>
     <title>Daily Briefing — 07 Nov 2026</title>
