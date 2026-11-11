@@ -3,7 +3,68 @@
   <id>urn:briefing:personal-daily-briefing</id>
   <title>My Daily Briefing</title>
   <link rel="self" href="https://raw.githubusercontent.com/Tom-Riddle09/updates4u/main/briefing_feed.xml"/>
-  <updated>2026-11-08T14:27:46Z</updated>
+  <updated>2026-11-11T15:29:28Z</updated>
+  <entry>
+    <id>urn:briefing:briefing-11-Nov-2026</id>
+    <title>Daily Briefing — 11 Nov 2026</title>
+    <updated>2026-11-11T15:29:28.309282+00:00</updated>
+    <published>2026-11-11T15:29:28.309282+00:00</published>
+    <content type="text">📰 Daily Briefing — 11 Nov 2026
+
+💼 CAREER (Cybersecurity + Employed Individual)
+• Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes — Microsoft patched 1,259 security flaws across its software ecosystem, including an actively exploited Outlook vulnerability that exposes NTLMv2 hashes. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
+• Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches — CISA added actively exploited vulnerabilities impacting Cisco BroadWorks and Openwave Messaging Webtop to its Known Exploited Vulnerabilities catalog. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+• Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits — Threat actors are actively targeting Qlik Sense servers with PowerShell reverse shells while staging exploits for Veeam and ActiveMQ vulnerabilities. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+• eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise — Indian certifying authority eMudhra revoked eight additional intermediate certificate authorities following a key compromise stemming from an internal Python script. (The Hacker News)
+  🔗 https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
+
+💰 FINANCE (India + Global)
+• India to switch bonds worth 250 billion rupees next week — The Reserve Bank of India scheduled a 250 billion rupee switch auction to replace short-term debt maturing 2027–2029 with long-term 2062 bonds. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-to-switch-bonds-worth-250-billion-rupees-next-week/articleshow/135740426.cms
+• Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets — The US dollar strengthened as higher-than-expected inflation data and hawkish Federal Reserve commentary spurred bets on further interest rate hikes. (Economic Times Markets)
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms
+• Nifty 50 target: Index in sweet spot? 28,000 soon? HSBC, Citi and Bernstein raise targets after sharp 13.5% recovery — Major brokerages including Citi, HSBC, and Bernstein raised their index targets for the Nifty 50 following a sharp 13.5% market recovery. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-target-index-in-sweet-spot-28-000-soon-hsbc-citi-and-bernstein-raise-targets-after-sharp-13-5-recovery-11794402943483.html
+• Gold or Silver? Which investment will offer higher returns after rates correction? What experts say; key levels to watch — Precious metals analysts outlined portfolio diversification strategies between gold and silver following recent interest rate corrections. (LiveMint Markets)
+  🔗 https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html
+
+🇮🇳 INDIA NEWS
+• Terror attack in J&amp;K’s Kulgam #news #peektv #terrorattack #jammukashmir — Two CRPF personnel were injured after suspected militants opened fire on a security checkpoint in Kulgam, Jammu and Kashmir. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/BsehrLczCFY
+• Was Delhi's Diwali Pollution Data 'Manipulated'? More Than Half Of Delhi's AQI Stations Go Blank — An analysis revealed that two-thirds of Delhi's government AQI monitoring stations went offline on Diwali night, raising concerns over data accuracy. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/watch?v=qprWMHO55nk
+• Thick layer of smoke spread across North India and Pakistan #news #peektv #pollution #nasa — NASA satellite imagery captured a dense layer of smoke and haze blanketing northern India and Pakistan as regional air quality severely degraded. (PeekTV (independent media, YouTube))
+  🔗 https://www.youtube.com/shorts/EcRlbTTXcOU
+• Sabarimala gold theft case: requests for prosecution sanction made before authorities, SIT informs Kerala HC — The Special Investigation Team informed the Kerala High Court that it has sought government sanction to prosecute suspects in the Sabarimala temple gold theft case. (The Hindu - National)
+  🔗 https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-requests-for-prosecution-sanction-made-before-authorities-sit-informs-kerala-hc/article71686591.ece
+
+🌍 WORLD NEWS
+• Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says — The US Department of Justice charged three Iran-backed suspects over attack plots, including an operation targeting a UK airbase used by US forces. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss
+• Spain sees widespread disruption in first general strike for 14 years — Spain faced widespread disruptions across public services and transportation during its first nationwide general strike in 14 years. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss
+• Kenya discharges last Ebola patient in major milestone towards virus-free status — Kenya discharged its final Ebola patient and initiated a 42-day countdown toward being officially declared free of the virus. (BBC World)
+  🔗 https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&amp;at_campaign=rss
+• Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war? — Policy disagreements have emerged within Donald Trump's inner circle regarding whether to pursue an economic blockade or diplomatic negotiations with Iran. (Al Jazeera)
+  🔗 https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss
+
+🎬 VENTURE (AI &amp; Content Creation)
+• Seedream 5.5 by ByteDance — ByteDance launched Seedream 5.5, an AI image generation model optimized for up to 100 rounds of sequential editing. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/seedream-4-0
+• Scribe v3 by ElevenLabs — ElevenLabs released Scribe v3, an automated transcription model supporting over 90 languages with a 27% reduction in error rates. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/elevenlabs
+• Shot.video — Shot.video released a mobile production tool that enables multi-camera video recording and synchronization using everyday smartphones. (Product Hunt - AI category)
+  🔗 https://www.producthunt.com/products/shot-video
+
+🔥 ON-GOING EVENTS
+• Indian court orders release of 'Cockroach' movement leaders, media say - Reuters — An Indian court ordered the release of detained leaders of the 'Cockroach' protest movement. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdFMVpyRDdwNF9tdjRPd1RsLXBmZmd6R29tcEdiLW1Nam5xbjFzNmNrXzRrSm00UWtzYWpNM0pRdVpJVXUtOFFGd3pyazJUa08xek5TN3NlNl9KQ21vc0doQXB4VFUwbEhsMGc4anNWUFZ0elRTRzBBbFFheWREeVNpUHFjY2U5bl9zOG50RkVMMjQyc21YQTZEYXZsT1dKNUtsY1RYY0Y0MGRqTkNoM193?oc=5
+• Dipke seeks exemption from appearance in ‘Lehra Do Tiranga’ protest case in Delhi - The Hindu — An accused individual in Delhi's 'Lehra Do Tiranga' protest case applied for an exemption from mandatory court appearances. (Cockroach Janta Party protests (Google News search))
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGp0VzBlRTdZYXNfRzA0RWJBNmJCZFpwZUVXMkk1bkFEVzBleC1zRDRQTHpYaUx4NEFNMTJqOFN1N0dPRGUwbVdrQnJaaVZyN1FfSmVEVXRuTlNKYW9sdjRRSHN5bUZLMFd4N1o0OFZ3dDB3a2g1Vi1RSHhDdWM5TmRIM3VOa2xhaW91TWhLNDFiVjJsYnlfVFZCcE5JZ08zNDNLRE5IOGowbU93V2lRT0JjNGZpQ1BpcUhPMV81SG55SDkzQjIwZzhkRHRGUU1kUVJHV19oVEl2d9IB4AFBVV95cUxNUnViNUVKN19GV1NEclNhMjJkLUQtVzVuejBnaWhVQlY1VUlUZU52dkowbWdMak9icXVpakdTa0Q5ZlVqXzkxTTJZSnROdjNDelI5ZnVBb2pBNER4b1NNMFEyd0FfT2R0V0Y5bWQtVTdaWkhFNGU2eWFaV1VUcXZXS3JkdHFTd2dNcGRSQ0MtOWZmZjNKT3c0ZF93VzBreEJoVWZBSERPRXFHRTB6OHF2Zk05dTNURzAxOXhIOFdjUHZ5YlRrVzcwXzNabHk3aU5kQXNBOGRzN2ZLT2YzdjJlUA?oc=5</content>
+  </entry>
   <entry>
     <id>urn:briefing:briefing-08-Nov-2026</id>
     <title>Daily Briefing — 08 Nov 2026</title>
